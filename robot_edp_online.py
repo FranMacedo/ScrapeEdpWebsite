@@ -37,7 +37,7 @@ def connect_driver():
     prefs = {"download.default_directory": downloads_path}
     chrome_options.add_experimental_option("prefs", prefs)
 
-    driver = webdriver.Chrome("C:\\Program Files (x86)\\chromedriver\\chromedriver.exe", options=chrome_options)
+    driver = webdriver.Chrome("chromedriver/chromedriver.exe", options=chrome_options)
     driver.get("https://online.edpdistribuicao.pt/pt/Pages/Home.aspx")  # Inicio do website pretendido no webdriver
     action = ActionChains(driver)
 
