@@ -27,6 +27,16 @@ download_dir = os.path.join(curent_dir, 'downloads')
 logs_dir = os.path.join(download_dir, 'logs')
 downloads_path = os.path.join(download_dir, 'files')
 
+# if dirs don't exist yet
+if not os.isdir(download_dir):
+    os.mkdir(download_dir)
+
+if not os.isdir(logs_dir):
+    os.mkdir(logs_dir)
+
+if not os.isdir(downloads_path):
+    os.mkdir(downloads_path)
+    
 destination_path = "Z:\\DATABASE\\ENERGIA\\DATAFILES"
 
 
