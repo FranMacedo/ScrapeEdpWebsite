@@ -78,8 +78,10 @@ def multi_robot(cils_or_cpes=None, gestao=None, date_list=None, date_begin=dt(20
 
     if gestao:
         df_gestao = df_db.loc[df_db.gestao == gestao, :]
+        df_gestao = df_gestao.loc[df_gestao.abastecimento != "BTN",:]
         cils_or_cpes = df_gestao.cil.tolist()
-
+    print(cils_or_cpes)
+    print(len(cils_or_cpes))
     report = {}
     missing_cils = []
     for cil in cils_or_cpes:
