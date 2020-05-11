@@ -11,10 +11,5 @@ else:
 
 
 multi_robot(gestao='EGEAC', date_list=date_list, replace=True)
-
-multi_robot(gestao='EGEAC', date_list=date_list, replace=False)
-
-
 multi_robot(gestao='SCML', date_list=date_list, replace=True)
-
-multi_robot(gestao='SCML', date_list=date_list, replace=False)
+multi_robot(gestao='CML', date_list=date_list, replace=True)
