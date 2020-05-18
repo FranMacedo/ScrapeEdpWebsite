@@ -54,10 +54,11 @@ def connect_driver():
     global wait
     global wait_long
 
+    wait_short = WebDriverWait(driver, 10)
     wait = WebDriverWait(driver, 30)
     wait_long = WebDriverWait(driver, 100)
 
-    return driver, action, wait, wait_long
+    return driver, action, wait, wait_long, wait_short
 
 
 def print_text_both(texto, file_name):
@@ -207,8 +208,9 @@ def lista_button(driver):
             # lista = wait.until(ec.presence_of_element_located((By.CSS_SELECTOR, "#btn-see-all")))
             lista.click()
         except NoSuchElementException:
-            pass
-    return
+            return False
+
+    return True
 
 
 def test_book(filename):
@@ -589,7 +591,7 @@ def robot(inst, ym, substituir):
       print_text_both(f"{cil} sem credenciais para o site da EDP...", f_logs)
       return report
 
-  driver, action, wait, wait_long = connect_driver()
+  driver, action, wait, wait_long,wait_short = connect_driver()
 
   print_text_both("\nProcessing CIL: {0} | CPE: {1}".format(cil, cpe), f_logs)
 

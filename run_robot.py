@@ -1,9 +1,10 @@
 from robot_edp_online import robot, logs_dir
-from my_functions import connect_db
+from my_functions import connect_db, find_between_r
 from datetime import datetime as dt
 import pandas as pd
 import os
-df_db = connect_db('energia', False)
+from glob import glob
+df_db = connect_db('energia', True)
 
 
 def str_to_dt(d):
@@ -92,7 +93,7 @@ def multi_robot(cils_or_cpes=None, gestao=None, date_list=None, date_begin=dt(20
         else:
             missing_cils.append(r[0])
 
-    
+
     for cil in missing_cils:
         result, r = robot_inst(cil_or_cpe=cil, date_list=date_list,
                                date_begin=date_begin, date_end=date_end, replace=replace, report=report)
