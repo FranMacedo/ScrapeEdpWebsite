@@ -14,6 +14,7 @@ requires database table that can be accessed through function ```connect_db``` f
     pip install -r requirements.txt
   ```
   
+  
   Run file ```run_week.bat``` to download files for the current month.
   Edit file ```run_week.py``` to change what to download and on wich date.
 
