@@ -179,8 +179,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False):
 	year = str(now.year)
 	month = str(now.month).zfill(2)
 	day = str(now.day).zfill(2)
-	hour = str(now.hour).zfill(2)
-	minute = str(now.minute).zfill(2)
+
 	f_logs = f"{logs_dir}/logs_{year}_{month}_{day}.txt"
 	print_text_both(f"***DOWNLOAD DE FICHEIROS***\n\n\n**DIA {day}-{month}-{now.year} ÀS {now.hour}H{now.minute}min**", f_logs)
 	if get_new and cils_or_cpes:
@@ -197,7 +196,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False):
 	else:
 		cpes=[]
 		if gestao:
-			diff_gestao = gestao
+			diff_gestao = [gestao.upper()]
 		else:
 			print('Impossível reunir informação nova se não fornecer uma gestão...')
 			return
@@ -205,10 +204,10 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False):
 	all_cpes_data = {}
 
 	for gestao_i in diff_gestao:
-		usernames = df_db.loc[df_db.gestao == gestao_i, 'user'].unique()
+		usernames = df_db.loc[df_db.gestao == gestao_i.upper(), 'user'].unique()
 		usernames_not_none = [u for u in usernames if u is not None]
 		for username in usernames_not_none:
-			#username = usernames_not_none[0]
+			# username = usernames_not_none[0]
 			df_user = df_db.loc[df_db.user == username, :]
 			password_word = df_user.loc[:, 'password'].iloc[0]
 			if not get_new:
@@ -240,8 +239,9 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False):
 
 			if get_new:
 				cpes_user = []
-				i=0
+
 				while True:
+					i = 0
 					wait_loading_state(driver, 100)
 					while True:
 						try:
@@ -250,12 +250,14 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False):
 								cpes_user.append(possible_cpe)
 						except NoSuchElementException:
 							break
-						i+=1
+						i += 1
 					try:
 						next_page = driver.find_element_by_id('next-page')
 						if next_page.is_enabled():
 							next_page.click()
 							wait_loading_state(driver, 100)
+						else:
+							break
 					except:
 						break
 
