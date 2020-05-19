@@ -4,7 +4,7 @@ from datetime import datetime as dt
 import pandas as pd
 import os
 from glob import glob
-df_db = connect_db('energia', True)
+df_db = connect_db('energia', False)
 
 
 def str_to_dt(d):
