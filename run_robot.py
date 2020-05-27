@@ -11,6 +11,8 @@ try:
 except Exception as e:
     print(f"Ocurreu um erro a tentar ligar à rede...:{e}\n\nTente Novamente mais tarde, depois de a ligação estar estabelecida.")
     sys.exit() 
+
+    
 def str_to_dt(d):
     if isinstance(d, str):
         return pd.to_datetime(d)
@@ -75,7 +77,8 @@ def robot_inst(cil_or_cpe, date_list=None, date_begin=dt(2012, 1, 1), date_end=d
     print(f"\nTrying: {ym}")
     try:
         return True, robot(inst, ym, replace)
-    except:
+    except Exception as e:
+        print(f'\n\nsomething went wrong: {e}\n\n')
         return False, [inst['cil'], ym]
 
 
