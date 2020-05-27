@@ -4,12 +4,13 @@ from datetime import datetime as dt
 import pandas as pd
 import os
 from glob import glob
+import sys
 
 try:
     df_db = connect_db('energia', False)
 except Exception as e:
     print(f"Ocurreu um erro a tentar ligar à rede...:{e}\n\nTente Novamente mais tarde, depois de a ligação estar estabelecida.")
-
+    sys.exit() 
 def str_to_dt(d):
     if isinstance(d, str):
         return pd.to_datetime(d)
