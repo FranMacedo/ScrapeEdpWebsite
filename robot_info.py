@@ -181,7 +181,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False):
 	day = str(now.day).zfill(2)
 
 	f_logs = f"{logs_dir}/logs_{year}_{month}_{day}.txt"
-	print_text_both(f"***DOWNLOAD DE FICHEIROS***\n\n\n**DIA {day}-{month}-{now.year} ÀS {now.hour}H{now.minute}min**", f_logs)
+	print_text_both(f"***RECOLHA DE INFORMAÇÃO***\n\n\n**DIA {day}-{month}-{now.year} ÀS {now.hour}H{now.minute}min**", f_logs)
 	if get_new and cils_or_cpes:
 		print('impossivel adequirir informação nova sobre cpes expecíficos. Tente uma gestão!')
 		return
