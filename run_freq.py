@@ -17,7 +17,7 @@ if today_date == dt(2020, 5, 28).date():
 	get_info(gestao='cml', get_new=True)
 
 
-if today_date == dt(2020, 5, 29).date():
+elif today_date == dt(2020, 5, 29).date():
 	date_list = ['2020-01', '2020-02', '2020-03', '2020-04']
 	multi_robot(gestao='CML', date_list=date_list, replace=True)
 	# from robot_info import get_info
