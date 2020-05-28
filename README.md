@@ -3,7 +3,7 @@ Python Robot to download energy data from [edp website](https://online.edpdistri
 
 
 ## Requirements
-requires database table that can be accessed through function ```connect_db``` from ```my_functions.py```.
+requires database table that can be accessed through function ```connect_db``` from ```my_functions.py``` OR customize that function.
 
 ## Setup
   ```
@@ -14,7 +14,9 @@ requires database table that can be accessed through function ```connect_db``` f
     pip install -r requirements.txt
   ```
   
-  
-  Run file ```run_week.bat``` to download files for the current month.
-  Edit file ```run_week.py``` to change what to download and on wich date.
+## Run
+  Edit file ```run_freq.py``` to choose what you want to download and for what month(s).
+  Run file ```run_freq.bat``` to update chromedriver (or download if not present) and then it will run ```run_freq.py``` automatically.
+
+
 
