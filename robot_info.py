@@ -262,7 +262,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False):
 						break
 
 			for cpe in cpes_user:
-				print(f"Trying cpe {cpe}: number {cpes.index(cpe)+1}")
+				print(f"Trying cpe {cpe}: number {cpes_user.index(cpe)+1}")
 				all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data)
 
 	write_data(all_cpes_data)
