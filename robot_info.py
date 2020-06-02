@@ -168,7 +168,7 @@ def write_data(data):
 					df.loc[(c, r), k] = v
 			except KeyError:
 				continue
-	print(df)
+	print_text_both(df)
 	today = datetime.datetime.now().strftime('%Y-%m-%d %Hh_%Mm')
 	report_path = os.path.join(logs_dir, 'cpe_info_' + today + '.csv')
 	df.to_csv(report_path)
@@ -183,22 +183,22 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False):
 	f_logs = f"{logs_dir}/logs_{year}_{month}_{day}.txt"
 	print_text_both(f"***RECOLHA DE INFORMAÇÃO***\n\n\n**DIA {day}-{month}-{now.year} ÀS {now.hour}H{now.minute}min**", f_logs)
 	if get_new and cils_or_cpes:
-		print('impossivel adequirir informação nova sobre cpes expecíficos. Tente uma gestão!')
+		print_text_both('impossivel adequirir informação nova sobre cpes expecíficos. Tente uma gestão!')
 		return
 
 	if not get_new:
 		cpes = get_cpes(gestao, cils_or_cpes, f_logs)
 		if not cpes:
-			print("done")
+			print_text_both("done")
 			return
-		print(f'\n\nA tentar reunir informação para os cpes: {space_l(cpes)}......')
+		print_text_both(f'\n\nA tentar reunir informação para os cpes: {space_l(cpes)}......')
 		diff_gestao = df_db.loc[df_db.cpe.isin(cpes), 'gestao'].unique()
 	else:
 		cpes=[]
 		if gestao:
 			diff_gestao = [gestao.upper()]
 		else:
-			print('Impossível reunir informação nova se não fornecer uma gestão...')
+			print_text_both('Impossível reunir informação nova se não fornecer uma gestão...')
 			return
 
 	all_cpes_data = {}
@@ -213,7 +213,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False):
 			if not get_new:
 				cpes_user = df_user.loc[df_user.cpe.isin(cpes),'cpe'].tolist()
 				if not cpes_user:
-					print(f'username {username} sem cpes associados... a tentar o próximo username')
+					print_text_both(f'username {username} sem cpes associados... a tentar o próximo username')
 					continue
 			else:
 				cpes_user = []
@@ -262,7 +262,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False):
 						break
 
 			for cpe in cpes_user:
-				print(f"Trying cpe {cpe}: number {cpes_user.index(cpe)+1}")
+				print_text_both(f"Trying cpe {cpe}: number {cpes_user.index(cpe)+1}")
 				all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data)
 
 	write_data(all_cpes_data)
