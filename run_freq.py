@@ -12,7 +12,7 @@ else:
 	date_list = [today_date]
 
 
-if today_date == dt(2020, 6, 2).date():
+if today_date == dt(2020, 6, 3).date():
 	from robot_info import get_info
 	get_info(gestao='CML', get_new=True)
 
