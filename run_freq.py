@@ -14,7 +14,7 @@ else:
 
 if today_date == dt(2020, 6, 3).date():
 	from robot_info import get_info
-	get_info(gestao='CML', get_new=True)
+	get_info(gestao='EGEAC', get_new=True)
 
 
 elif today_date == dt(2020, 5, 29).date():

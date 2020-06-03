@@ -151,7 +151,6 @@ def info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data):
 			cpe_data[row_name]['consumos'] = False
 		wait_loading_state(driver, 100)
 		all_cpes_data[cpe] = cpe_data
-		print(all_cpes_data)
 		back_button = wait.until(ec.element_to_be_clickable((By.ID, "btn-go-back")))
 		back_button.click()
 		wait_loading_state(driver, 150)
@@ -286,12 +285,12 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False):
 				print_text_both(f"Trying failed cpes: \n\n{space_l(cpes_fail)}", f_logs)
 
 				for cpe in cpes_fail:
-				print_text_both(f"Trying cpe {cpe}: number {cpes_fail.index(cpe)+1}", f_logs)
-				try:
-					all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data)
-				except:
-					print_text_both(f"Something went wrong with {cpe}. Quit trying!", f_logs)
-					cpes_fail_again.append(cpe)
+					print_text_both(f"Trying cpe {cpe}: number {cpes_fail.index(cpe)+1}", f_logs)
+					try:
+						all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data)
+					except:
+						print_text_both(f"Something went wrong with {cpe}. Quit trying!", f_logs)
+						cpes_fail_again.append(cpe)
 
 			df_cpes_fail = pd.DataFrame(cpes_fail_again)
 			cpes_fail_path = os.path.join(logs_dir, 'cpes_FAIL_' + str_to_path(username) + '.csv')

@@ -4575,3 +4575,177 @@ Processing CIL: 7230333 | CPE: PT0002000072303334VP
 
 
 -Trying row 1
+***RECOLHA DE INFORMAÇÃO***
+
+
+**DIA 03-06-2020 ÀS 9H51min**
+***RECOLHA DE INFORMAÇÃO***
+
+
+**DIA 03-06-2020 ÀS 9H51min**
+trying page 2..
+trying page 3..
+trying page 4..
+trying page 5..
+trying page 6..
+trying page 7..
+trying page 8..
+trying page 9..
+trying page 10..
+trying page 11..
+trying page 12..
+Trying cpe PT0002000037425406KQ: number 1
+-1 list result(s) found for that CPE
+
+
+-Trying row 1
+   Consumos tab not found...
+Trying cpe PT0002000040293434NJ: number 2
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+   Consumos tab not found...
+
+
+-Trying row 2
+   Consumos tab not found...
+Trying cpe PT0002000040474144AN: number 3
+-1 list result(s) found for that CPE
+
+
+-Trying row 1
+   Consumos tab not found...
+Trying cpe PT0002000040487764CQ: number 4
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+   Consumos tab not found...
+
+
+-Trying row 2
+   Consumos tab not found...
+Trying cpe PT0002000072404696PD: number 5
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+   Consumos tab not found...
+
+
+-Trying row 2
+   Consumos tab not found...
+Trying cpe PT0002000073931331ML: number 6
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+   Consumos tab not found...
+
+
+-Trying row 2
+   Consumos tab not found...
+Trying cpe PT0002000075265899RN: number 7
+-1 list result(s) found for that CPE
+
+
+-Trying row 1
+   Consumos tab not found...
+Trying cpe PT0002000075289744AY: number 8
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+   Consumos tab not found...
+
+
+-Trying row 2
+   Consumos tab not found...
+
+
+-Trying row 3
+--No results found for this CPE. Trying next CPE...
+Trying cpe PT0002000075289744AY: number 8
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+   Consumos tab not found...
+
+
+-Trying row 2
+   Consumos tab not found...
+
+
+-Trying row 3
+--No results found for this CPE. Trying next CPE...
+Trying cpe PT0002000082950359XB: number 10
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+   Consumos tab not found...
+
+
+-Trying row 2
+   Consumos tab not found...
+Trying cpe PT0002000082950361XJ: number 11
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+   Consumos tab not found...
+
+
+-Trying row 2
+   Consumos tab not found...
+Trying cpe PT0002000082950554HE: number 12
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+   Consumos tab not found...
+
+
+-Trying row 2
+   Consumos tab not found...
+Trying cpe PT0002000083488985ST: number 13
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+   Consumos tab not found...
+
+
+-Trying row 2
+   Consumos tab not found...
+Trying cpe PT0002000084007855BJ: number 14
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+   Consumos tab not found...
+
+
+-Trying row 2
+   Consumos tab not found...
+Trying cpe PT0002000084007866NR: number 15
+-1 list result(s) found for that CPE
+
+
+-Trying row 1
+   Consumos tab not found...
+Trying cpe PT0002000088396285GC: number 16
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+   Consumos tab not found...
+
+
+-Trying row 2
+   Consumos tab not found...
+Trying cpe PT0002000100762579KL: number 17
+Search Box not available or took too long o load...
+Took too long to find search button...
