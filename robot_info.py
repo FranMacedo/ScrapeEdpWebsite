@@ -20,6 +20,13 @@ from glob import glob
 
 # print(cils_months)
 
+def str_to_path(text):
+	if isinstance(text, str):
+		chars = "@/\\`*{}[]()>#+-.!$"
+		for c in chars:
+			text = text.replace(c, "_")
+	return text
+
 
 def space_l(l):
 	return" ".join(list(map(str, l)))
@@ -144,7 +151,6 @@ def info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data):
 			cpe_data[row_name]['consumos'] = False
 		wait_loading_state(driver, 100)
 		all_cpes_data[cpe] = cpe_data
-		print(all_cpes_data)
 		back_button = wait.until(ec.element_to_be_clickable((By.ID, "btn-go-back")))
 		back_button.click()
 		wait_loading_state(driver, 150)
@@ -262,11 +268,33 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False):
 							break
 					except:
 						break
-
+				# temporary save cpes gathered, in case of some sort of failure
+				df_cpes_user = pd.DataFrame(cpes_user)
+				cpes_user_path = os.path.join(logs_dir, 'cpes_' + str_to_path(username) + '.csv')
+				df_cpes_user.to_csv(cpes_user_path)	
+			cpes_fail = []			
 			for cpe in cpes_user:
 				print_text_both(f"Trying cpe {cpe}: number {cpes_user.index(cpe)+1}", f_logs)
-				all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data)
+				try:
+					all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data)
+				except:
+					print_text_both(f"Something went wrong with {cpe}. Trying again later....", f_logs)
+					cpes_fail.append(cpe)
+			if cpes_fail:
+				cpes_fail_again = []
+				print_text_both(f"Trying failed cpes: \n\n{space_l(cpes_fail)}", f_logs)
 
+				for cpe in cpes_fail:
+					print_text_both(f"Trying cpe {cpe}: number {cpes_fail.index(cpe)+1}", f_logs)
+					try:
+						all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data)
+					except:
+						print_text_both(f"Something went wrong with {cpe}. Quit trying!", f_logs)
+						cpes_fail_again.append(cpe)
+
+			df_cpes_fail = pd.DataFrame(cpes_fail_again)
+			cpes_fail_path = os.path.join(logs_dir, 'cpes_FAIL_' + str_to_path(username) + '.csv')
+			df_cpes_fail.to_csv(cpes_fail_path)			
 	write_data(all_cpes_data)
 	return
 
