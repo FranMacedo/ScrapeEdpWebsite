@@ -323,9 +323,9 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
                         print_text_both(f"Something went wrong with {cpe}. Quit trying!", f_logs)
                         cpes_fail_again.append(cpe)
 
-            df_cpes_fail = pd.DataFrame(cpes_fail_again)
-            cpes_fail_path = os.path.join(logs_dir, 'cpes_FAIL_' + str_to_path(username) + '.csv')
-            df_cpes_fail.to_csv(cpes_fail_path)
+                df_cpes_fail = pd.DataFrame(cpes_fail_again)
+                cpes_fail_path = os.path.join(logs_dir, 'cpes_FAIL_' + str_to_path(username) + '.csv')
+                df_cpes_fail.to_csv(cpes_fail_path)
             try:
                 driver.close()
                 driver.quit()
