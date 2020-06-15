@@ -7,7 +7,7 @@ from glob import glob
 import sys
 
 try:
-    df_db = connect_db('energia', True)
+    df_db = connect_db('energia', False)
 except Exception as e:
     print(f"Ocurreu um erro a tentar ligar à rede...:{e}\n\nTente Novamente mais tarde, depois de a ligação estar estabelecida.")
     sys.exit() 
