@@ -1449,3 +1449,44 @@ Trying cpe PT0002000065171102YF
 -1 list result(s) found for that CPE
 --Trying row 1
 SUCCESS!
+***RECOLHA DE INFORMAÇÃO***
+
+
+**DIA 15-06-2020 ÀS 22H5min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+trying page 2..
+trying page 3..
+trying page 4..
+trying page 5..
+trying page 6..
+trying page 7..
+trying page 8..
+trying page 9..
+trying page 10..
+
+------>ALL CPES GATHERED: 90 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||-1.1%                                                                                          (1/90)
+Trying cpe PT0002000072492644ZM
+-!!Something went wrong with PT0002000072492644ZM. Trying again later....
+SUCCESS!
+
+
+||--2.2%                                                                                         (2/90)
+Trying cpe PT0002000075578891QC
