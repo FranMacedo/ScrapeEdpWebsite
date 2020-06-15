@@ -102,5 +102,5 @@ def send_auto_email(receiver_email, title, text, df):
         )
 
 
-# df = pd.read_csv('downloads/logs/download_2020-05-09 03h_53m.csv')
+# df = pd.read_csv('downloads/logs/cpe_info_2020-06-15 23h_40m.csv')
 # send_auto_email(m, 'download 15/06', 'Dados de download de uma data especifica', df)

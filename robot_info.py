@@ -186,7 +186,7 @@ def write_data(data):
     df.to_csv(report_path)
     send_auto_email('franciscomacedo@lisboaenova.org',
                     f'Informações Disponiveis',
-                    'Informação disponiveis no site da EDP reunidas com sucesso na data\
+                    f'Informação disponiveis no site da EDP reunidas com sucesso na data\
                     <b>{today}</b>:', df)
     return
 
@@ -310,7 +310,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
             print_text_both(f"\n\n------------------ GOING FOR INFO OF EACH CPE ----------------------\n\n", f_logs)
             cpes_user
             total_nr = len(cpes_user)
-            for cpe_tt in cpes_user[:3]:
+            for cpe_tt in cpes_user:
                 cpe = cpe_tt['cpe']
                 cpe_nr = cpes_user.index(cpe_tt)+1
                 print_text_both('\n\n||' + '-'*cpe_nr + f'{round((cpe_nr/total_nr)*100, 1)}% ' +
