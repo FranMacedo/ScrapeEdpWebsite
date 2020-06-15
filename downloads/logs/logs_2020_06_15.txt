@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 ***DOWNLOAD DE FICHEIROS***
 
 
@@ -505,6 +506,12 @@ Trying cpe PT0002000065180535WX: number 10
 
 
 **DIA 15-06-2020 ÀS 19H2min**
+=======
+***RECOLHA DE INFORMAÇÃO***
+
+
+**DIA 15-06-2020 ÀS 19H12min**
+>>>>>>> 843786102b67a9b913650629bc1356fb175c6507
 
 
 ------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
