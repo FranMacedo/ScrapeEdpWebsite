@@ -5,7 +5,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from sec_vars import pwd, sd_email
 import base64
-m = 'lisboaenovarobot@gmail.com'
+# m = 'lisboaenovarobot@gmail.com'
 
 
 def color_fail_red(val):
@@ -102,5 +102,5 @@ def send_auto_email(receiver_email, title, text, df):
         )
 
 
-df = pd.read_csv('downloads/logs/download_2020-05-09 03h_53m.csv')
-send_auto_email(m, 'download 15/06', 'Dados de download de uma data especifica', df)
+# df = pd.read_csv('downloads/logs/download_2020-05-09 03h_53m.csv')
+# send_auto_email(m, 'download 15/06', 'Dados de download de uma data especifica', df)

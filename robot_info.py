@@ -3,6 +3,7 @@ from my_functions import find_between_r
 from run_robot import df_db, create_download_log
 import os
 from glob import glob
+from auto_email import send_auto_email
 
 # cml_cils = df_db.loc[df_db.gestao=='CML','cil'].tolist()
 # # print(cml_cpes)
