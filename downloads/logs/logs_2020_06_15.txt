@@ -589,3 +589,15 @@ Trying cpe PT0002000065180535WX: number 10
 -1 list result(s) found for that CPE
 --Trying row 1
 SUCCESS!
+***RECOLHA DE INFORMAÇÃO***
+
+
+**DIA 15-06-2020 ÀS 19H27min**
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+trying page 2..
+trying page 3..
+trying page 4..
