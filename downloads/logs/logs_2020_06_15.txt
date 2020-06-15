@@ -1490,3 +1490,111 @@ SUCCESS!
 
 ||--2.2%                                                                                         (2/90)
 Trying cpe PT0002000075578891QC
+***RECOLHA DE INFORMAÇÃO***
+
+
+**DIA 15-06-2020 ÀS 23H29min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+trying page 2..
+trying page 3..
+trying page 4..
+trying page 5..
+trying page 6..
+trying page 7..
+trying page 8..
+trying page 9..
+trying page 10..
+trying page 11..
+trying page 12..
+trying page 13..
+trying page 14..
+trying page 15..
+trying page 16..
+trying page 17..
+trying page 18..
+trying page 19..
+trying page 20..
+trying page 21..
+trying page 22..
+trying page 23..
+trying page 24..
+
+------>ALL CPES GATHERED: 230 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||-0.4%                                                                                                                                                                                                                                      (1/230)
+Trying cpe PT0002000072492644ZM
+-!!Something went wrong with PT0002000072492644ZM. Trying again later....
+SUCCESS!
+
+
+||--0.9%                                                                                                                                                                                                                                     (2/230)
+Trying cpe PT0002000075578891QC
+-!!Something went wrong with PT0002000075578891QC. Trying again later....
+SUCCESS!
+
+
+||---1.3%                                                                                                                                                                                                                                    (3/230)
+Trying cpe PT0002000083098395YL
+***RECOLHA DE INFORMAÇÃO***
+
+
+**DIA 15-06-2020 ÀS 23H33min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+trying page 2..
+trying page 3..
+trying page 4..
+trying page 5..
+
+------>ALL CPES GATHERED: 49 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||-2.0%                                                 (1/49)
+Trying cpe PT0002000065171113YH
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--4.1%                                                (2/49)
+Trying cpe PT0002000083774745LP
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---6.1%                                               (3/49)
+Trying cpe PT0002000070983625TQ
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
