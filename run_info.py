@@ -1,6 +1,8 @@
 from robot_info import get_info
-get_info(gestao='CML', get_new=True)
+import sys
 
+get_info(gestao='CML', get_new=True)
+sys.exit()
 # import time
 # print('begin')
 # time.sleep(2)
