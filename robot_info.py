@@ -296,9 +296,12 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
             cpes_fail = []
 
             print_text_both(f"\n\n------------------ GOING FOR INFO OF EACH CPE ----------------------\n\n", f_logs)
-
+            total_nr = len(cpes_user)
             for cpe in cpes_user:
-                print_text_both(f"\n\nTrying cpe {cpe}: number {cpes_user.index(cpe)+1}", f_logs)
+            	cpe_nr = cpes_user.index(cpe)+1
+            	print('\n\n||'+ '-'*cpe_nr +f'{round((cpe_nr/total_nr)*100, 1)}% '+ ' '*(total_nr-cpe_nr) + f'({cpe_nr}/{total_nr})')
+                print_text_both(f"Trying cpe {cpe}", f_logs)
+
                 try:
                     all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data)
                 except:
