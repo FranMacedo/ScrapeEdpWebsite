@@ -43,7 +43,7 @@ destination_path = "Z:\\DATABASE\\ENERGIA\\DATAFILES"
 def connect_driver():
     chrome_options = Options()
     chrome_options.add_argument("--window-size=1920,1080")
-    chrome_options.add_argument("--headless")
+    # chrome_options.add_argument("--headless")
     prefs = {"download.default_directory": downloads_path}
     chrome_options.add_experimental_option("prefs", prefs)
 
