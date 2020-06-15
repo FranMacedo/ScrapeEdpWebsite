@@ -589,3 +589,344 @@ Trying cpe PT0002000065180535WX: number 10
 -1 list result(s) found for that CPE
 --Trying row 1
 SUCCESS!
+***RECOLHA DE INFORMAÇÃO***
+
+
+**DIA 15-06-2020 ÀS 19H29min**
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+trying page 2..
+trying page 3..
+trying page 4..
+trying page 5..
+
+------>ALL CPES GATHERED: 49 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+Trying cpe PT0002000065171113YH: number 1
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000083774745LP: number 2
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000070983625TQ: number 3
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000065171102YF: number 4
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000075406578TT: number 5
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000065171135FV: number 6
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000066087734TC: number 7
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000065185678LR: number 8
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000103112789SC: number 9
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000065180535WX: number 10
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000065181879ZC: number 11
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000065171124FY: number 12
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000037674281DP: number 13
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000037674315XL: number 14
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000108305357BQ: number 15
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000108305379NS: number 16
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000037674656WS: number 17
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000039601727EP: number 18
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000038740856ZG: number 19
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000085043515YY: number 20
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000037674598TA: number 21
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000040493413JF: number 22
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000038976931CF: number 23
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000080680717TD: number 24
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000040269657JH: number 25
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000040487491PL: number 26
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000036852699FD: number 27
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000124524796RQ: number 28
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000065176041ZR: number 29
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000083200947AZ: number 30
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000040487764CQ: number 31
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000072404696PD: number 32
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000082950554HE: number 33
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000083488985ST: number 34
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000084007855BJ: number 35
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000082950359XB: number 36
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000039085483RE: number 37
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000082950361XJ: number 38
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000037968526ZZ: number 39
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000065170303VJ: number 40
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000074034645NV: number 41
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000065170314HR: number 42
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000088396285GC: number 43
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000038956954WV: number 44
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000040293434NJ: number 45
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000118641824AF: number 46
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000040277724LN: number 47
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+Trying cpe PT0002000065196701SF: number 48
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+Trying cpe PT0002000039321285LM: number 49
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
