@@ -225,8 +225,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False):
 				cpes_user = []
 			driver, action, wait, wait_long, wait_short = connect_driver()
 			wait_loading_state(driver, 100)
-			driver.close()
-			return
+
 			tipo_entidade = wait.until(ec.element_to_be_clickable((By.LINK_TEXT, "Empresarial")))
 			tipo_entidade.click()
 			user = wait.until(ec.presence_of_element_located((By.ID, "email")))
