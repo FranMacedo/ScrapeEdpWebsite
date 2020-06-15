@@ -3,6 +3,7 @@ from my_functions import find_between_r
 from run_robot import df_db, create_download_log
 import os
 from glob import glob
+from auto_email import send_auto_email
 
 # cml_cils = df_db.loc[df_db.gestao=='CML','cil'].tolist()
 # # print(cml_cpes)
@@ -179,8 +180,15 @@ def write_data(data):
                 continue
     print(df)
     today = datetime.datetime.now().strftime('%Y-%m-%d %Hh_%Mm')
+    today_short = datetime.datetime.now().strftime('%Y-%m-%d')
+
     report_path = os.path.join(logs_dir, 'cpe_info_' + today + '.csv')
     df.to_csv(report_path)
+    send_auto_email('franciscomacedo@lisboaenova.org',
+                    f'Informações Disponiveis',
+                    f'Informação disponiveis no site da EDP reunidas com sucesso na data\
+                    <b>{today}</b>:', df)
+    return
 
 
 def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
