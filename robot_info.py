@@ -304,9 +304,9 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False):
 			driver.quit()
 	write_data(all_cpes_data)
   try:
-    driver.close()
-    driver.quit()
+      driver.close()
+      driver.quit()
   except:
-    pass
+      pass
 	return
 
