@@ -4,7 +4,7 @@ env/
 !static/
 
 # secret variables
-.sec_vars.py
+sec_vars.py
 # keys
 fran_pair.ppk
 
