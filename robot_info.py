@@ -298,8 +298,8 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
             print_text_both(f"\n\n------------------ GOING FOR INFO OF EACH CPE ----------------------\n\n", f_logs)
             total_nr = len(cpes_user)
             for cpe in cpes_user:
-            	cpe_nr = cpes_user.index(cpe)+1
-            	print('\n\n||'+ '-'*cpe_nr +f'{round((cpe_nr/total_nr)*100, 1)}% '+ ' '*(total_nr-cpe_nr) + f'({cpe_nr}/{total_nr})')
+                cpe_nr = cpes_user.index(cpe)+1
+                print_text_both('\n\n||'+ '-'*cpe_nr +f'{round((cpe_nr/total_nr)*100, 1)}% '+ ' '*(total_nr-cpe_nr) + f'({cpe_nr}/{total_nr})', f_logs)
                 print_text_both(f"Trying cpe {cpe}", f_logs)
 
                 try:
