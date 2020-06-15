@@ -73,7 +73,7 @@ def get_cpes(gestao, cils_or_cpes, f_logs):
     return cpes
 
 
-def info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data):
+def info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, tt):
 
     cpe_data = {}
     lista_button(driver)
@@ -151,6 +151,7 @@ def info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data):
         except TimeoutException:
             print_text_both("---!!Consumos tab not found...", f_logs)
             cpe_data[row_name]['consumos'] = False
+        cpe_data[row_name]['abastecimento'] = tt
         wait_loading_state(driver, 100)
         all_cpes_data[cpe] = cpe_data
         back_button = wait.until(ec.element_to_be_clickable((By.ID, "btn-go-back")))
@@ -220,7 +221,8 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
             df_user = df_db.loc[df_db.user == username, :]
             password_word = df_user.loc[:, 'password'].iloc[0]
             if not get_new:
-                cpes_user = df_user.loc[df_user.cpe.isin(cpes), 'cpe'].tolist()
+                cpes_user = df_user.rename({'abastecimento': 'tt'}, axis=1).loc[df_user.cpe.isin(cpes)][[
+                    'cpe', 'tt']].to_dict(orient='records')
                 if not cpes_user:
                     print_text_both(f'username {username} sem cpes associados... a tentar o próximo username', f_logs)
                     continue
@@ -248,6 +250,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
             lista_button(driver)
             wait_loading_state(driver, 100)
             if only_active:
+                print_text_both(f"\n\n-------TURNING ON ACTIVO-------\n\n", f_logs)
                 wait.until(ec.element_to_be_clickable((By.ID, "edp-dropdown-state"))).click()
                 wait.until(ec.presence_of_element_located((By.ID, "checkbox_Inativo"))).click()
                 wait.until(ec.element_to_be_clickable((By.ID, "btn-filter"))).click()
@@ -271,8 +274,9 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
                     while True:
                         try:
                             possible_cpe = driver.find_element_by_id(f'btn-cpe-row-{i}').text
+                            possible_tt = driver.find_element_by_id(f'voltage-row-{i}').text
                             if 'PT' in possible_cpe:
-                                cpes_user.append(possible_cpe)
+                                cpes_user.append({'cpe': possible_cpe, 'tt': possible_tt})
                         except NoSuchElementException:
                             break
                         i += 1
@@ -296,17 +300,21 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
             cpes_fail = []
 
             print_text_both(f"\n\n------------------ GOING FOR INFO OF EACH CPE ----------------------\n\n", f_logs)
+            cpes_user
             total_nr = len(cpes_user)
-            for cpe in cpes_user:
-                cpe_nr = cpes_user.index(cpe)+1
-                print_text_both('\n\n||'+ '-'*cpe_nr +f'{round((cpe_nr/total_nr)*100, 1)}% '+ ' '*(total_nr-cpe_nr) + f'({cpe_nr}/{total_nr})', f_logs)
+            for cpe_tt in cpes_user[:4]:
+                cpe = cpe_tt['cpe']
+                cpe_nr = cpes_user.index(cpe_tt)+1
+                print_text_both('\n\n||' + '-'*cpe_nr + f'{round((cpe_nr/total_nr)*100, 1)}% ' +
+                                ' '*(total_nr-cpe_nr) + f'({cpe_nr}/{total_nr})', f_logs)
                 print_text_both(f"Trying cpe {cpe}", f_logs)
 
                 try:
-                    all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data)
+                    all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, cpe_tt['tt'])
+                    # all_cpes_data['tt'] = cpe_tt['tt']
                 except:
                     print_text_both(f"-!!Something went wrong with {cpe}. Trying again later....", f_logs)
-                    cpes_fail.append(cpe)
+                    cpes_fail.append(cpe_tt)
 
                 print_text_both(f"SUCCESS!", f_logs)
 
@@ -318,13 +326,14 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
                 cpes_fail_again = []
                 print_text_both(f"Trying failed cpes: \n\n{space_l(cpes_fail)}", f_logs)
 
-                for cpe in cpes_fail:
-                    print_text_both(f"Trying cpe {cpe}: number {cpes_fail.index(cpe)+1}", f_logs)
+                for cpe_tt in cpes_fail:
+                    cpe = cpe_tt['cpe']
+                    print_text_both(f"Trying cpe {cpe}: number {cpes_fail.index(cpe_tt)+1}", f_logs)
                     try:
-                        all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data)
+                        all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, cpe_tt['tt'])
                     except:
                         print_text_both(f"Something went wrong with {cpe}. Quit trying!", f_logs)
-                        cpes_fail_again.append(cpe)
+                        cpes_fail_again.append(cpe_tt)
 
                 df_cpes_fail = pd.DataFrame(cpes_fail_again)
                 cpes_fail_path = os.path.join(logs_dir, 'cpes_FAIL_' + str_to_path(username) + '.csv')

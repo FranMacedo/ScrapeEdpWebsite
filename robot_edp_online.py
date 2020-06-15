@@ -43,21 +43,17 @@ destination_path = "Z:\\DATABASE\\ENERGIA\\DATAFILES"
 def connect_driver():
     chrome_options = Options()
     chrome_options.add_argument("--window-size=1920,1080")
-    chrome_options.add_argument("--headless")
+    # chrome_options.add_argument("--headless")
     prefs = {"download.default_directory": downloads_path}
     chrome_options.add_experimental_option("prefs", prefs)
-
     driver = webdriver.Chrome("chromedriver/chromedriver.exe", options=chrome_options)
     driver.get("https://online.edpdistribuicao.pt/pt/Pages/Home.aspx")  # Inicio do website pretendido no webdriver
     action = ActionChains(driver)
-
     global wait
     global wait_long
-
     wait_short = WebDriverWait(driver, 10)
     wait = WebDriverWait(driver, 30)
     wait_long = WebDriverWait(driver, 100)
-
     return driver, action, wait, wait_long, wait_short
 
 
