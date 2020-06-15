@@ -302,7 +302,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
             print_text_both(f"\n\n------------------ GOING FOR INFO OF EACH CPE ----------------------\n\n", f_logs)
             cpes_user
             total_nr = len(cpes_user)
-            for cpe_tt in cpes_user[:4]:
+            for cpe_tt in cpes_user:
                 cpe = cpe_tt['cpe']
                 cpe_nr = cpes_user.index(cpe_tt)+1
                 print_text_both('\n\n||' + '-'*cpe_nr + f'{round((cpe_nr/total_nr)*100, 1)}% ' +

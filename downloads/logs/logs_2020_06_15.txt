@@ -1490,3 +1490,256 @@ SUCCESS!
 
 ||--2.2%                                                                                         (2/90)
 Trying cpe PT0002000075578891QC
+***RECOLHA DE INFORMAÇÃO***
+
+
+**DIA 15-06-2020 ÀS 22H8min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+trying page 2..
+trying page 3..
+trying page 4..
+trying page 5..
+trying page 6..
+trying page 7..
+trying page 8..
+trying page 9..
+trying page 10..
+trying page 11..
+trying page 12..
+trying page 13..
+trying page 14..
+trying page 15..
+trying page 16..
+trying page 17..
+trying page 18..
+trying page 19..
+trying page 20..
+trying page 21..
+trying page 22..
+trying page 23..
+trying page 24..
+trying page 25..
+trying page 26..
+trying page 27..
+trying page 28..
+trying page 29..
+trying page 30..
+trying page 31..
+trying page 32..
+trying page 33..
+trying page 34..
+trying page 35..
+trying page 36..
+trying page 37..
+trying page 38..
+trying page 39..
+trying page 40..
+trying page 41..
+trying page 42..
+trying page 43..
+trying page 44..
+trying page 45..
+trying page 46..
+trying page 47..
+trying page 48..
+trying page 49..
+trying page 50..
+trying page 51..
+trying page 52..
+trying page 53..
+trying page 54..
+trying page 55..
+trying page 56..
+trying page 57..
+trying page 58..
+trying page 59..
+trying page 60..
+trying page 61..
+trying page 62..
+trying page 63..
+trying page 64..
+trying page 65..
+trying page 66..
+trying page 67..
+trying page 68..
+trying page 69..
+trying page 70..
+trying page 71..
+trying page 72..
+trying page 73..
+trying page 74..
+trying page 75..
+trying page 76..
+trying page 77..
+trying page 78..
+trying page 79..
+trying page 80..
+trying page 81..
+trying page 82..
+trying page 83..
+trying page 84..
+trying page 85..
+trying page 86..
+trying page 87..
+trying page 88..
+trying page 89..
+trying page 90..
+trying page 91..
+trying page 92..
+trying page 93..
+trying page 94..
+trying page 95..
+trying page 96..
+trying page 97..
+trying page 98..
+trying page 99..
+trying page 100..
+trying page 101..
+***RECOLHA DE INFORMAÇÃO***
+
+
+**DIA 15-06-2020 ÀS 23H29min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+trying page 2..
+trying page 3..
+trying page 4..
+trying page 5..
+trying page 6..
+trying page 7..
+trying page 8..
+trying page 9..
+trying page 10..
+trying page 11..
+trying page 12..
+trying page 13..
+trying page 14..
+trying page 15..
+trying page 16..
+trying page 17..
+trying page 18..
+trying page 19..
+trying page 20..
+trying page 21..
+trying page 22..
+trying page 23..
+trying page 24..
+trying page 25..
+trying page 26..
+trying page 27..
+trying page 28..
+trying page 29..
+trying page 30..
+trying page 31..
+trying page 32..
+trying page 33..
+trying page 34..
+trying page 35..
+trying page 36..
+trying page 37..
+trying page 38..
+trying page 39..
+trying page 40..
+trying page 41..
+trying page 42..
+trying page 43..
+trying page 44..
+trying page 45..
+trying page 46..
+trying page 47..
+trying page 48..
+trying page 49..
+trying page 50..
+trying page 51..
+trying page 52..
+trying page 53..
+trying page 54..
+trying page 55..
+trying page 56..
+trying page 57..
+trying page 58..
+trying page 59..
+trying page 60..
+trying page 61..
+trying page 62..
+trying page 63..
+trying page 64..
+trying page 65..
+trying page 66..
+trying page 67..
+trying page 68..
+trying page 69..
+trying page 70..
+trying page 71..
+trying page 72..
+trying page 73..
+trying page 74..
+trying page 75..
+trying page 76..
+trying page 77..
+trying page 78..
+trying page 79..
+trying page 80..
+trying page 81..
+trying page 82..
+trying page 83..
+trying page 84..
+trying page 85..
+trying page 86..
+trying page 87..
+trying page 88..
+trying page 89..
+trying page 90..
+trying page 91..
+trying page 92..
+trying page 93..
+trying page 94..
+trying page 95..
+trying page 96..
+trying page 97..
+trying page 98..
+trying page 99..
+trying page 100..
+trying page 101..
+trying page 102..
+trying page 103..
+trying page 104..
+trying page 105..
+trying page 106..
+trying page 107..
+trying page 108..
+trying page 109..
+trying page 110..
+trying page 111..
+trying page 112..
+trying page 113..
+trying page 114..
+trying page 115..
+trying page 116..
+trying page 117..
+trying page 118..
+trying page 119..
+trying page 120..
+trying page 121..
+trying page 122..
+trying page 123..
+trying page 124..
+trying page 125..
+trying page 126..
