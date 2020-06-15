@@ -43,7 +43,7 @@ destination_path = "Z:\\DATABASE\\ENERGIA\\DATAFILES"
 def connect_driver():
     chrome_options = Options()
     chrome_options.add_argument("--window-size=1920,1080")
-    chrome_options.add_argument("--headless")  
+    chrome_options.add_argument("--headless")
     prefs = {"download.default_directory": downloads_path}
     chrome_options.add_experimental_option("prefs", prefs)
 
@@ -78,9 +78,9 @@ def print_text_both(texto, file_name):
 
 
 def empty_download_dir():
-  files = os.listdir(downloads_path)
-  for f in files:
-    os.remove(os.path.join(downloads_path, f))
+    files = os.listdir(downloads_path)
+    for f in files:
+        os.remove(os.path.join(downloads_path, f))
 
 
 def scroll_to_element(driver, element):
@@ -199,7 +199,7 @@ def list_button(driver):
 def lista_button(driver):
     try:
         lista = driver.find_element_by_id('btn_list')
-            # wait.until(ec.presence_of_element_located((By.ID, "btn_list")))
+        # wait.until(ec.presence_of_element_located((By.ID, "btn_list")))
         lista.click()
     except NoSuchElementException:
         try:
@@ -222,7 +222,7 @@ def test_book(filename):
 
 def download_click(driver, downloads_path, f_logs):
     wait_loading_state(driver, 100)
-    
+
     download_button = wait.until(
         ec.element_to_be_clickable((By.ID, "btn-export-to-excel")))
     len_dir_before = len(get_files_from_rede(downloads_path, f_logs))
@@ -241,7 +241,8 @@ def download_click(driver, downloads_path, f_logs):
         time.sleep(1)
         len_dir_after = len(get_files_from_rede(downloads_path, f_logs))
         time_counter += 1
-        if time_counter > time_to_wait: break
+        if time_counter > time_to_wait:
+            break
 
     if len_dir_after > len_dir_before:
         files_new = get_files_from_rede(downloads_path, f_logs)
@@ -256,7 +257,8 @@ def download_click(driver, downloads_path, f_logs):
             is_excel = test_book(downloads_path + '\\' + new_file)
 
             time_counter += 1
-            if time_counter > time_to_wait: break
+            if time_counter > time_to_wait:
+                break
 
         files_new = get_files_from_rede(downloads_path, f_logs)
         new_file = [f for f in files_new if f not in files_before][0]
@@ -331,7 +333,7 @@ def select_date(driver, download_yearmons, downloads_path, f_logs):
 
     years_drop_down = wait.until(ec.element_to_be_clickable((By.CSS_SELECTOR, "div.select-wrapper")))
 
-    year_options =years_drop_down.find_elements_by_tag_name("option")
+    year_options = years_drop_down.find_elements_by_tag_name("option")
     year_options_values = [x.get_attribute("value") for x in year_options]
 
     download_years = list(set([ym[:4] for ym in download_yearmons]))
@@ -341,7 +343,6 @@ def select_date(driver, download_yearmons, downloads_path, f_logs):
 
     for a in download_years_not_available:
         print_text_both("---No data for {0} in this row.".format(a), f_logs)
-
 
     download_yearmons_avai = [ym for ym in download_yearmons if ym[:4] in download_years_available]
     downloaded_yearmons = []
@@ -366,11 +367,12 @@ def select_date(driver, download_yearmons, downloads_path, f_logs):
         wait_loading_state(driver, 150)
         # Este módulo serve para clicar no mês do dropdown list:
 
-
         # months_drop_down = driver.find_element_by_css_selector("div[class='w-80 mx-auto mb-3 export-month-area']")
 
-        months_table = wait.until(ec.presence_of_all_elements_located((By.CSS_SELECTOR, "button[class='edp-btn btn-line btn-red w-100 px-1']")))
-        month_sel = wait.until(ec.presence_of_element_located((By.CSS_SELECTOR, "button[class='edp-btn btn-line btn-red w-100 px-1 selected']")))
+        months_table = wait.until(ec.presence_of_all_elements_located(
+            (By.CSS_SELECTOR, "button[class='edp-btn btn-line btn-red w-100 px-1']")))
+        month_sel = wait.until(ec.presence_of_element_located(
+            (By.CSS_SELECTOR, "button[class='edp-btn btn-line btn-red w-100 px-1 selected']")))
 
         print_text_both("\n--Trying month {0}-{1}...".format(i, int(d_y)), f_logs)
 
@@ -381,12 +383,14 @@ def select_date(driver, download_yearmons, downloads_path, f_logs):
             if month_sel.text == m_abv:
                 pass
             else:
-                print_text_both("---Month {0}-{1} not available: skipping {2}...".format(i, int(d_y), month_button[0].text), f_logs)
+                print_text_both("---Month {0}-{1} not available: skipping {2}...".format(i,
+                                                                                         int(d_y), month_button[0].text), f_logs)
 
         else:
 
             if not month_button[0].is_enabled():
-                print_text_both("---Month {0}-{1} not available: skipping {2}...".format(i, int(d_y), month_button[0].text), f_logs)
+                print_text_both("---Month {0}-{1} not available: skipping {2}...".format(i,
+                                                                                         int(d_y), month_button[0].text), f_logs)
 
                 continue
             else:
@@ -394,7 +398,6 @@ def select_date(driver, download_yearmons, downloads_path, f_logs):
 
         wait_loading_state(driver, 150)
         print_text_both("---Month {0}-{1} available: Downloading {2}...".format(i, int(d_y), m_abv), f_logs)
-
 
         # Este módulo lança a rotina que tenta fazer download do ficheiro de dados 6 vezes até haver sucesso:
         try:
@@ -416,6 +419,7 @@ def select_date(driver, download_yearmons, downloads_path, f_logs):
 
     return result, downloaded_yearmons
 
+
 def read_excel_edp(file, is_head=False):
     try:
         df = pd.read_excel(file, names=None, header=None)
@@ -433,93 +437,92 @@ def read_excel_edp(file, is_head=False):
 
 
 def organize_excel_files(inst, f_logs, ym, substituir):
-  cil = inst["cil"]
-  tt = inst["abastecimento"]
-  cil = inst["cil"]
-  tt = inst["abastecimento"]
-  dwnld_files = os.listdir(downloads_path)
-  dates_with_files = []
-  new_files_added = []
-  files_replaced = []
-  files_extended = []
-  
-  if not dwnld_files:
-    return ym, new_files_added, files_replaced, files_extended
+    cil = inst["cil"]
+    tt = inst["abastecimento"]
+    cil = inst["cil"]
+    tt = inst["abastecimento"]
+    dwnld_files = os.listdir(downloads_path)
+    dates_with_files = []
+    new_files_added = []
+    files_replaced = []
+    files_extended = []
 
-  print_text_both(f"\n -----{cil} - ORGANIZE EXCEL FILES IN REDE", f_logs)
+    if not dwnld_files:
+        return ym, new_files_added, files_replaced, files_extended
 
-  for file in dwnld_files:
-      # file = dwnld_files[0]
-      file_path = os.path.join(downloads_path, file)
-      xl_file = pd.read_excel(file_path)
-      try:
-          date = xl_file["Dados Globais"][9]
-          split = date.split("/")
-          date = split[0] + split[1]
-      except KeyError:
-          os.remove(file_path)
-          print_text_both(f"Ficheiro {file} sem dados - removido", f_logs)
-          continue
+    print_text_both(f"\n -----{cil} - ORGANIZE EXCEL FILES IN REDE", f_logs)
 
-      dates_with_files.append(date)
-      df = pd.read_excel(file_path, skiprows=9)
-      df.columns = ["Data", "Hora", "Potência Ativa", "Potência Reativa Indutiva", "Potência Reativa Capacitiva"]
+    for file in dwnld_files:
+        # file = dwnld_files[0]
+        file_path = os.path.join(downloads_path, file)
+        xl_file = pd.read_excel(file_path)
+        try:
+            date = xl_file["Dados Globais"][9]
+            split = date.split("/")
+            date = split[0] + split[1]
+        except KeyError:
+            os.remove(file_path)
+            print_text_both(f"Ficheiro {file} sem dados - removido", f_logs)
+            continue
 
-      future_file_name = f"{cil}_{date}.xlsx"
-      future_file_path = os.path.join(destination_path, tt, str(cil), future_file_name)
+        dates_with_files.append(date)
+        df = pd.read_excel(file_path, skiprows=9)
+        df.columns = ["Data", "Hora", "Potência Ativa", "Potência Reativa Indutiva", "Potência Reativa Capacitiva"]
 
-      if not os.path.isdir(os.path.join(destination_path, tt)):
-        os.mkdir(os.path.join(destination_path, test_book))
-      if not os.path.isdir(os.path.join(destination_path, tt, str(cil))):
-        os.mkdir(os.path.join(destination_path, tt, cil))
-      if not os.path.exists(future_file_path):
-        new_files_added.append(date)
-        shutil.move(file_path, future_file_path)
-        print(f"'{cil}_{date}.xlsx' created")
-        continue
-      
-      df_exist, df_head = read_excel_edp(future_file_path, True)
-      df_download = read_excel_edp(file_path, False)
+        future_file_name = f"{cil}_{date}.xlsx"
+        future_file_path = os.path.join(destination_path, tt, str(cil), future_file_name)
 
-      df_exist['data_hora'] = df_exist['Data'] + ' ' + df_exist['Hora']
-      df_exist = df_exist.drop_duplicates(subset='data_hora', keep='last')
+        if not os.path.isdir(os.path.join(destination_path, tt)):
+            os.mkdir(os.path.join(destination_path, test_book))
+        if not os.path.isdir(os.path.join(destination_path, tt, str(cil))):
+            os.mkdir(os.path.join(destination_path, tt, cil))
+        if not os.path.exists(future_file_path):
+            new_files_added.append(date)
+            shutil.move(file_path, future_file_path)
+            print(f"'{cil}_{date}.xlsx' created")
+            continue
 
-      df_download['data_hora'] = df_download['Data'] + ' ' + df_download['Hora']
-      df_download = df_download.drop_duplicates(subset='data_hora', keep='last')
+        df_exist, df_head = read_excel_edp(future_file_path, True)
+        df_download = read_excel_edp(file_path, False)
 
-      dates_exist = [d for d in df_download['data_hora'].tolist() if d in df_exist['data_hora'].tolist()]
-      if substituir:
-          df_exist = df_exist.loc[~df_exist.data_hora.isin(dates_exist), :]
-          df_new = df_exist.append(df_download)
-          df_new = df_new.drop_duplicates(subset='data_hora', keep='last')
-          df_new = df_new.sort_values(by='data_hora')
-          files_replaced.append(date)
-          print(f"'{cil}_{date}.xlsx' replaced")
+        df_exist['data_hora'] = df_exist['Data'] + ' ' + df_exist['Hora']
+        df_exist = df_exist.drop_duplicates(subset='data_hora', keep='last')
 
-      else:
-          df_download = df_download.loc[~df_download.data_hora.isin(dates_exist), :]
-          df_new = df_exist.append(df_download)
-          df_new = df_new.drop_duplicates(subset='data_hora', keep='last')
-          df_new = df_new.sort_values(by='data_hora')
-          files_extended.append(date)
+        df_download['data_hora'] = df_download['Data'] + ' ' + df_download['Hora']
+        df_download = df_download.drop_duplicates(subset='data_hora', keep='last')
 
-          print(f"'{cil}_{date}.xlsx' extended")
+        dates_exist = [d for d in df_download['data_hora'].tolist() if d in df_exist['data_hora'].tolist()]
+        if substituir:
+            df_exist = df_exist.loc[~df_exist.data_hora.isin(dates_exist), :]
+            df_new = df_exist.append(df_download)
+            df_new = df_new.drop_duplicates(subset='data_hora', keep='last')
+            df_new = df_new.sort_values(by='data_hora')
+            files_replaced.append(date)
+            print(f"'{cil}_{date}.xlsx' replaced")
 
-      df_new.drop('data_hora', axis=1, inplace=True)
-      col_names = df_new.columns.tolist()
-      temp_names = [1, 2, 3, 4, 5]
-      df_new.columns = temp_names
-      df_head.columns = temp_names
-      df_col = pd.Series(col_names, index=temp_names)
-      df_n = df_head.append(df_col, ignore_index=True)
-      df_new = df_n.append(df_new)
-      df_new.to_excel(future_file_path, index=False, header=False)
+        else:
+            df_download = df_download.loc[~df_download.data_hora.isin(dates_exist), :]
+            df_new = df_exist.append(df_download)
+            df_new = df_new.drop_duplicates(subset='data_hora', keep='last')
+            df_new = df_new.sort_values(by='data_hora')
+            files_extended.append(date)
 
-      os.remove(file_path)
+            print(f"'{cil}_{date}.xlsx' extended")
 
+        df_new.drop('data_hora', axis=1, inplace=True)
+        col_names = df_new.columns.tolist()
+        temp_names = [1, 2, 3, 4, 5]
+        df_new.columns = temp_names
+        df_head.columns = temp_names
+        df_col = pd.Series(col_names, index=temp_names)
+        df_n = df_head.append(df_col, ignore_index=True)
+        df_new = df_n.append(df_new)
+        df_new.to_excel(future_file_path, index=False, header=False)
 
-  empty_dates = [d for d in ym if d not in dates_with_files]
-  return empty_dates, new_files_added, files_replaced, files_extended
+        os.remove(file_path)
+
+    empty_dates = [d for d in ym if d not in dates_with_files]
+    return empty_dates, new_files_added, files_replaced, files_extended
 
 
 def get_files_from_rede(folder, f_logs):
@@ -553,192 +556,207 @@ def get_files_from_rede(folder, f_logs):
 
 
 def robot(inst, ym, substituir):
-  
-  downloaded_yearmons = []
-  not_downloaded_yearmons = ym
 
-  report = {'new file added': downloaded_yearmons,
-            'download fail': not_downloaded_yearmons,
-            'file replaced': [],
-            'file extended': []
-            }
-                
-  empty_download_dir()
-  now = datetime.datetime.now()
-  year = str(now.year)
-  month = str(now.month).zfill(2)
-  day = str(now.day).zfill(2)
-  hour = str(now.hour).zfill(2)
-  minute = str(now.minute).zfill(2)
+    downloaded_yearmons = []
+    not_downloaded_yearmons = ym
 
-  cil = inst['cil']
-  cpe = inst['cpe']
-  password_word = inst['password']
-  username = inst['user']
+    report = {'new file added': downloaded_yearmons,
+              'download fail': not_downloaded_yearmons,
+              'file replaced': [],
+              'file extended': []
+              }
 
-  
+    empty_download_dir()
+    now = datetime.datetime.now()
+    year = str(now.year)
+    month = str(now.month).zfill(2)
+    day = str(now.day).zfill(2)
+    hour = str(now.hour).zfill(2)
+    minute = str(now.minute).zfill(2)
 
-  # cil=3874085
-  # cpe = "PT0002000038740856ZG"
-  # tt = 'BTE'
-  # date_begin = dt(2020,4,1)
-  # date_end = dt(2020,4,29)
+    cil = inst['cil']
+    cpe = inst['cpe']
+    password_word = inst['password']
+    username = inst['user']
 
+    # cil=3874085
+    # cpe = "PT0002000038740856ZG"
+    # tt = 'BTE'
+    # date_begin = dt(2020,4,1)
+    # date_end = dt(2020,4,29)
 
-  f_logs = f"{logs_dir}/logs_{year}_{month}_{day}.txt"
-  print_text_both(f"***DOWNLOAD DE FICHEIROS***\n\n\n**DIA {day}-{month}-{now.year} ÀS {now.hour}H{now.minute}min**", f_logs)
-  if not username or not password_word:
-      print_text_both(f"{cil} sem credenciais para o site da EDP...", f_logs)
-      return report
+    f_logs = f"{logs_dir}/logs_{year}_{month}_{day}.txt"
+    print_text_both(
+        f"***DOWNLOAD DE FICHEIROS***\n\n\n**DIA {day}-{month}-{now.year} ÀS {now.hour}H{now.minute}min**", f_logs)
+    if not username or not password_word:
+        print_text_both(f"{cil} sem credenciais para o site da EDP...", f_logs)
+        return report
 
-  driver, action, wait, wait_long,wait_short = connect_driver()
+    driver, action, wait, wait_long, wait_short = connect_driver()
 
-  print_text_both("\nProcessing CIL: {0} | CPE: {1}".format(cil, cpe), f_logs)
+    print_text_both("\nProcessing CIL: {0} | CPE: {1}".format(cil, cpe), f_logs)
 
-  # Se for para substituir ficheiros existentes, continua. Caso contrário, reduz a lista dos ficheiros a sacar
-  # Neste momento, compara só os ficheiros mensais, em vez de comparar 15 em 15 minutos. Mas como os ficheiros
-  # da edp vêm de mes a mes, torna-se irrelevante.
+    # Se for para substituir ficheiros existentes, continua. Caso contrário, reduz a lista dos ficheiros a sacar
+    # Neste momento, compara só os ficheiros mensais, em vez de comparar 15 em 15 minutos. Mas como os ficheiros
+    # da edp vêm de mes a mes, torna-se irrelevante.
 
-  wait_loading_state(driver, 100)
+    wait_loading_state(driver, 100)
 
+    # Procedimento de carregar no tipo de entidade: "Empresarial"
+    tipo_entidade = wait.until(ec.element_to_be_clickable((By.LINK_TEXT, "Empresarial")))
+    tipo_entidade.click()
 
-  # Procedimento de carregar no tipo de entidade: "Empresarial"
-  tipo_entidade = wait.until(ec.element_to_be_clickable((By.LINK_TEXT, "Empresarial")))
-  tipo_entidade.click()
+    user = wait.until(ec.presence_of_element_located((By.ID, "email")))
+    user.clear()
+    user.send_keys(username)
+    password = wait.until(ec.presence_of_element_located((By.ID, "pwd")))
+    password.clear()
+    password.send_keys(password_word)
 
-  user = wait.until(ec.presence_of_element_located((By.ID, "email")))
-  user.clear()
-  user.send_keys(username)
-  password = wait.until(ec.presence_of_element_located((By.ID, "pwd")))
-  password.clear()
-  password.send_keys(password_word)
+    # Carrega no botao entrar para submeter o login
+    login_button = wait.until(ec.element_to_be_clickable((By.XPATH, "//div[@class = 'card-body p-4 p-sm-5']//form"
+                                                                    "//div//button")))
+    login_button.click()
 
-  # Carrega no botao entrar para submeter o login
-  login_button = wait.until(ec.element_to_be_clickable((By.XPATH, "//div[@class = 'card-body p-4 p-sm-5']//form"
-                                                                  "//div//button")))
-  login_button.click()
+    lista_button(driver)
+    success_search = search_cpe(driver, cpe, wait, f_logs)
 
-  lista_button(driver)
-  success_search = search_cpe(driver, cpe, wait, f_logs)
+    if not success_search:
+        lista_button(driver)
+        success_search = search_cpe(driver, cpe, wait, f_logs)
 
-  if not success_search:
-      lista_button(driver)
-      success_search = search_cpe(driver, cpe, wait, f_logs)
+    wait_loading_state(driver, 100)
 
-  wait_loading_state(driver, 100)
+    try:
+        rows_begin = wait.until(ec.presence_of_all_elements_located((By.LINK_TEXT, cpe)))
+    except TimeoutException:
+        print_text_both("-No results found. Trying next CPE...", f_logs)
+        try:
+            driver.close()
+            driver.quit()
+        except:
+            pass
+        return report
 
-  try:
-      rows_begin = wait.until(ec.presence_of_all_elements_located((By.LINK_TEXT, cpe)))
-  except TimeoutException:
-      print_text_both("-No results found. Trying next CPE...", f_logs)
+    print_text_both("-{} list result(s) found for that CPE".format(len(rows_begin)), f_logs)
 
-      driver.close()
-      return report
+    for row in rows_begin:
+        # row = rows_begin[0]
+        index_row = rows_begin.index(row)
+        print_text_both(f"\n\n-Trying row {index_row + 1}", f_logs)
 
-  print_text_both("-{} list result(s) found for that CPE".format(len(rows_begin)), f_logs)
+        wait_loading_state(driver, 100)
 
-  for row in rows_begin:
-      # row = rows_begin[0]
-      index_row = rows_begin.index(row)
-      print_text_both(f"\n\n-Trying row {index_row + 1}", f_logs)
+        lista_button(driver)
+        success_search = search_cpe(driver, cpe, wait, f_logs)
+        if not success_search:
+            lista_button(driver)
+            success_search = search_cpe(driver, cpe, wait, f_logs)
 
-      wait_loading_state(driver, 100)
+            if not success_search:
+                print_text_both("--nao é possivel procurar", f_logs)
+                try:
+                    driver.close()
+                    driver.quit()
+                except:
+                    pass
+                # report['download success'] = downloaded_yearmons
+                # report['download fail'] = not_downloaded_yearmons
+                return report
+        try:
+            rows = wait.until(ec.presence_of_all_elements_located((By.LINK_TEXT, cpe)))
+            row = rows[index_row]
 
-      lista_button(driver)
-      success_search = search_cpe(driver, cpe, wait, f_logs)
-      if not success_search:
-          lista_button(driver)
-          success_search = search_cpe(driver, cpe, wait, f_logs)
-          
-          if not success_search:
-              print_text_both("--nao é possivel procurar", f_logs)
-              driver.close()
-              # report['download success'] = downloaded_yearmons
-              # report['download fail'] = not_downloaded_yearmons
-              return report
-      try:
-          rows = wait.until(ec.presence_of_all_elements_located((By.LINK_TEXT, cpe)))
-          row = rows[index_row]
+        except (TimeoutException, IndexError):
+            print_text_both("--No results found for this CPE. Trying next CPE...", f_logs)
 
-      except (TimeoutException, IndexError):
-          print_text_both("--No results found for this CPE. Trying next CPE...", f_logs)
+            # report['download success'] = downloaded_yearmons
+            # report['download fail'] = not_downloaded_yearmons
+            driver.close()
+            return report
 
-          # report['download success'] = downloaded_yearmons
-          # report['download fail'] = not_downloaded_yearmons
-          driver.close()
-          return report
+        wait_loading_state(driver, 100)
+        try:
+            scroll_to_element(driver, row)
 
-      wait_loading_state(driver, 100)
-      try:
-          scroll_to_element(driver, row)
+        except StaleElementReferenceException:
+            lista_button(driver)
+            success_search = search_cpe(driver, cpe, wait, f_logs)
+            if not success_search:
+                print_text_both("--nao é possivel procurar", f_logs)
+                try:
+                    driver.close()
+                    driver.quit()
+                except:
+                    pass
+                # report['download success'] = downloaded_yearmons
+                # report['download fail'] = not_downloaded_yearmons
+                return report
 
-      except StaleElementReferenceException:
-          lista_button(driver)
-          success_search = search_cpe(driver, cpe, wait, f_logs)
-          if not success_search:
-              print_text_both("--nao é possivel procurar", f_logs)
-              driver.close()
-              # report['download success'] = downloaded_yearmons
-              # report['download fail'] = not_downloaded_yearmons
-              return report
+            try:
+                rows = wait.until(ec.presence_of_all_elements_located((By.LINK_TEXT, cpe)))
+                row = rows[index_row]
+            except (TimeoutException, IndexError):
+                print_text_both("--No results found for this CPE. Trying next CPE...", f_logs)
 
-          try:
-              rows = wait.until(ec.presence_of_all_elements_located((By.LINK_TEXT, cpe)))
-              row = rows[index_row]
-          except (TimeoutException, IndexError):
-              print_text_both("--No results found for this CPE. Trying next CPE...", f_logs)
+                # report['download success'] = downloaded_yearmons
+                # report['download fail'] = not_downloaded_yearmons
+                try:
+                    driver.close()
+                    driver.quit()
+                except:
+                    pass
+                return report
 
-              # report['download success'] = downloaded_yearmons
-              # report['download fail'] = not_downloaded_yearmons
-              driver.close()
-              return report
+        row.click()
 
-      row.click()
+        wait_loading_state(driver, 100)
+        try:
+            consumos_tab = wait.until(ec.element_to_be_clickable((By.LINK_TEXT, "Consumos")))
+        except TimeoutException:
+            print_text_both("--nao é possivel procurar", f_logs)
+            print_text_both("   Consumos tab not found...", f_logs)
 
-      wait_loading_state(driver, 100)
-      try:
-          consumos_tab = wait.until(ec.element_to_be_clickable((By.LINK_TEXT, "Consumos")))
-      except TimeoutException:
-          print_text_both("--nao é possivel procurar", f_logs)
-          print_text_both("   Consumos tab not found...", f_logs)
+            wait_loading_state(driver, 50)
 
+            back_button = wait.until(ec.element_to_be_clickable((By.CSS_SELECTOR, "#btn-go-back")))
+            back_button.click()
 
-          wait_loading_state(driver, 50)
+            wait_loading_state(driver, 50)
+            lista_button(driver)
+            continue
 
-          back_button = wait.until(ec.element_to_be_clickable((By.CSS_SELECTOR, "#btn-go-back")))
-          back_button.click()
+        scroll_to_element(driver, consumos_tab)
 
-          wait_loading_state(driver, 50)
-          lista_button(driver)
-          continue
+        try:
+            consumos_tab.click()
+        except:
+            driver.execute_script("arguments[0].click();", consumos_tab)
 
-      scroll_to_element(driver, consumos_tab)
+        wait_loading_state(driver, 150)
 
-      try:
-          consumos_tab.click()
-      except:
-          driver.execute_script("arguments[0].click();", consumos_tab)
+        result, downloaded_yearmons_list = select_date(driver, ym, downloads_path, f_logs)
 
-      wait_loading_state(driver, 150)
+        wait_loading_state(driver, 150)
+        downloaded_yearmons = downloaded_yearmons + downloaded_yearmons_list
+        not_downloaded_yearmons = [d for d in not_downloaded_yearmons if d not in downloaded_yearmons]
 
-      result, downloaded_yearmons_list = select_date(driver, ym, downloads_path, f_logs)
+        back_button = wait.until(ec.element_to_be_clickable((By.ID, "btn-go-back")))
+        back_button.click()
+        wait_loading_state(driver, 150)
 
-      wait_loading_state(driver, 150)
-      downloaded_yearmons = downloaded_yearmons + downloaded_yearmons_list
-      not_downloaded_yearmons = [d for d in not_downloaded_yearmons if d not in downloaded_yearmons]
+    try:
+        driver.close()
+        driver.quit()
+    except:
+        pass
+    empty_dates, new_files_added, files_replaced, files_extended = organize_excel_files(inst, f_logs, ym, substituir)
+    downloaded_yearmons = [d for d in downloaded_yearmons if d not in empty_dates]
+    not_downloaded_yearmons = [d for d in ym if d not in downloaded_yearmons]
 
-      back_button = wait.until(ec.element_to_be_clickable((By.ID, "btn-go-back")))
-      back_button.click()
-      wait_loading_state(driver, 150)
+    report['new file added'] = new_files_added
+    report['download fail'] = not_downloaded_yearmons
+    report['file replaced'] = files_replaced
+    report['file extended'] = files_extended
 
-  driver.close()
-  empty_dates, new_files_added, files_replaced, files_extended = organize_excel_files(inst, f_logs, ym, substituir)
-  downloaded_yearmons = [d for d in downloaded_yearmons if d not in empty_dates]
-  not_downloaded_yearmons = [d for d in ym if d not in downloaded_yearmons]
-
-  report['new file added'] = new_files_added
-  report['download fail'] = not_downloaded_yearmons
-  report['file replaced'] = files_replaced
-  report['file extended'] = files_extended
-
-  return report
+    return report

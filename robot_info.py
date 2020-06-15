@@ -20,6 +20,7 @@ from glob import glob
 
 # print(cils_months)
 
+
 def str_to_path(text):
 	if isinstance(text, str):
 		chars = "@/\\`*{}[]()>#+-.!$"
@@ -38,7 +39,7 @@ def get_cpes(gestao, cils_or_cpes, f_logs):
 		print_text_both('please select one "gestao" (gestao=*string*) or a number of cpes/cils (cpes_or_cils=*list*)', f_logs)
 		return None
 	if gestao:
-		cpes=df_db.loc[df_db.gestao==gestao.upper(), 'cpe'].tolist()
+		cpes = df_db.loc[df_db.gestao == gestao.upper(), 'cpe'].tolist()
 		if not cpes:
 			print_text_both(f'A gestão selecionada --{gestao}-- não é válida... tente novamente.', f_logs)
 
@@ -49,25 +50,26 @@ def get_cpes(gestao, cils_or_cpes, f_logs):
 			cils_or_cpes = [cils_or_cpes]
 
 		cpes = []
-		
+
 		for c in cils_or_cpes:
 			if isinstance(c, str) and 'PT' in c:
 				cpes.append(c)
 			else:
 				try:
-					c = int(c)			
+					c = int(c)
 					cpe = df_db.loc[df_db.cil == c, 'cpe'].values[0]
 					cpes.append(cpe)
 				except:
 					cpes_fail.append(c)
 					continue
 		if not cpes:
-			print_text_both(f'::ERRO!:: Os cpes/cils selecionados não são válidos... tente novamente:\n:::: -->CPES/CILS inválidos: {space_l(cils_or_cpes)}', f_logs)
+			print_text_both(
+			    f'::ERRO!:: Os cpes/cils selecionados não são válidos... tente novamente:\n:::: -->CPES/CILS inválidos: {space_l(cils_or_cpes)}', f_logs)
 			return None
-	
+
 	if cpes_fail:
 		print_text_both(f'::ERRO!:: SÓ nos cils/cpes: {space_l(cpes_fail)}. \n:::: -->Serão ignorados.', f_logs)
-	
+
 	return cpes
 
 
@@ -187,7 +189,8 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False):
 	day = str(now.day).zfill(2)
 
 	f_logs = f"{logs_dir}/logs_{year}_{month}_{day}.txt"
-	print_text_both(f"***RECOLHA DE INFORMAÇÃO***\n\n\n**DIA {day}-{month}-{now.year} ÀS {now.hour}H{now.minute}min**", f_logs)
+	print_text_both(
+	    f"***RECOLHA DE INFORMAÇÃO***\n\n\n**DIA {day}-{month}-{now.year} ÀS {now.hour}H{now.minute}min**", f_logs)
 	if get_new and cils_or_cpes:
 		print_text_both('impossivel adequirir informação nova sobre cpes expecíficos. Tente uma gestão!', f_logs)
 		return
@@ -200,7 +203,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False):
 		print_text_both(f'\n\nA tentar reunir informação para os cpes: {space_l(cpes)}......', f_logs)
 		diff_gestao = df_db.loc[df_db.cpe.isin(cpes), 'gestao'].unique()
 	else:
-		cpes=[]
+		cpes = []
 		if gestao:
 			diff_gestao = [gestao.upper()]
 		else:
@@ -217,7 +220,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False):
 			df_user = df_db.loc[df_db.user == username, :]
 			password_word = df_user.loc[:, 'password'].iloc[0]
 			if not get_new:
-				cpes_user = df_user.loc[df_user.cpe.isin(cpes),'cpe'].tolist()
+				cpes_user = df_user.loc[df_user.cpe.isin(cpes), 'cpe'].tolist()
 				if not cpes_user:
 					print_text_both(f'username {username} sem cpes associados... a tentar o próximo username', f_logs)
 					continue
@@ -225,9 +228,9 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False):
 				cpes_user = []
 			driver, action, wait, wait_long, wait_short = connect_driver()
 			wait_loading_state(driver, 100)
-			driver.close()
-			driver.quit()
-			return
+			# driver.close()
+			# driver.quit()
+			# return
 			tipo_entidade = wait.until(ec.element_to_be_clickable((By.LINK_TEXT, "Empresarial")))
 			tipo_entidade.click()
 			user = wait.until(ec.presence_of_element_located((By.ID, "email")))
@@ -273,8 +276,8 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False):
 				# temporary save cpes gathered, in case of some sort of failure
 				df_cpes_user = pd.DataFrame(cpes_user)
 				cpes_user_path = os.path.join(logs_dir, 'cpes_' + str_to_path(username) + '.csv')
-				df_cpes_user.to_csv(cpes_user_path)	
-			cpes_fail = []			
+				df_cpes_user.to_csv(cpes_user_path)
+			cpes_fail = []
 			for cpe in cpes_user:
 				print_text_both(f"Trying cpe {cpe}: number {cpes_user.index(cpe)+1}", f_logs)
 				try:
@@ -296,7 +299,14 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False):
 
 			df_cpes_fail = pd.DataFrame(cpes_fail_again)
 			cpes_fail_path = os.path.join(logs_dir, 'cpes_FAIL_' + str_to_path(username) + '.csv')
-			df_cpes_fail.to_csv(cpes_fail_path)			
+			df_cpes_fail.to_csv(cpes_fail_path)
+			driver.close()
+			driver.quit()
 	write_data(all_cpes_data)
+  try:
+    driver.close()
+    driver.quit()
+  except:
+    pass
 	return
 
