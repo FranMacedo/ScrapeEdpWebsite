@@ -221,18 +221,16 @@ def print_loading_bar(item, all_items, f_logs):
                     ' '*(100-item_pct_int) + f'({item_nr}/{total_nr})', f_logs)
 
 
-=False):
-    now=datetime.datetime.now()
+def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
+    now = datetime.datetime.now()
+    year = str(now.year)
+    month = str(now.month).zfill(2)
+    day = str(now.day).zfill(2)
 
-def get_info(gestao = None, cils_or_cpes = None, get_new = False, only_active
-year = str(now.year)
-month = str(now.month).zfill(2)
-day = str(now.day).zfill(2)
-
- f_logs = f"{logs_dir}/logs_{year}_{month}_{day}.txt"
-  print_text_both(
-       f"***RECOLHA DE INFORMAÇÃO***\n\n\n**DIA {day}-{month}-{now.year} ÀS {now.hour}H{now.minute}min**", f_logs)
-   if get_new and cils_or_cpes:
+    f_logs = f"{logs_dir}/logs_{year}_{month}_{day}.txt"
+    print_text_both(
+        f"\n\n***RECOLHA DE INFORMAÇÃO***\n**DIA {day}-{month}-{now.year} ÀS {now.hour}H{now.minute}min**", f_logs)
+    if get_new and cils_or_cpes:
         print_text_both('impossivel adequirir informação nova sobre cpes expecíficos. Tente uma gestão!', f_logs)
         return
 
