@@ -7,7 +7,7 @@ from glob import glob
 import sys
 
 try:
-    df_db = connect_db('energia', True)
+    df_db = connect_db('energia', False)
     print(df_db)
 except Exception as e:
     print(
