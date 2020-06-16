@@ -10523,3 +10523,122 @@ Trying cpe PT0002000115985365BW
 -1 list result(s) found for that CPE
 --Trying row 1
 ---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------7.7%                                                                                              (338/4363)
+Trying cpe PT0002000115985387NR
+-1 list result(s) found for that CPE
+--Trying row 1
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 18H38min**
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------7.8%                                                                                              (339/4363)
+Trying cpe PT0002000115985434ZW
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------7.8%                                                                                              (340/4363)
+Trying cpe PT0002000115985569LE
+-1 list result(s) found for that CPE
+--Trying row 1
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 18H38min**
+
+Processing CIL: 6516541 | CPE: PT0002000065165418NG
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------7.8%                                                                                              (341/4363)
+Trying cpe PT0002000115985582CN
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------7.8%                                                                                              (342/4363)
+Trying cpe PT0002000115985695WX
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------7.9%                                                                                              (343/4363)
+Trying cpe PT0002000115985731GT
+---No data for 2019 in this row.
+-1 list result(s) found for that CPE
+--Trying row 1
+
+
+-Trying row 2
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------7.9%                                                                                              (344/4363)
+Trying cpe PT0002000115989847KE
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------7.9%                                                                                              (345/4363)
+Trying cpe PT0002000115989893TE
+-1 list result(s) found for that CPE
+--Trying row 1
+---No data for 2019 in this row.
+
+
+-Trying row 3
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------7.9%                                                                                              (346/4363)
+Trying cpe PT0002000115989938WK
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------8.0%                                                                                             (347/4363)
+Trying cpe PT0002000115989984GK
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------8.0%                                                                                             (348/4363)
+Trying cpe PT0002000115990011YW
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+
+--Trying month 1-2019...
+SUCCESS!
+
+
+||--------8.0%                                                                                             (349/4363)
+Trying cpe PT0002000115990102XR
+-1 list result(s) found for that CPE
+--Trying row 1
