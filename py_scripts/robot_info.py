@@ -190,7 +190,7 @@ def write_data(data):
         title='Informações Disponiveis',
         text=f'Informação disponiveis no site da EDP reunidas com sucesso na data <b>{today}</b>:',
         df=df,
-        conditions={'True': 'success-back', 'Ativo': 'success-back', 'row 1': 'warning-back'}
+        conditions={'True': 'success-back', 'Ativo': 'success-back', 'row 1': 'warning-back'},
         file_path=report_path
     )
 
