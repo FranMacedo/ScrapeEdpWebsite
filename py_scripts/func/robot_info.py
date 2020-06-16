@@ -1,10 +1,9 @@
-from robot_edp_online import *
-from my_functions import find_between_r
-from run_robot import df_db, create_download_log
+from .robot_edp_online import *
+from .run_robot import df_db, create_download_log
 import os
 from glob import glob
-from auto_email import send_auto_email
-
+from .auto_email import send_auto_email
+import time
 # cml_cils = df_db.loc[df_db.gestao=='CML','cil'].tolist()
 # # print(cml_cpes)
 
@@ -184,11 +183,51 @@ def write_data(data):
 
     report_path = os.path.join(logs_dir, 'cpe_info_' + today + '.csv')
     df.to_csv(report_path)
-    send_auto_email('franciscomacedo@lisboaenova.org',
-                    f'Informações Disponiveis',
-                    f'Informação disponiveis no site da EDP reunidas com sucesso na data\
-                    <b>{today}</b>:', df)
+    time.sleep(5)
+    send_auto_email(
+        receiver_email='franciscomacedo@lisboaenova.org',
+        title='Informações Disponiveis',
+        text=f'Informação disponiveis no site da EDP reunidas com sucesso na data <b>{today}</b>:',
+        df=df,
+        conditions={'True': 'success-back', 'Ativo': 'success-back', 'row 1': 'warning-back'},
+        file_path=report_path
+    )
+
+    # send_auto_email('franciscomacedo@lisboaenova.org',
+    #                 f'Informações Disponiveis',
+    #                 f'Informação disponiveis no site da EDP reunidas com sucesso na data\
+    #                 <b>{today}</b>:', df)
     return
+
+
+def login_edp(driver, wait, username, password_word):
+    wait_loading_state(driver, 100)
+    tipo_entidade = wait.until(ec.element_to_be_clickable((By.LINK_TEXT, "Empresarial")))
+    tipo_entidade.click()
+    user = wait.until(ec.presence_of_element_located((By.ID, "email")))
+    user.clear()
+    user.send_keys(username)
+    password = wait.until(ec.presence_of_element_located((By.ID, "pwd")))
+    password.clear()
+    password.send_keys(password_word)
+
+    login_button = wait.until(ec.element_to_be_clickable((By.XPATH, "//div[@class = 'card-body p-4 p-sm-5']//form"
+                                                          "//div//button")))
+    login_button.click()
+    wait_loading_state(driver, 100)
+
+    lista_button(driver)
+    wait_loading_state(driver, 100)
+    return
+
+
+def print_loading_bar(item, all_items, f_logs):
+    total_nr = len(all_items)
+    item_nr = all_items.index(item)+1
+    item_pct = round((item_nr/total_nr)*100, 1)
+    item_pct_int = int(item_pct)
+    print_text_both('\n\n||' + '-'*item_pct_int + f'{item_pct}% ' +
+                    ' '*(100-item_pct_int) + f'({item_nr}/{total_nr})', f_logs)
 
 
 def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
@@ -199,7 +238,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
 
     f_logs = f"{logs_dir}/logs_{year}_{month}_{day}.txt"
     print_text_both(
-        f"***RECOLHA DE INFORMAÇÃO***\n\n\n**DIA {day}-{month}-{now.year} ÀS {now.hour}H{now.minute}min**", f_logs)
+        f"\n\n***RECOLHA DE INFORMAÇÃO***\n**DIA {day}-{month}-{now.year} ÀS {now.hour}H{now.minute}min**", f_logs)
     if get_new and cils_or_cpes:
         print_text_both('impossivel adequirir informação nova sobre cpes expecíficos. Tente uma gestão!', f_logs)
         return
@@ -237,26 +276,13 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
             else:
                 cpes_user = []
             driver, action, wait, wait_long, wait_short = connect_driver()
-            wait_loading_state(driver, 100)
-            # driver.close()
-            # driver.quit()
-            # return
-            tipo_entidade = wait.until(ec.element_to_be_clickable((By.LINK_TEXT, "Empresarial")))
-            tipo_entidade.click()
-            user = wait.until(ec.presence_of_element_located((By.ID, "email")))
-            user.clear()
-            user.send_keys(username)
-            password = wait.until(ec.presence_of_element_located((By.ID, "pwd")))
-            password.clear()
-            password.send_keys(password_word)
+            try:
+                login_edp(driver, wait, username, password_word)
+            except:
+                time.sleep(5)
+                driver, action, wait, wait_long, wait_short = connect_driver()
+                login_edp(driver, wait, username, password_word)
 
-            login_button = wait.until(ec.element_to_be_clickable((By.XPATH, "//div[@class = 'card-body p-4 p-sm-5']//form"
-                                                                  "//div//button")))
-            login_button.click()
-            wait_loading_state(driver, 100)
-
-            lista_button(driver)
-            wait_loading_state(driver, 100)
             if only_active:
                 print_text_both(f"\n\n-------TURNING ON ACTIVO-------\n\n", f_logs)
                 wait.until(ec.element_to_be_clickable((By.ID, "edp-dropdown-state"))).click()
@@ -308,13 +334,10 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
             cpes_fail = []
 
             print_text_both(f"\n\n------------------ GOING FOR INFO OF EACH CPE ----------------------\n\n", f_logs)
-            cpes_user
-            total_nr = len(cpes_user)
+
             for cpe_tt in cpes_user:
                 cpe = cpe_tt['cpe']
-                cpe_nr = cpes_user.index(cpe_tt)+1
-                print_text_both('\n\n||' + '-'*cpe_nr + f'{round((cpe_nr/total_nr)*100, 1)}% ' +
-                                ' '*(total_nr-cpe_nr) + f'({cpe_nr}/{total_nr})', f_logs)
+                print_loading_bar(cpe_tt, cpes_user, f_logs)
                 print_text_both(f"Trying cpe {cpe}", f_logs)
 
                 try:
@@ -327,9 +350,19 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
                 print_text_both(f"SUCCESS!", f_logs)
 
             if cpes_fail:
-                driver.close()
-                driver.quit()
+                try:
+                    driver.close()
+                    driver.quit()
+                except:
+                    pass
+
                 driver, action, wait, wait_long, wait_short = connect_driver()
+                try:
+                    login_edp(driver, wait, username, password_word)
+                except:
+                    time.sleep(5)
+                    driver, action, wait, wait_long, wait_short = connect_driver()
+                    login_edp(driver, wait, username, password_word)
 
                 cpes_fail_again = []
                 print_text_both(f"Trying failed cpes: \n\n{space_l(cpes_fail)}", f_logs)

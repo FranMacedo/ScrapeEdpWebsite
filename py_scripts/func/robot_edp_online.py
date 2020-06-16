@@ -13,7 +13,7 @@ from selenium.common.exceptions import WebDriverException
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.action_chains import ActionChains
 import os
-from my_functions import *
+from .my_functions import *
 import time
 import datetime
 import pandas as pd
