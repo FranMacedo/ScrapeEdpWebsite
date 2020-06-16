@@ -1,5 +1,5 @@
-from robot_edp_online import robot, logs_dir
-from my_functions import connect_db, find_between_r
+from .robot_edp_online import robot, logs_dir
+from .my_functions import connect_db, find_between_r
 from datetime import datetime as dt
 import pandas as pd
 import os

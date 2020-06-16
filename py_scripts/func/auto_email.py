@@ -6,7 +6,7 @@ from email import encoders
 from email.mime.base import MIMEBase
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-from sec_vars import pwd, sd_email
+from .sec_vars import pwd, sd_email
 import base64
 import os
 
