@@ -353,3 +353,11 @@ SUCCESS!
 Trying cpe PT0002000108305379NS
 -1 list result(s) found for that CPE
 --Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.7%                                                                   (17/49)
+Trying cpe PT0002000037674656WS
+-1 list result(s) found for that CPE
+--Trying row 1
