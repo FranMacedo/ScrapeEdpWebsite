@@ -15,7 +15,10 @@ choices = ['ALL'] + choices
 layout = [
     [sg.Text('Please enter your preferences:')],
     [sg.Text('Gestão', size=(30, 1)), sg.Combo(choices, key='GESTAO', default_value='ALL')],
+    [sg.Listbox(values=('aaa', 'bbb', 'ccc'), size=(30, 3), select_mode=sg.LISTBOX_SELECT_MODE_MULTIPLE)],
 
+          [sg.In(key='-CAL-', enable_events=True, visible=False), sg.CalendarButton('Calendar', target='-CAL-', pad=None, font=('MS Sans Serif', 10, 'bold'),
+                button_color=('red', 'white'), key='_CALENDAR_', format=('%d %B, %Y'))],
     # [sg.Text('With details (gestão, tt and files)?', size=(30, 1)), 
     # sg.Radio('Yes', "DETAIL", key="DETAIL-TRUE", default=True, enable_events=True), 
     # sg.Radio('No', "DETAIL", key="DETAIL-FALSE", enable_events=True)],
@@ -59,6 +62,10 @@ while True:                  # the event loop
 
     	sg.popup_scrolled(f"asdasdmsg",  size=(100, 30))
     	break
+    elif event in (None, 'Exit', 'Cancel'):
+        break
     else:
-    	break
+        print(values)
+import time
+# time.sleep(5)
 window.close()
