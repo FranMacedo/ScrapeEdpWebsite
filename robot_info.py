@@ -212,24 +212,27 @@ def login_edp(driver, wait, username, password_word):
     return
 
 
-def print_loading_bar(item, all_items):
+def print_loading_bar(item, all_items, f_logs):
     total_nr = len(all_items)
     item_nr = all_items.index(item)+1
-    item_pct = int((item_nr/total_nr)*100)
-    print_text_both('\n\n||' + '-'*item_pct + f'{item_pct}% ' +
-                    ' '*(100-item_pct) + f'({item_nr}/{total_nr})', f_logs)
+    item_pct = round((item_nr/total_nr)*100, 1)
+    item_pct_int = int(item_pct)
+    print_text_both('\n\n||' + '-'*item_pct_int + f'{item_pct}% ' +
+                    ' '*(100-item_pct_int) + f'({item_nr}/{total_nr})', f_logs)
 
 
-def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
-    now = datetime.datetime.now()
-    year = str(now.year)
-    month = str(now.month).zfill(2)
-    day = str(now.day).zfill(2)
+=False):
+    now=datetime.datetime.now()
 
-    f_logs = f"{logs_dir}/logs_{year}_{month}_{day}.txt"
-    print_text_both(
-        f"***RECOLHA DE INFORMAÇÃO***\n\n\n**DIA {day}-{month}-{now.year} ÀS {now.hour}H{now.minute}min**", f_logs)
-    if get_new and cils_or_cpes:
+def get_info(gestao = None, cils_or_cpes = None, get_new = False, only_active
+year = str(now.year)
+month = str(now.month).zfill(2)
+day = str(now.day).zfill(2)
+
+ f_logs = f"{logs_dir}/logs_{year}_{month}_{day}.txt"
+  print_text_both(
+       f"***RECOLHA DE INFORMAÇÃO***\n\n\n**DIA {day}-{month}-{now.year} ÀS {now.hour}H{now.minute}min**", f_logs)
+   if get_new and cils_or_cpes:
         print_text_both('impossivel adequirir informação nova sobre cpes expecíficos. Tente uma gestão!', f_logs)
         return
 
@@ -327,7 +330,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
 
             for cpe_tt in cpes_user[:3]:
                 cpe = cpe_tt['cpe']
-                print_loading_bar(cpe_tt, cpes_user)
+                print_loading_bar(cpe_tt, cpes_user, f_logs)
                 print_text_both(f"Trying cpe {cpe}", f_logs)
 
                 try:
