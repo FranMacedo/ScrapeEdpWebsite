@@ -37,13 +37,13 @@ if not os.path.isdir(logs_dir):
 if not os.path.isdir(downloads_path):
     os.mkdir(downloads_path)
 
-destination_path = "Z:\\DATABASE\\ENERGIA\\DATAFILES"
+# destination_path = "Z:\\DATABASE\\ENERGIA\\DATAFILES"
 
 
 def connect_driver():
     chrome_options = Options()
     chrome_options.add_argument("--window-size=1920,1080")
-    chrome_options.add_argument("--headless")
+    # chrome_options.add_argument("--headless")
     prefs = {"download.default_directory": downloads_path}
     chrome_options.add_experimental_option("prefs", prefs)
     driver = webdriver.Chrome("chromedriver/chromedriver.exe", options=chrome_options)
@@ -432,7 +432,7 @@ def read_excel_edp(file, is_head=False):
         return df
 
 
-def organize_excel_files(inst, f_logs, ym, substituir):
+def organize_excel_files(inst, f_logs, ym, substituir, destination_path):
     cil = inst["cil"]
     tt = inst["abastecimento"]
     cil = inst["cil"]
@@ -468,10 +468,12 @@ def organize_excel_files(inst, f_logs, ym, substituir):
         future_file_name = f"{cil}_{date}.xlsx"
         future_file_path = os.path.join(destination_path, tt, str(cil), future_file_name)
 
+        if not os.path.isdir(destination_path):
+            os.mkdir(destination_path)
         if not os.path.isdir(os.path.join(destination_path, tt)):
-            os.mkdir(os.path.join(destination_path, test_book))
+            os.mkdir(os.path.join(destination_path, tt))
         if not os.path.isdir(os.path.join(destination_path, tt, str(cil))):
-            os.mkdir(os.path.join(destination_path, tt, cil))
+            os.mkdir(os.path.join(destination_path, tt, str(cil)))
         if not os.path.exists(future_file_path):
             new_files_added.append(date)
             shutil.move(file_path, future_file_path)
@@ -551,7 +553,7 @@ def get_files_from_rede(folder, f_logs):
     return files
 
 
-def robot(inst, ym, substituir):
+def robot(inst, ym, substituir, destination_path="Z:\\DATABASE\\ENERGIA\\DATAFILES"):
 
     downloaded_yearmons = []
     not_downloaded_yearmons = ym
@@ -637,7 +639,7 @@ def robot(inst, ym, substituir):
     print_text_both("-{} list result(s) found for that CPE".format(len(rows_begin)), f_logs)
 
     for row in rows_begin:
-        # row = rows_begin[0]
+        # row = rows_begin[2]
         index_row = rows_begin.index(row)
         print_text_both(f"\n\n-Trying row {index_row + 1}", f_logs)
 
@@ -746,7 +748,8 @@ def robot(inst, ym, substituir):
         driver.quit()
     except:
         pass
-    empty_dates, new_files_added, files_replaced, files_extended = organize_excel_files(inst, f_logs, ym, substituir)
+    empty_dates, new_files_added, files_replaced, files_extended = organize_excel_files(
+        inst, f_logs, ym, substituir, destination_path)
     downloaded_yearmons = [d for d in downloaded_yearmons if d not in empty_dates]
     not_downloaded_yearmons = [d for d in ym if d not in downloaded_yearmons]
 

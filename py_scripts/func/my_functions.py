@@ -1,21 +1,17 @@
 # import pyodbc
+from sqlite3 import Error
+import sqlite3
+import numpy as np
+import calendar
+import os
+from datetime import timedelta, date, datetime
+import sys
+import time
 import pandas as pd
 import ctypes
 
 MessageBox = ctypes.windll.user32.MessageBoxW
-import time
-import sys
-from datetime import timedelta, date, datetime
-import os
-import calendar
-import numpy as np
-# import pyodbc
 
-
-import sqlite3
-from sqlite3 import Error
-#
-#
 
 def create_connection(db_file):
     """ create a database connection to the SQLite database
@@ -32,7 +28,6 @@ def create_connection(db_file):
     return conn
 
 
-
 def connect_db(table_name, local=True):
     """ read table from db_file as a dataframe
     :param db_file: database file
@@ -43,6 +38,7 @@ def connect_db(table_name, local=True):
         db_file = "C:/Users/Vasco Abreu - PC/Desktop/database/instalacoes.db"
     else:
         db_file = "Z:/DATABASE/instalacoes.db"
+    print(db_file)
     conn = create_connection(db_file)
     df = pd.read_sql_query(f"SELECT * FROM {table_name}", conn)
     return df
@@ -159,13 +155,13 @@ def translate_enum(month):
         }[month]
 
 
-
-
 def turn_int(n):
     try:
         return int(n)
     except ValueError:
         pass
+
+
 def num_mes(month):
     month = str(month).zfill(2)
 
@@ -345,12 +341,14 @@ def num_semana_nr(day):
         "06": "Domingo",
     }[day]
 
+
 def try_int(value):
     try:
         return int(value)
     except (ValueError, TypeError):
         return np.nan
-    
+
+
 def try_date(ano, mes, dia):
     try:
         datetime(ano, mes, 1)
@@ -365,4 +363,3 @@ def try_date(ano, mes, dia):
 #     print(path)
 #     print(new_path)
 #     os.rename(path, new_path)
-

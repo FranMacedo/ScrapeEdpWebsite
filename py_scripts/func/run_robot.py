@@ -7,12 +7,14 @@ from glob import glob
 import sys
 
 try:
-    df_db = connect_db('energia', False)
+    df_db = connect_db('energia', True)
+    print(df_db)
 except Exception as e:
-    print(f"Ocurreu um erro a tentar ligar à rede...:{e}\n\nTente Novamente mais tarde, depois de a ligação estar estabelecida.")
-    sys.exit() 
+    print(
+        f"Ocurreu um erro a tentar ligar à rede...:{e}\n\nTente Novamente mais tarde, depois de a ligação estar estabelecida.")
+    sys.exit()
 
-    
+
 def str_to_dt(d):
     if isinstance(d, str):
         return pd.to_datetime(d)
@@ -51,7 +53,8 @@ def create_download_log(report):
 # robot(df_db.loc[df_db.cil==3874085].iloc[0], ['202003', '202004', '202005'], {}, True)
 
 
-def robot_inst(cil_or_cpe, date_list=None, date_begin=dt(2012, 1, 1), date_end=dt.now().date(), replace=True, report={}):
+def robot_inst(cil_or_cpe, date_list=None, date_begin=dt(2013, 1, 1), date_end=dt.now().date(),
+               replace=True, report={}, destination_path="Z:\\DATABASE\\ENERGIA\\DATAFILES"):
     if isinstance(cil_or_cpe, str):
         if 'PT' in cil_or_cpe:
             inst = df_db.loc[df_db.cpe == cil_or_cpe].iloc[0]
@@ -76,34 +79,37 @@ def robot_inst(cil_or_cpe, date_list=None, date_begin=dt(2012, 1, 1), date_end=d
     ym.sort()
     print(f"\nTrying: {ym}")
     try:
-        return True, robot(inst, ym, replace)
+        return True, robot(inst, ym, replace, destination_path)
     except Exception as e:
         print(f'\n\nsomething went wrong: {e}\n\n')
         return False, [inst['cil'], ym]
 
 
-def multi_robot(cils_or_cpes=None, gestao=None, date_list=None, date_begin=dt(2012, 1, 1), date_end=dt.now().date(), replace=True):
+def multi_robot(cils_or_cpes=None, gestao=None, date_list=None, date_begin=dt(2013, 1, 1),
+                date_end=dt.now().date(), replace=True, destination_path="Z:\\DATABASE\\ENERGIA\\DATAFILES"):
 
     if gestao:
         df_gestao = df_db.loc[df_db.gestao == gestao, :]
-        df_gestao = df_gestao.loc[df_gestao.abastecimento != "BTN",:]
+        df_gestao = df_gestao.loc[df_gestao.abastecimento != "BTN", :]
         cils_or_cpes = df_gestao.cil.tolist()
+
     print(cils_or_cpes)
     print(len(cils_or_cpes))
     report = {}
     missing_cils = []
     for cil in cils_or_cpes:
         result, r = robot_inst(cil_or_cpe=cil, date_list=date_list,
-                               date_begin=date_begin, date_end=date_end, replace=replace, report=report)
+                               date_begin=date_begin, date_end=date_end, replace=replace, report=report,
+                               destination_path=destination_path)
         if result:
             report[cil] = r
         else:
             missing_cils.append(r[0])
 
-
     for cil in missing_cils:
         result, r = robot_inst(cil_or_cpe=cil, date_list=date_list,
-                               date_begin=date_begin, date_end=date_end, replace=replace, report=report)
+                               date_begin=date_begin, date_end=date_end, replace=replace, report=report,
+                               destination_path=destination_path)
         if result:
             report[cil] = r
         else:
@@ -114,4 +120,3 @@ def multi_robot(cils_or_cpes=None, gestao=None, date_list=None, date_begin=dt(20
                            }
 
     create_download_log(report)
-

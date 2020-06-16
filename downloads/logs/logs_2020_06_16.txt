@@ -7061,7 +7061,284 @@ trying page 401..
 trying page 402..
 trying page 403..
 trying page 404..
+<<<<<<< HEAD
+trying page 405..
+trying page 406..
+trying page 407..
+trying page 408..
+trying page 409..
+trying page 410..
+trying page 411..
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 16H14min**
+6516541 sem credenciais para o site da EDP...
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 16H14min**
+6516541 sem credenciais para o site da EDP...
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 16H16min**
+6516541 sem credenciais para o site da EDP...
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 16H28min**
+
+Processing CIL: 6516541 | CPE: PT0002000065165418NG
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 16H29min**
+
+Processing CIL: 6516541 | CPE: PT0002000065165418NG
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 16H30min**
+
+Processing CIL: 6516541 | CPE: PT0002000065165418NG
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2018 in this row.
+---No data for 2012 in this row.
+---No data for 2013 in this row.
+---No data for 2019 in this row.
+---No data for 2020 in this row.
+---No data for 2017 in this row.
+
+--Trying month 1-2014...
+---Month 1-2014 not available: skipping Jan...
+
+--Trying month 2-2014...
+---Month 2-2014 not available: skipping Fev...
+
+--Trying month 3-2014...
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 16H34min**
+
+Processing CIL: 6516541 | CPE: PT0002000065165418NG
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2019 in this row.
+
+
+-Trying row 2
+---No data for 2019 in this row.
+
+
+-Trying row 3
+
+--Trying month 1-2019...
+---Month 1-2019 available: Downloading Jan...
+---First attempt to click download button
+   Success
+
+--Trying month 2-2019...
+---Month 2-2019 available: Downloading Fev...
+---First attempt to click download button
+
+--Trying month 3-2019...
+---Month 3-2019 available: Downloading Mar...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 16H48min**
+
+Processing CIL: 6516541 | CPE: PT0002000065165418NG
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2019 in this row.
+
+
+-Trying row 2
+---No data for 2019 in this row.
+
+
+-Trying row 3
+
+--Trying month 1-2019...
+---Month 1-2019 available: Downloading Jan...
+---First attempt to click download button
+   Success
+
+--Trying month 2-2019...
+---Month 2-2019 available: Downloading Fev...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 17H1min**
+
+Processing CIL: 3874085 | CPE: PT0002000038740856ZG
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 17H14min**
+
+Processing CIL: 3874085 | CPE: PT0002000038740856ZG
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 17H14min**
+
+Processing CIL: 3874085 | CPE: PT0002000038740856ZG
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 17H23min**
+
+Processing CIL: 3874085 | CPE: PT0002000038740856ZG
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 17H25min**
+
+Processing CIL: 3874085 | CPE: PT0002000038740856ZG
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 17H27min**
+
+Processing CIL: 3874085 | CPE: PT0002000038740856ZG
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 17H28min**
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 17H34min**
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 17H38min**
+
+Processing CIL: 3874085 | CPE: PT0002000038740856ZG
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 17H50min**
+
+Processing CIL: 3874085 | CPE: PT0002000038740856ZG
+-1 list result(s) found for that CPE
+
+
+-Trying row 1
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+ -----3874085 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 17H52min**
+
+Processing CIL: 3874085 | CPE: PT0002000038740856ZG
+-1 list result(s) found for that CPE
+
+
+-Trying row 1
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 18H0min**
+
+Processing CIL: 6516541 | CPE: PT0002000065165418NG
+
+
+-Trying row 3
+
+--Trying month 1-2019...
+---Month 1-2019 available: Downloading Jan...
+---First attempt to click download button
+   Success
+
+ -----6516541 - ORGANIZE EXCEL FILES IN REDE
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 16-06-2020 ÀS 18H13min**
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 18H15min**
+
+Processing CIL: 6516541 | CPE: PT0002000065165418NG
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2019 in this row.
+
+
+-Trying row 2
+---No data for 2019 in this row.
+
+
+-Trying row 3
+
+--Trying month 1-2019...
+---Month 1-2019 available: Downloading Jan...
+---First attempt to click download button
+   Success
+
+--Trying month 2-2019...
+---Month 2-2019 available: Downloading Fev...
+---First attempt to click download button
+   Success
+
+--Trying month 3-2019...
+---Month 3-2019 available: Downloading Mar...
+---First attempt to click download button
+   Success
+
+ -----6516541 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 18H34min**
+
+Processing CIL: 6516541 | CPE: PT0002000065165418NG
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 18H34min**
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 18H34min**
+=======
 >>>>>>> e2692956c525932c14b2097d42a30f164df19406
+<<<<<<< HEAD
 
 
 
@@ -10223,6 +10500,26 @@ SUCCESS!
 
 ||-------7.7%                                                                                              (335/4363)
 Trying cpe PT0002000115985321DG
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+=======
+>>>>>>> 010e8ab768cfe7e0fc86d0f23d3a98f55a6d5ed6
+>>>>>>> 80336a3e309ae39c7a1dd6c6a602f765c14a8a5b
+
+SUCCESS!
+
+
+||-------7.7%                                                                                              (336/4363)
+Trying cpe PT0002000115985354XZ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------7.7%                                                                                              (337/4363)
+Trying cpe PT0002000115985365BW
 -1 list result(s) found for that CPE
 --Trying row 1
 ---!!Consumos tab not found...
