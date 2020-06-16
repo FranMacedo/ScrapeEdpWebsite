@@ -5,6 +5,10 @@ env/
 
 # secret variables
 sec_vars.py
+
+# environment variables
+env_vars.py
+
 # keys
 fran_pair.ppk
 
