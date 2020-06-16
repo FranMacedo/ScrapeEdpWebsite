@@ -4,21 +4,6 @@ import os
 from glob import glob
 from .auto_email import send_auto_email
 import time
-# cml_cils = df_db.loc[df_db.gestao=='CML','cil'].tolist()
-# # print(cml_cpes)
-
-# files_db = glob(os.path.join(r"Z:\DATABASE\ENERGIA\DATAFILES", '*/**'))
-# cils_db = [find_between_r(c, '\\', '') for c in files_db]
-
-# cml_cils_db = [c for c in cils_db if int(c) in cml_cils]
-# cml_files_db = [f for f in files_db if find_between_r(f, '\\', '') in cml_cils_db]
-# print(cml_files_db)
-# print(len(cml_files_db))
-# cils_months = {}
-# for cil_path in cml_files_db:
-#     cils_months[find_between_r(cil_path, '\\', '')] = os.listdir(cil_path)
-
-# print(cils_months)
 
 
 def str_to_path(text):
@@ -318,7 +303,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
                         next_page = driver.find_element_by_id('next-page')
                         if next_page.is_enabled():
                             pg += 1
-                            print_text_both(f'trying page {pg}..', f_logs)
+                            print_text_both(f'trying page {pg}/..', f_logs)
                             next_page.click()
                             wait_loading_state(driver, 100)
                         else:
@@ -365,9 +350,9 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
                         print_text_both(f"SUCCESS!", f_logs)
                     except Exception as e:
                         print_text_both(f"-!!Something went wrong: {e}", f_logs)
-                        print_text_both(f"\n\n---->>>>!!Something went wrong with {cpe}. Trying again later....\n\n", f_logs)
+                        print_text_both(
+                            f"\n\n---->>>>!!Something went wrong with {cpe}. Trying again later....\n\n", f_logs)
                         cpes_fail.append(cpe_tt)
-                    
 
             if cpes_fail:
                 try:
