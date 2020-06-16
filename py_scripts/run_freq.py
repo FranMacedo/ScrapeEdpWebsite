@@ -1,4 +1,4 @@
-from run_robot import multi_robot
+from func.run_robot import multi_robot
 from datetime import datetime as dt
 import calendar
 from dateutil.relativedelta import relativedelta
