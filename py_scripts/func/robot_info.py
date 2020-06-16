@@ -343,11 +343,31 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
                 try:
                     all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, cpe_tt['tt'])
                     # all_cpes_data['tt'] = cpe_tt['tt']
+                    print_text_both(f"SUCCESS!", f_logs)
                 except:
-                    print_text_both(f"-!!Something went wrong with {cpe}. Trying again later....", f_logs)
-                    cpes_fail.append(cpe_tt)
+                    print_text_both(f"-!!Something went wrong. Trying Close and Reopen Driver...", f_logs)
+                    try:
+                        try:
+                            driver.close()
+                            driver.quit()
+                        except:
+                            pass
 
-                print_text_both(f"SUCCESS!", f_logs)
+                        driver, action, wait, wait_long, wait_short = connect_driver()
+                        try:
+                            login_edp(driver, wait, username, password_word)
+                        except:
+                            time.sleep(5)
+                            driver, action, wait, wait_long, wait_short = connect_driver()
+                            login_edp(driver, wait, username, password_word)
+
+                        all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, cpe_tt['tt'])
+                        print_text_both(f"SUCCESS!", f_logs)
+                    except Exception as e:
+                        print_text_both(f"-!!Something went wrong: {e}", f_logs)
+                        print_text_both(f"\n\n---->>>>!!Something went wrong with {cpe}. Trying again later....\n\n", f_logs)
+                        cpes_fail.append(cpe_tt)
+                    
 
             if cpes_fail:
                 try:
