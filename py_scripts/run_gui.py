@@ -57,7 +57,7 @@ while True:                  # the event loop
 
     	# data, msg = get_cils(gestao=values['GESTAO'], detail=values['DETAIL-TRUE'], format_detail=values['FORMAT-TRUE'], excel=values['EXCEL-TRUE'])
 
-    	# sg.popup_scrolled(f"lala\n\nmsg",  size=(100, 30))
+    	sg.popup_scrolled(f"asdasdmsg",  size=(100, 30))
     	break
     else:
     	break
