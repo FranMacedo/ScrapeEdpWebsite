@@ -7,7 +7,12 @@ from glob import glob
 import sys
 
 try:
-    df_db = connect_db('energia', False)
+    from .env_vars import is_fixo
+    if is_fixo:
+        df_db = connect_db('energia', False)
+    else:
+        df_db = connect_db('energia', True)
+
     print(df_db)
 except Exception as e:
     print(
