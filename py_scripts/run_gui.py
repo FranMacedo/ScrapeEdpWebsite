@@ -3,7 +3,7 @@
 '''
 
 import PySimpleGUI as sg
-from run_robot import df_db
+from func.run_robot import df_db
 def turn_to_bool(s):
 	s = str(s)
 	return s.lower() in ['true', '1', 't', 'y', 'yes', 'yeah', 'yup', 'certainly', 'uh-huh', 'sim', 'ok', 'todos', 'vamos']
@@ -57,7 +57,7 @@ while True:                  # the event loop
 
     	# data, msg = get_cils(gestao=values['GESTAO'], detail=values['DETAIL-TRUE'], format_detail=values['FORMAT-TRUE'], excel=values['EXCEL-TRUE'])
 
-    	sg.popup_scrolled(f"lala\n\nmsg",  size=(100, 30))
+    	# sg.popup_scrolled(f"lala\n\nmsg",  size=(100, 30))
     	break
     else:
     	break
