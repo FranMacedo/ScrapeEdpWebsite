@@ -1,0 +1,26 @@
+
+***RECOLHA DE INFORMAÇÃO***
+
+
+**DIA 16-06-2020 ÀS 10H9min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+trying page 2..
+trying page 3..
+trying page 4..
+trying page 5..
+
+------>ALL CPES GATHERED: 49 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
