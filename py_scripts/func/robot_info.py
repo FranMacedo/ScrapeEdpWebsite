@@ -335,7 +335,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
 
             print_text_both(f"\n\n------------------ GOING FOR INFO OF EACH CPE ----------------------\n\n", f_logs)
 
-            for cpe_tt in cpes_user[:3]:
+            for cpe_tt in cpes_user:
                 cpe = cpe_tt['cpe']
                 print_loading_bar(cpe_tt, cpes_user, f_logs)
                 print_text_both(f"Trying cpe {cpe}", f_logs)
