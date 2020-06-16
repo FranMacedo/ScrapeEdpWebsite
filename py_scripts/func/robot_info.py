@@ -1,5 +1,4 @@
 from .robot_edp_online import *
-from .my_functions import find_between_r
 from .run_robot import df_db, create_download_log
 import os
 from glob import glob
