@@ -184,10 +184,20 @@ def write_data(data):
 
     report_path = os.path.join(logs_dir, 'cpe_info_' + today + '.csv')
     df.to_csv(report_path)
-    send_auto_email('franciscomacedo@lisboaenova.org',
-                    f'Informações Disponiveis',
-                    f'Informação disponiveis no site da EDP reunidas com sucesso na data\
-                    <b>{today}</b>:', df)
+    time.sleep(5)
+    send_auto_email(
+        receiver_email='franciscomacedo@lisboaenova.org',
+        title='Informações Disponiveis',
+        text=f'Informação disponiveis no site da EDP reunidas com sucesso na data <b>{today}</b>:',
+        df=df,
+        conditions={'True': 'success-back', 'Ativo': 'success-back', 'row 1': 'warning-back'}
+        file_path=report_path
+    )
+
+    # send_auto_email('franciscomacedo@lisboaenova.org',
+    #                 f'Informações Disponiveis',
+    #                 f'Informação disponiveis no site da EDP reunidas com sucesso na data\
+    #                 <b>{today}</b>:', df)
     return
 
 
