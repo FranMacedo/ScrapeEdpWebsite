@@ -6295,3 +6295,172 @@ SUCCESS!
 Trying cpe PT0002000065195775KR
 -1 list result(s) found for that CPE
 --Trying row 1
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 17-06-2020 ÀS 12H43min**
+
+Processing CIL: 6516541 | CPE: PT0002000065165418NG
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+---No data for 2019 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+---No data for 2019 in this row.
+
+
+-Trying row 3
+
+--Trying month 1-2019...
+---Month 1-2019 available: Downloading Jan...
+---First attempt to click download button
+   Success
+
+--Trying month 2-2019...
+---Month 2-2019 available: Downloading Fev...
+---First attempt to click download button
+   Success
+
+--Trying month 3-2019...
+---Month 3-2019 available: Downloading Mar...
+---First attempt to click download button
+   Success
+
+--Trying month 4-2019...
+---Month 4-2019 available: Downloading Abr...
+---First attempt to click download button
+   Success
+
+--Trying month 5-2019...
+---Month 5-2019 available: Downloading Mai...
+---First attempt to click download button
+   Success
+
+--Trying month 6-2019...
+---Month 6-2019 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2019...
+---Month 7-2019 available: Downloading Jul...
+---First attempt to click download button
+   Success
+
+--Trying month 8-2019...
+---Month 8-2019 available: Downloading Ago...
+---First attempt to click download button
+   Success
+
+--Trying month 9-2019...
+---Month 9-2019 available: Downloading Set...
+---First attempt to click download button
+   Success
+
+--Trying month 10-2019...
+---Month 10-2019 available: Downloading Out...
+---First attempt to click download button
+   Success
+
+--Trying month 11-2019...
+---Month 11-2019 available: Downloading Nov...
+---First attempt to click download button
+   Success
+
+--Trying month 12-2019...
+---Month 12-2019 available: Downloading Dez...
+---First attempt to click download button
+   Success
+
+--Trying month 1-2020...
+---Month 1-2020 available: Downloading Jan...
+---First attempt to click download button
+   Success
+
+--Trying month 2-2020...
+---Month 2-2020 available: Downloading Fev...
+---First attempt to click download button
+   Success
+
+--Trying month 3-2020...
+---Month 3-2020 available: Downloading Mar...
+---First attempt to click download button
+   Success
+
+--Trying month 4-2020...
+---Month 4-2020 available: Downloading Abr...
+---First attempt to click download button
+   Success
+
+--Trying month 5-2020...
+---Month 5-2020 available: Downloading Mai...
+---First attempt to click download button
+   Success
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+ -----6516541 - ORGANIZE EXCEL FILES IN REDE
+SUCCESS!
+
+
+||-----------------------------------------41.5%                                                            (71/171)
+Trying cpe PT0002000065180615MK
+-No results found. Trying next CPE...
+-!!Something went wrong. Trying Close and Reopen Driver...
+-4 list result(s) found for that CPE
+--Trying row 1
+--Trying row 2
+--Trying row 3
+--Trying row 4
+-!!Something went wrong: local variable 'e' referenced before assignment
+
+
+---->>>>!!Something went wrong with PT0002000065180615MK. Trying again later....
+
+
+
+
+||------------------------------------------42.1%                                                           (72/171)
+Trying cpe PT0002000102604715MQ
+-2 list result(s) found for that CPE
+--Trying row 1
+-!!Something went wrong. Trying Close and Reopen Driver...
+-2 list result(s) found for that CPE
+--Trying row 1
+-!!Something went wrong: 'tuple' object does not support item assignment
+
+
+---->>>>!!Something went wrong with PT0002000102604715MQ. Trying again later....
+
+
+
+
+||------------------------------------------42.7%                                                           (73/171)
+Trying cpe PT0002000078878237SQ
+Search Box not available or took too long o load...
+Took too long to find search button...
+Search Box not available or took too long o load...
+Took too long to find search button...
+-No results found. Trying next CPE...
+-!!Something went wrong. Trying Close and Reopen Driver...
+-5 list result(s) found for that CPE
+--Trying row 1
+-!!Something went wrong: 'tuple' object does not support item assignment
+
+
+---->>>>!!Something went wrong with PT0002000078878237SQ. Trying again later....
+
+
+
+
+||-------------------------------------------43.3%                                                          (74/171)
+Trying cpe PT0002000081890105GB
+Search Box not available or took too long o load...
+-!!Something went wrong. Trying Close and Reopen Driver...
