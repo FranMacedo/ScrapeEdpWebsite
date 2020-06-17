@@ -234,6 +234,26 @@ def reopen_driver(driver, username, password_word):
     return driver, action, wait, wait_long, wait_short
 
 
+def trigger_only_active(wait, f_logs):
+    wait_loading_state(driver, 100)
+    print_text_both(f"\n\n-------TURNING ON ACTIVO-------\n\n", f_logs)
+    wait.until(ec.element_to_be_clickable((By.ID, "edp-dropdown-state"))).click()
+    wait.until(ec.presence_of_element_located((By.ID, "checkbox_Inativo"))).click()
+    wait.until(ec.element_to_be_clickable((By.ID, "btn-filter"))).click()
+    wait_loading_state(driver, 100)
+
+
+def trigger_no_BTN(wait, f_logs):
+    wait_loading_state(driver, 100)
+    print_text_both(f"\n\n-------REMOVING BTN FROM LIST-------\n\n", f_logs)
+    wait.until(ec.element_to_be_clickable((By.ID, "edp-dropdown-voltage-level"))).click()
+    wait.until(ec.presence_of_element_located((By.ID, "checkbox_BTN"))).click()
+    all_filters = wait.until(ec.presence_of_all_elements_located((By.ID, "btn-filter")))
+    tt_filter = [a for a in all_filters if 'filtrar' in a.text.lower()][0]
+    tt_filter.click()
+    wait_loading_state(driver, 100)
+
+
 def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, no_BTN=True):
     now = datetime.datetime.now()
     year = str(now.year)
@@ -288,20 +308,11 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
                 login_edp(driver, wait, username, password_word)
 
             if only_active:
-                print_text_both(f"\n\n-------TURNING ON ACTIVO-------\n\n", f_logs)
-                wait.until(ec.element_to_be_clickable((By.ID, "edp-dropdown-state"))).click()
-                wait.until(ec.presence_of_element_located((By.ID, "checkbox_Inativo"))).click()
-                wait.until(ec.element_to_be_clickable((By.ID, "btn-filter"))).click()
-                wait_loading_state(driver, 100)
+                trigger_only_active(wait, f_logs)
 
             if no_BTN:
-                print_text_both(f"\n\n-------REMOVING BTN FROM LIST-------\n\n", f_logs)
-                wait.until(ec.element_to_be_clickable((By.ID, "edp-dropdown-voltage-level"))).click()
-                wait.until(ec.presence_of_element_located((By.ID, "checkbox_BTN"))).click()
-                all_filters = wait.until(ec.presence_of_all_elements_located((By.ID, "btn-filter")))
-                tt_filter = [a for a in all_filters if 'filtrar' in a.text.lower()][0]
-                tt_filter.click()
-                wait_loading_state(driver, 100)
+                trigger_no_BTN(wait, f_logs)
+
             if get_new:
 
                 if only_active:
@@ -365,6 +376,12 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
                         print_text_both(f"-!!Something went wrong. Trying Close and Reopen Driver...", f_logs)
                         try:
                             driver, action, wait, wait_long, wait_short = reopen_driver(driver, username, password_word)
+
+                            if only_active:
+                                trigger_only_active(wait, f_logs)
+                            if no_BTN:
+                                trigger_no_BTN(wait, f_logs)
+
                             all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, cpe_tt['tt'])
                             if res:
                                 print_text_both(f"SUCCESS!", f_logs)
@@ -383,6 +400,12 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
                     print_text_both(f"-!!Something went wrong. Trying Close and Reopen Driver...", f_logs)
                     try:
                         driver, action, wait, wait_long, wait_short = reopen_driver(driver, username, password_word)
+
+                        if only_active:
+                            trigger_only_active(wait, f_logs)
+                        if no_BTN:
+                            trigger_no_BTN(wait, f_logs)
+
                         all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, cpe_tt['tt'])
                         print_text_both(f"SUCCESS!", f_logs)
                     except Exception as e:
@@ -393,6 +416,10 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
 
             if cpes_fail:
                 driver, action, wait, wait_long, wait_short = reopen_driver(driver, username, password_word)
+                if only_active:
+                    trigger_only_active(wait, f_logs)
+                if no_BTN:
+                    trigger_no_BTN(wait, f_logs)
 
                 cpes_fail_again = []
                 print_text_both(f"Trying failed cpes: \n\n{space_l(cpes_fail)}", f_logs)
