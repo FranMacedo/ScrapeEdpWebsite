@@ -10523,6 +10523,18 @@ Trying cpe PT0002000115985365BW
 -1 list result(s) found for that CPE
 --Trying row 1
 ---!!Consumos tab not found...
+<<<<<<< HEAD
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 20H51min**
+
+Processing CIL: 6517757 | CPE: PT0002000065177578BC
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 20H52min**
+=======
 SUCCESS!
 
 
@@ -10554,12 +10566,19 @@ Trying cpe PT0002000115985569LE
 
 
 **DIA 16-06-2020 ÀS 18H38min**
+>>>>>>> c42954b164c17aa16266c1910e737a218d65011b
 
 Processing CIL: 6516541 | CPE: PT0002000065165418NG
 -3 list result(s) found for that CPE
 
 
 -Trying row 1
+<<<<<<< HEAD
+---No data for 2019 in this row.
+
+
+-Trying row 2
+=======
 ---!!Consumos tab not found...
 SUCCESS!
 
@@ -10604,10 +10623,47 @@ SUCCESS!
 Trying cpe PT0002000115989893TE
 -1 list result(s) found for that CPE
 --Trying row 1
+>>>>>>> c42954b164c17aa16266c1910e737a218d65011b
 ---No data for 2019 in this row.
 
 
 -Trying row 3
+<<<<<<< HEAD
+
+--Trying month 1-2019...
+---Month 1-2019 available: Downloading Jan...
+---First attempt to click download button
+   Success
+
+--Trying month 2-2019...
+---Month 2-2019 available: Downloading Fev...
+---First attempt to click download button
+   Success
+
+--Trying month 3-2019...
+---Month 3-2019 available: Downloading Mar...
+---First attempt to click download button
+   Success
+
+--Trying month 4-2019...
+---Month 4-2019 available: Downloading Abr...
+---First attempt to click download button
+   Success
+
+--Trying month 5-2019...
+---Month 5-2019 available: Downloading Mai...
+---First attempt to click download button
+   Success
+
+--Trying month 6-2019...
+---Month 6-2019 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2019...
+---Month 7-2019 available: Downloading Jul...
+---First attempt to click download button
+=======
 ---!!Consumos tab not found...
 SUCCESS!
 
@@ -10642,6 +10698,7 @@ SUCCESS!
 Trying cpe PT0002000115990102XR
 -1 list result(s) found for that CPE
 --Trying row 1
+<<<<<<< HEAD
 ---Month 1-2019 available: Downloading Jan...
 ---First attempt to click download button
 ---!!Consumos tab not found...
@@ -22931,3 +22988,6 @@ Search Box not available or took too long o load...
 Took too long to find search button...
 Search Box not available or took too long o load...
 Took too long to find search button...
+=======
+>>>>>>> c42954b164c17aa16266c1910e737a218d65011b
+>>>>>>> fdedd6858c7b04eefb63482ce53e0e189ba5c280
