@@ -5427,3 +5427,871 @@ Trying cpe PT0002000065188508GW
 -1 list result(s) found for that CPE
 --Trying row 1
 >>>>>>> fdedd6858c7b04eefb63482ce53e0e189ba5c280
+
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 17-06-2020 ÀS 10H36min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------REMOVING BTN FROM LIST-------
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+trying page 2/18
+trying page 3/18
+trying page 4/18
+trying page 5/18
+trying page 6/18
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 17-06-2020 ÀS 10H37min**
+
+Processing CIL: 6516541 | CPE: PT0002000065165418NG
+trying page 7/18
+trying page 8/18
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+trying page 9/18
+trying page 10/18
+trying page 11/18
+trying page 12/18
+trying page 13/18
+---No data for 2020 in this row.
+trying page 14/18
+trying page 15/18
+
+
+-Trying row 2
+trying page 16/18
+trying page 17/18
+trying page 18/18
+
+------>ALL CPES GATHERED: 171 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||0.6%                                                                                                     (1/171)
+Trying cpe PT0002000067909309XH
+-1 list result(s) found for that CPE
+--Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 3
+SUCCESS!
+
+
+||-1.2%                                                                                                    (2/171)
+Trying cpe PT0002000110320491LM
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-1.8%                                                                                                    (3/171)
+Trying cpe PT0002000065164448QT
+-1 list result(s) found for that CPE
+--Trying row 1
+
+--Trying month 1-2020...
+SUCCESS!
+
+
+||--2.3%                                                                                                   (4/171)
+Trying cpe PT0002000076621408XQ
+---Month 1-2020 available: Downloading Jan...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--2.9%                                                                                                   (5/171)
+Trying cpe PT0002000065169809LW
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 2-2020...
+SUCCESS!
+
+
+||---3.5%                                                                                                  (6/171)
+Trying cpe PT0002000100565022BD
+---Month 2-2020 available: Downloading Fev...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 3-2020...
+SUCCESS!
+
+
+||----4.1%                                                                                                 (7/171)
+Trying cpe PT0002000075895021FS
+---Month 3-2020 available: Downloading Mar...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 4-2020...
+SUCCESS!
+
+
+||----4.7%                                                                                                 (8/171)
+Trying cpe PT0002000078850926RY
+-1 list result(s) found for that CPE
+--Trying row 1
+---Month 4-2020 available: Downloading Abr...
+---First attempt to click download button
+SUCCESS!
+
+
+||-----5.3%                                                                                                (9/171)
+Trying cpe PT0002000065186568BV
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 5-2020...
+SUCCESS!
+
+
+||-----5.8%                                                                                                (10/171)
+Trying cpe PT0002000065186832TM
+---Month 5-2020 available: Downloading Mai...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 6-2020...
+SUCCESS!
+
+
+||------6.4%                                                                                               (11/171)
+Trying cpe PT0002000074122401XM
+-1 list result(s) found for that CPE
+--Trying row 1
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+SUCCESS!
+
+
+||-------7.0%                                                                                              (12/171)
+Trying cpe PT0002000103636871DR
+
+ -----6516541 - ORGANIZE EXCEL FILES IN REDE
+-1 list result(s) found for that CPE
+--Trying row 1
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 17-06-2020 ÀS 10H47min**
+
+Processing CIL: 6517757 | CPE: PT0002000065177578BC
+-1 list result(s) found for that CPE
+
+
+-Trying row 1
+SUCCESS!
+
+
+||-------7.6%                                                                                              (13/171)
+Trying cpe PT0002000066081142JY
+-1 list result(s) found for that CPE
+--Trying row 1
+
+--Trying month 1-2020...
+SUCCESS!
+
+
+||--------8.2%                                                                                             (14/171)
+Trying cpe PT0002000108091095XE
+---Month 1-2020 available: Downloading Jan...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 2-2020...
+SUCCESS!
+
+
+||--------8.8%                                                                                             (15/171)
+Trying cpe PT0002000065171875QK
+---Month 2-2020 available: Downloading Fev...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 3-2020...
+SUCCESS!
+
+
+||---------9.4%                                                                                            (16/171)
+Trying cpe PT0002000065181799BD
+-1 list result(s) found for that CPE
+--Trying row 1
+---Month 3-2020 available: Downloading Mar...
+---First attempt to click download button
+SUCCESS!
+
+
+||---------9.9%                                                                                            (17/171)
+Trying cpe PT0002000067952514AY
+   Success
+
+--Trying month 4-2020...
+-1 list result(s) found for that CPE
+--Trying row 1
+---Month 4-2020 available: Downloading Abr...
+---First attempt to click download button
+   Success
+
+--Trying month 5-2020...
+SUCCESS!
+
+
+||----------10.5%                                                                                           (18/171)
+Trying cpe PT0002000075895032PA
+---Month 5-2020 available: Downloading Mai...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 6-2020...
+SUCCESS!
+
+
+||-----------11.1%                                                                                          (19/171)
+Trying cpe PT0002000100127768KP
+-1 list result(s) found for that CPE
+--Trying row 1
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+SUCCESS!
+
+
+||-----------11.7%                                                                                          (20/171)
+Trying cpe PT0002000065163638AH
+   Success
+
+ -----6517757 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 17-06-2020 ÀS 10H53min**
+-1 list result(s) found for that CPE
+--Trying row 1
+
+Processing CIL: 6519240 | CPE: PT0002000065192401NP
+-1 list result(s) found for that CPE
+
+
+-Trying row 1
+SUCCESS!
+
+
+||------------12.3%                                                                                         (21/171)
+Trying cpe PT0002000073174219TK
+-1 list result(s) found for that CPE
+--Trying row 1
+
+--Trying month 1-2020...
+SUCCESS!
+
+
+||------------12.9%                                                                                         (22/171)
+Trying cpe PT0002000072658512AC
+-1 list result(s) found for that CPE
+--Trying row 1
+---Month 1-2020 available: Downloading Jan...
+---First attempt to click download button
+SUCCESS!
+
+
+||-------------13.5%                                                                                        (23/171)
+Trying cpe PT0002000065168156QM
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 2-2020...
+SUCCESS!
+
+
+||--------------14.0%                                                                                       (24/171)
+Trying cpe PT0002000103534093WX
+---Month 2-2020 available: Downloading Fev...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 3-2020...
+SUCCESS!
+
+
+||--------------14.6%                                                                                       (25/171)
+Trying cpe PT0002000065177658SP
+---Month 3-2020 available: Downloading Mar...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 4-2020...
+SUCCESS!
+
+
+||---------------15.2%                                                                                      (26/171)
+Trying cpe PT0002000076614472PA
+---Month 4-2020 available: Downloading Abr...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---------------15.8%                                                                                      (27/171)
+Trying cpe PT0002000065188508GW
+   Success
+
+--Trying month 5-2020...
+---Month 5-2020 available: Downloading Mai...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----------------16.4%                                                                                     (28/171)
+Trying cpe PT0002000076617027GM
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 6-2020...
+SUCCESS!
+
+
+||-----------------17.0%                                                                                    (29/171)
+Trying cpe PT0002000118040851WR
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+ -----6519240 - ORGANIZE EXCEL FILES IN REDE
+SUCCESS!
+
+
+||-----------------17.5%                                                                                    (30/171)
+Trying cpe PT0002000110555925CB
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 17-06-2020 ÀS 11H0min**
+
+Processing CIL: 6517756 | CPE: PT0002000065177567BD
+-1 list result(s) found for that CPE
+--Trying row 1
+-1 list result(s) found for that CPE
+
+
+-Trying row 1
+SUCCESS!
+
+
+||------------------18.1%                                                                                   (31/171)
+Trying cpe PT0002000101572557WY
+-1 list result(s) found for that CPE
+--Trying row 1
+
+--Trying month 1-2020...
+SUCCESS!
+
+
+||------------------18.7%                                                                                   (32/171)
+Trying cpe PT0002000068692135YQ
+---Month 1-2020 available: Downloading Jan...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-------------------19.3%                                                                                  (33/171)
+Trying cpe PT0002000067952593YQ
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 2-2020...
+SUCCESS!
+
+
+||-------------------19.9%                                                                                  (34/171)
+Trying cpe PT0002000117710074HX
+---Month 2-2020 available: Downloading Fev...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--------------------20.5%                                                                                 (35/171)
+Trying cpe PT0002000065192478SQ
+   Success
+
+--Trying month 3-2020...
+-1 list result(s) found for that CPE
+--Trying row 1
+---Month 3-2020 available: Downloading Mar...
+---First attempt to click download button
+SUCCESS!
+
+
+||---------------------21.1%                                                                                (36/171)
+Trying cpe PT0002000065189945CJ
+   Success
+
+--Trying month 4-2020...
+-1 list result(s) found for that CPE
+--Trying row 1
+---Month 4-2020 available: Downloading Abr...
+---First attempt to click download button
+SUCCESS!
+
+
+||---------------------21.6%                                                                                (37/171)
+Trying cpe PT0002000101132989AZ
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 5-2020...
+SUCCESS!
+
+
+||----------------------22.2%                                                                               (38/171)
+Trying cpe PT0002000075906816ZB
+---Month 5-2020 available: Downloading Mai...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----------------------22.8%                                                                               (39/171)
+Trying cpe PT0002000073394881AK
+   Success
+
+--Trying month 6-2020...
+-1 list result(s) found for that CPE
+--Trying row 1
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+SUCCESS!
+
+
+||-----------------------23.4%                                                                              (40/171)
+Trying cpe PT0002000077497553SE
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+ -----6517756 - ORGANIZE EXCEL FILES IN REDE
+SUCCESS!
+
+
+||------------------------24.0%                                                                             (41/171)
+Trying cpe PT0002000075906805ZT
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 17-06-2020 ÀS 11H8min**
+
+Processing CIL: 6517005 | CPE: PT0002000065170052YS
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||------------------------24.6%                                                                             (42/171)
+Trying cpe PT0002000080001962KF
+-1 list result(s) found for that CPE
+
+
+-Trying row 1
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-------------------------25.1%                                                                            (43/171)
+Trying cpe PT0002000069932039AJ
+
+--Trying month 1-2020...
+-1 list result(s) found for that CPE
+--Trying row 1
+---Month 1-2020 available: Downloading Jan...
+---First attempt to click download button
+SUCCESS!
+
+
+||-------------------------25.7%                                                                            (44/171)
+Trying cpe PT0002000084654521KB
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 2-2020...
+SUCCESS!
+
+
+||--------------------------26.3%                                                                           (45/171)
+Trying cpe PT0002000065190222DZ
+---Month 2-2020 available: Downloading Fev...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--------------------------26.9%                                                                           (46/171)
+Trying cpe PT0002000103322488WM
+   Success
+
+--Trying month 3-2020...
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---------------------------27.5%                                                                          (47/171)
+Trying cpe PT0002000076617459TT
+---Month 3-2020 available: Downloading Mar...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 4-2020...
+SUCCESS!
+
+
+||----------------------------28.1%                                                                         (48/171)
+Trying cpe PT0002000109914484FV
+---Month 4-2020 available: Downloading Abr...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 5-2020...
+SUCCESS!
+
+
+||----------------------------28.7%                                                                         (49/171)
+Trying cpe PT0002000065176906MS
+-1 list result(s) found for that CPE
+--Trying row 1
+---Month 5-2020 available: Downloading Mai...
+---First attempt to click download button
+   Success
+SUCCESS!
+
+
+||-----------------------------29.2%                                                                        (50/171)
+Trying cpe PT0002000076617051MY
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-----------------------------29.8%                                                                        (51/171)
+Trying cpe PT0002000074034292CD
+   Success
+
+ -----6517005 - ORGANIZE EXCEL FILES IN REDE
+-1 list result(s) found for that CPE
+--Trying row 1
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 17-06-2020 ÀS 11H16min**
+
+Processing CIL: 6519817 | CPE: PT0002000065198172XY
+-1 list result(s) found for that CPE
+
+
+-Trying row 1
+SUCCESS!
+
+
+||------------------------------30.4%                                                                       (52/171)
+Trying cpe PT0002000065183056CR
+-1 list result(s) found for that CPE
+--Trying row 1
+
+--Trying month 1-2020...
+SUCCESS!
+
+
+||-------------------------------31.0%                                                                      (53/171)
+Trying cpe PT0002000076614552BZ
+---Month 1-2020 available: Downloading Jan...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-------------------------------31.6%                                                                      (54/171)
+Trying cpe PT0002000076614175HM
+   Success
+
+--Trying month 2-2020...
+-1 list result(s) found for that CPE
+--Trying row 1
+---Month 2-2020 available: Downloading Fev...
+---First attempt to click download button
+SUCCESS!
+
+
+||--------------------------------32.2%                                                                     (55/171)
+Trying cpe PT0002000083260248MK
+   Success
+
+--Trying month 3-2020...
+-1 list result(s) found for that CPE
+--Trying row 1
+---Month 3-2020 available: Downloading Mar...
+---First attempt to click download button
+SUCCESS!
+
+
+||--------------------------------32.7%                                                                     (56/171)
+Trying cpe PT0002000065191896JD
+   Success
+
+--Trying month 4-2020...
+-1 list result(s) found for that CPE
+--Trying row 1
+---Month 4-2020 available: Downloading Abr...
+---First attempt to click download button
+SUCCESS!
+
+
+||---------------------------------33.3%                                                                    (57/171)
+Trying cpe PT0002000077675605YP
+   Success
+
+--Trying month 5-2020...
+-1 list result(s) found for that CPE
+--Trying row 1
+---Month 5-2020 available: Downloading Mai...
+---First attempt to click download button
+SUCCESS!
+
+
+||---------------------------------33.9%                                                                    (58/171)
+Trying cpe PT0002000074109531WS
+   Success
+
+--Trying month 6-2020...
+-1 list result(s) found for that CPE
+--Trying row 1
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+SUCCESS!
+
+
+||----------------------------------34.5%                                                                   (59/171)
+Trying cpe PT0002000076621226WH
+
+ -----6519817 - ORGANIZE EXCEL FILES IN REDE
+-1 list result(s) found for that CPE
+--Trying row 1
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 17-06-2020 ÀS 11H22min**
+
+Processing CIL: 6518140 | CPE: PT0002000065181403VG
+SUCCESS!
+
+
+||-----------------------------------35.1%                                                                  (60/171)
+Trying cpe PT0002000076621421BY
+-1 list result(s) found for that CPE
+
+
+-Trying row 1
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-----------------------------------35.7%                                                                  (61/171)
+Trying cpe PT0002000065188428TZ
+
+--Trying month 1-2020...
+-1 list result(s) found for that CPE
+--Trying row 1
+---Month 1-2020 available: Downloading Jan...
+---First attempt to click download button
+SUCCESS!
+
+
+||------------------------------------36.3%                                                                 (62/171)
+Trying cpe PT0002000083333354XX
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 2-2020...
+---Month 2-2020 available: Downloading Fev...
+---First attempt to click download button
+SUCCESS!
+
+
+||------------------------------------36.8%                                                                 (63/171)
+Trying cpe PT0002000083688587EP
+   Success
+
+--Trying month 3-2020...
+-1 list result(s) found for that CPE
+--Trying row 1
+---Month 3-2020 available: Downloading Mar...
+---First attempt to click download button
+SUCCESS!
+
+
+||-------------------------------------37.4%                                                                (64/171)
+Trying cpe PT0002000065169811LG
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 4-2020...
+SUCCESS!
+
+
+||--------------------------------------38.0%                                                               (65/171)
+Trying cpe PT0002000066050362DT
+---Month 4-2020 available: Downloading Abr...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 5-2020...
+SUCCESS!
+
+
+||--------------------------------------38.6%                                                               (66/171)
+Trying cpe PT0002000065179768SW
+---Month 5-2020 available: Downloading Mai...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+SUCCESS!
+
+
+||---------------------------------------39.2%                                                              (67/171)
+Trying cpe PT0002000065175082HP
+   Success
+
+ -----6518140 - ORGANIZE EXCEL FILES IN REDE
+-1 list result(s) found for that CPE
+--Trying row 1
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 17-06-2020 ÀS 11H28min**
+
+Processing CIL: 6518770 | CPE: PT0002000065187709SP
+SUCCESS!
+
+
+||---------------------------------------39.8%                                                              (68/171)
+Trying cpe PT0002000065194145LG
+-1 list result(s) found for that CPE
+
+
+-Trying row 1
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----------------------------------------40.4%                                                             (69/171)
+Trying cpe PT0002000076621476JS
+
+--Trying month 1-2020...
+---Month 1-2020 not available: skipping Jan...
+
+--Trying month 2-2020...
+---Month 2-2020 not available: skipping Fev...
+
+--Trying month 3-2020...
+---Month 3-2020 not available: skipping Mar...
+
+--Trying month 4-2020...
+---Month 4-2020 not available: skipping Abr...
+
+--Trying month 5-2020...
+---Month 5-2020 not available: skipping Mai...
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+-1 list result(s) found for that CPE
+--Trying row 1
+   Success
+
+ -----6518770 - ORGANIZE EXCEL FILES IN REDE
+SUCCESS!
+
+
+||----------------------------------------40.9%                                                             (70/171)
+Trying cpe PT0002000065195775KR
+-1 list result(s) found for that CPE
+--Trying row 1
