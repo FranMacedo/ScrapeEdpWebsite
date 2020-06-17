@@ -6506,8 +6506,16 @@ Took too long to find search button...
 ||-------------------------------------------43.3%                                                          (74/171)
 Trying cpe PT0002000081890105GB
 Search Box not available or took too long o load...
+<<<<<<< HEAD
+-!!Something went wrong. Trying Close and Reopen Driver...
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 17-06-2020 ÀS 14H58min**
+=======
 >>>>>>> 937e119b4d2e6fb07f8721b5902e34e40d4a2b68
 -!!Something went wrong. Trying Close and Reopen Driver...
+<<<<<<< HEAD
 
 
 ***RECOLHA DE INFORMAÇÃO***
@@ -6554,3 +6562,6 @@ trying page 7/18
 
 trying page 2/18
 trying page 3/18
+=======
+>>>>>>> 3ad57035548768d76e29618a7620ae2f8c5970f3
+>>>>>>> e081396eda01b858f2c80a1d2281bd08ecf0009f
