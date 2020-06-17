@@ -6516,3 +6516,132 @@ Search Box not available or took too long o load...
 >>>>>>> 937e119b4d2e6fb07f8721b5902e34e40d4a2b68
 -!!Something went wrong. Trying Close and Reopen Driver...
 >>>>>>> 3ad57035548768d76e29618a7620ae2f8c5970f3
+
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 17-06-2020 ÀS 15H3min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------REMOVING BTN FROM LIST-------
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+trying page 2/18
+trying page 3/18
+trying page 4/18
+trying page 5/18
+trying page 6/18
+trying page 7/18
+trying page 8/18
+trying page 9/18
+trying page 10/18
+trying page 11/18
+trying page 12/18
+trying page 13/18
+trying page 14/18
+trying page 15/18
+trying page 16/18
+trying page 17/18
+trying page 18/18
+
+------>ALL CPES GATHERED: 171 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||0.6%                                                                                                     (1/171)
+Trying cpe PT0002000067909309XH
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-1.2%                                                                                                    (2/171)
+Trying cpe PT0002000110320491LM
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-1.8%                                                                                                    (3/171)
+Trying cpe PT0002000065164448QT
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--2.3%                                                                                                   (4/171)
+Trying cpe PT0002000076621408XQ
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--2.9%                                                                                                   (5/171)
+Trying cpe PT0002000065169809LW
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---3.5%                                                                                                  (6/171)
+Trying cpe PT0002000100565022BD
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----4.1%                                                                                                 (7/171)
+Trying cpe PT0002000075895021FS
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----4.7%                                                                                                 (8/171)
+Trying cpe PT0002000078850926RY
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-----5.3%                                                                                                (9/171)
+Trying cpe PT0002000065186568BV
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-----5.8%                                                                                                (10/171)
+Trying cpe PT0002000065186832TM
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||------6.4%                                                                                               (11/171)
+Trying cpe PT0002000074122401XM
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-------7.0%                                                                                              (12/171)
+Trying cpe PT0002000103636871DR
+-1 list result(s) found for that CPE
+--Trying row 1
+-!!Something went wrong. Trying Close and Reopen Driver...
