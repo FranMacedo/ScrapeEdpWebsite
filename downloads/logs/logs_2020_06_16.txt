@@ -10523,3 +10523,61 @@ Trying cpe PT0002000115985365BW
 -1 list result(s) found for that CPE
 --Trying row 1
 ---!!Consumos tab not found...
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 20H51min**
+
+Processing CIL: 6517757 | CPE: PT0002000065177578BC
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 16-06-2020 ÀS 20H52min**
+
+Processing CIL: 6516541 | CPE: PT0002000065165418NG
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2019 in this row.
+
+
+-Trying row 2
+---No data for 2019 in this row.
+
+
+-Trying row 3
+
+--Trying month 1-2019...
+---Month 1-2019 available: Downloading Jan...
+---First attempt to click download button
+   Success
+
+--Trying month 2-2019...
+---Month 2-2019 available: Downloading Fev...
+---First attempt to click download button
+   Success
+
+--Trying month 3-2019...
+---Month 3-2019 available: Downloading Mar...
+---First attempt to click download button
+   Success
+
+--Trying month 4-2019...
+---Month 4-2019 available: Downloading Abr...
+---First attempt to click download button
+   Success
+
+--Trying month 5-2019...
+---Month 5-2019 available: Downloading Mai...
+---First attempt to click download button
+   Success
+
+--Trying month 6-2019...
+---Month 6-2019 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2019...
+---Month 7-2019 available: Downloading Jul...
+---First attempt to click download button

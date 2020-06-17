@@ -4,6 +4,7 @@ import os
 from glob import glob
 from .auto_email import send_auto_email
 import time
+import math
 
 
 def str_to_path(text):
@@ -74,7 +75,7 @@ def info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, tt):
         rows_begin = wait.until(ec.presence_of_all_elements_located((By.LINK_TEXT, cpe)))
     except TimeoutException:
         print_text_both("-No results found. Trying next CPE...", f_logs)
-        return all_cpes_data
+        return False, all_cpes_data
 
     print_text_both("-{} list result(s) found for that CPE".format(len(rows_begin)), f_logs)
     for row in rows_begin:
@@ -142,7 +143,7 @@ def info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, tt):
         back_button = wait.until(ec.element_to_be_clickable((By.ID, "btn-go-back")))
         back_button.click()
         wait_loading_state(driver, 150)
-    return all_cpes_data
+    return True, all_cpes_data
 
 
 def write_data(data):
@@ -215,7 +216,25 @@ def print_loading_bar(item, all_items, f_logs):
                     ' '*(100-item_pct_int) + f'({item_nr}/{total_nr})', f_logs)
 
 
-def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
+def reopen_driver(driver, username, password_word):
+    try:
+        driver.close()
+        driver.quit()
+    except:
+        pass
+
+    driver, action, wait, wait_long, wait_short = connect_driver()
+    try:
+        login_edp(driver, wait, username, password_word)
+    except:
+        time.sleep(5)
+        driver, action, wait, wait_long, wait_short = connect_driver()
+        login_edp(driver, wait, username, password_word)
+
+    return driver, action, wait, wait_long, wait_short
+
+
+def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, no_BTN=True):
     now = datetime.datetime.now()
     year = str(now.year)
     month = str(now.month).zfill(2)
@@ -275,6 +294,14 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
                 wait.until(ec.element_to_be_clickable((By.ID, "btn-filter"))).click()
                 wait_loading_state(driver, 100)
 
+            if no_BTN:
+                print_text_both(f"\n\n-------REMOVING BTN FROM LIST-------\n\n", f_logs)
+                wait.until(ec.element_to_be_clickable((By.ID, "edp-dropdown-voltage-level"))).click()
+                wait.until(ec.presence_of_element_located((By.ID, "checkbox_BTN"))).click()
+                all_filters = wait.until(ec.presence_of_all_elements_located((By.ID, "btn-filter")))
+                tt_filter = [a for a in all_filters if 'filtrar' in a.text.lower()][0]
+                tt_filter.click()
+                wait_loading_state(driver, 100)
             if get_new:
 
                 if only_active:
@@ -286,7 +313,11 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
 
                 cpes_user = []
                 pg = 1
-
+                try:
+                    count_pg = wait.until(ec.presence_of_element_located((By.ID, "is-list"))).text
+                    nr_pg = math.ceil(int(count_pg.split(' ')[-1])/int(count_pg.split(' ')[-3]))
+                except:
+                    nr_pg = None
                 while True:
                     i = 0
                     wait_loading_state(driver, 100)
@@ -303,7 +334,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
                         next_page = driver.find_element_by_id('next-page')
                         if next_page.is_enabled():
                             pg += 1
-                            print_text_both(f'trying page {pg}/..', f_logs)
+                            print_text_both(f'trying page {pg}/{nr_pg if nr_pg else ""}', f_logs)
                             next_page.click()
                             wait_loading_state(driver, 100)
                         else:
@@ -326,26 +357,32 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
                 print_text_both(f"Trying cpe {cpe}", f_logs)
 
                 try:
-                    all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, cpe_tt['tt'])
+                    res, all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, cpe_tt['tt'])
                     # all_cpes_data['tt'] = cpe_tt['tt']
-                    print_text_both(f"SUCCESS!", f_logs)
+                    if res:
+                        print_text_both(f"SUCCESS!", f_logs)
+                    else:
+                        print_text_both(f"-!!Something went wrong. Trying Close and Reopen Driver...", f_logs)
+                        try:
+                            driver, action, wait, wait_long, wait_short = reopen_driver(driver, username, password_word)
+                            all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, cpe_tt['tt'])
+                            if res:
+                                print_text_both(f"SUCCESS!", f_logs)
+                            else:
+                                print_text_both(f"-!!Something went wrong: {e}", f_logs)
+                                print_text_both(
+                                    f"\n\n---->>>>!!Something went wrong with {cpe}. Trying again later....\n\n", f_logs)
+                                cpes_fail.append(cpe_tt)
+                        except Exception as e:
+                            print_text_both(f"-!!Something went wrong: {e}", f_logs)
+                            print_text_both(
+                                f"\n\n---->>>>!!Something went wrong with {cpe}. Trying again later....\n\n", f_logs)
+                            cpes_fail.append(cpe_tt)
+
                 except:
                     print_text_both(f"-!!Something went wrong. Trying Close and Reopen Driver...", f_logs)
                     try:
-                        try:
-                            driver.close()
-                            driver.quit()
-                        except:
-                            pass
-
-                        driver, action, wait, wait_long, wait_short = connect_driver()
-                        try:
-                            login_edp(driver, wait, username, password_word)
-                        except:
-                            time.sleep(5)
-                            driver, action, wait, wait_long, wait_short = connect_driver()
-                            login_edp(driver, wait, username, password_word)
-
+                        driver, action, wait, wait_long, wait_short = reopen_driver(driver, username, password_word)
                         all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, cpe_tt['tt'])
                         print_text_both(f"SUCCESS!", f_logs)
                     except Exception as e:
@@ -355,19 +392,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False):
                         cpes_fail.append(cpe_tt)
 
             if cpes_fail:
-                try:
-                    driver.close()
-                    driver.quit()
-                except:
-                    pass
-
-                driver, action, wait, wait_long, wait_short = connect_driver()
-                try:
-                    login_edp(driver, wait, username, password_word)
-                except:
-                    time.sleep(5)
-                    driver, action, wait, wait_long, wait_short = connect_driver()
-                    login_edp(driver, wait, username, password_word)
+                driver, action, wait, wait_long, wait_short = reopen_driver(driver, username, password_word)
 
                 cpes_fail_again = []
                 print_text_both(f"Trying failed cpes: \n\n{space_l(cpes_fail)}", f_logs)
