@@ -43,9 +43,9 @@ if not os.path.isdir(downloads_path):
 def connect_driver():
     chrome_options = Options()
     chrome_options.add_argument("--window-size=1920,1080")
-    from .env_vars import is_fixo
-    if is_fixo:
-	    chrome_options.add_argument("--headless")
+    #from .env_vars import is_fixo
+    # if is_fixo:
+	# chrome_options.add_argument("--headless")
     
     prefs = {"download.default_directory": downloads_path}
     chrome_options.add_experimental_option("prefs", prefs)
