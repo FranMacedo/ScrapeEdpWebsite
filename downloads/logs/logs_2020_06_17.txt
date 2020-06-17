@@ -8040,3 +8040,193 @@ Trying cpe PT0002000100393973AB
 -1 list result(s) found for that CPE
 --Trying row 1
 SUCCESS!
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 17-06-2020 ÀS 17H21min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------REMOVING BTN FROM LIST-------
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+trying page 2/3
+trying page 3/3
+
+------>ALL CPES GATHERED: 23 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||----4.3%                                                                                                 (1/23)
+Trying cpe PT0002000065171113YH
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--------8.7%                                                                                             (2/23)
+Trying cpe PT0002000083774745LP
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-------------13.0%                                                                                        (3/23)
+Trying cpe PT0002000070983625TQ
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-----------------17.4%                                                                                    (4/23)
+Trying cpe PT0002000065171102YF
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---------------------21.7%                                                                                (5/23)
+Trying cpe PT0002000075406578TT
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--------------------------26.1%                                                                           (6/23)
+Trying cpe PT0002000065171135FV
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||------------------------------30.4%                                                                       (7/23)
+Trying cpe PT0002000066087734TC
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----------------------------------34.8%                                                                   (8/23)
+Trying cpe PT0002000065185678LR
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---------------------------------------39.1%                                                              (9/23)
+Trying cpe PT0002000103112789SC
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-------------------------------------------43.5%                                                          (10/23)
+Trying cpe PT0002000065180535WX
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-----------------------------------------------47.8%                                                      (11/23)
+Trying cpe PT0002000065181879ZC
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----------------------------------------------------52.2%                                                 (12/23)
+Trying cpe PT0002000065171124FY
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--------------------------------------------------------56.5%                                             (13/23)
+Trying cpe PT0002000038740856ZG
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||------------------------------------------------------------60.9%                                         (14/23)
+Trying cpe PT0002000085043515YY
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-----------------------------------------------------------------65.2%                                    (15/23)
+Trying cpe PT0002000124524796RQ
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---------------------------------------------------------------------69.6%                                (16/23)
+Trying cpe PT0002000065176041ZR
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-------------------------------------------------------------------------73.9%                            (17/23)
+Trying cpe PT0002000083200947AZ
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||------------------------------------------------------------------------------78.3%                       (18/23)
+Trying cpe PT0002000065170303VJ
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----------------------------------------------------------------------------------82.6%                   (19/23)
+Trying cpe PT0002000074034645NV
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---------------------------------------------------------------------------------------87.0%              (20/23)
+Trying cpe PT0002000065170314HR
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-------------------------------------------------------------------------------------------91.3%          (21/23)
+Trying cpe PT0002000118641824AF
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-----------------------------------------------------------------------------------------------95.7%      (22/23)
+Trying cpe PT0002000065196701SF
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----------------------------------------------------------------------------------------------------100.0% (23/23)
+Trying cpe PT0002000039321285LM
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
