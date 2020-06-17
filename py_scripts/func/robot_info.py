@@ -234,7 +234,7 @@ def reopen_driver(driver, username, password_word):
     return driver, action, wait, wait_long, wait_short
 
 
-def trigger_only_active(wait, f_logs):
+def trigger_only_active(driver, wait, f_logs):
     wait_loading_state(driver, 100)
     print_text_both(f"\n\n-------TURNING ON ACTIVO-------\n\n", f_logs)
     wait.until(ec.element_to_be_clickable((By.ID, "edp-dropdown-state"))).click()
@@ -243,7 +243,7 @@ def trigger_only_active(wait, f_logs):
     wait_loading_state(driver, 100)
 
 
-def trigger_no_BTN(wait, f_logs):
+def trigger_no_BTN(driver, wait, f_logs):
     wait_loading_state(driver, 100)
     print_text_both(f"\n\n-------REMOVING BTN FROM LIST-------\n\n", f_logs)
     wait.until(ec.element_to_be_clickable((By.ID, "edp-dropdown-voltage-level"))).click()
@@ -308,10 +308,10 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
                 login_edp(driver, wait, username, password_word)
 
             if only_active:
-                trigger_only_active(wait, f_logs)
+                trigger_only_active(driver, wait, f_logs)
 
             if no_BTN:
-                trigger_no_BTN(wait, f_logs)
+                trigger_no_BTN(driver, wait, f_logs)
 
             if get_new:
 
@@ -378,9 +378,9 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
                             driver, action, wait, wait_long, wait_short = reopen_driver(driver, username, password_word)
 
                             if only_active:
-                                trigger_only_active(wait, f_logs)
+                                trigger_only_active(driver, wait, f_logs)
                             if no_BTN:
-                                trigger_no_BTN(wait, f_logs)
+                                trigger_no_BTN(driver, wait, f_logs)
 
                             all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, cpe_tt['tt'])
                             if res:
@@ -402,9 +402,9 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
                         driver, action, wait, wait_long, wait_short = reopen_driver(driver, username, password_word)
 
                         if only_active:
-                            trigger_only_active(wait, f_logs)
+                            trigger_only_active(driver, wait, f_logs)
                         if no_BTN:
-                            trigger_no_BTN(wait, f_logs)
+                            trigger_no_BTN(driver, wait, f_logs)
 
                         all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, cpe_tt['tt'])
                         print_text_both(f"SUCCESS!", f_logs)
@@ -417,9 +417,9 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
             if cpes_fail:
                 driver, action, wait, wait_long, wait_short = reopen_driver(driver, username, password_word)
                 if only_active:
-                    trigger_only_active(wait, f_logs)
+                    trigger_only_active(driver, wait, f_logs)
                 if no_BTN:
-                    trigger_no_BTN(wait, f_logs)
+                    trigger_no_BTN(driver, wait, f_logs)
 
                 cpes_fail_again = []
                 print_text_both(f"Trying failed cpes: \n\n{space_l(cpes_fail)}", f_logs)
