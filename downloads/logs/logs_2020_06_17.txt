@@ -6508,3 +6508,49 @@ Trying cpe PT0002000081890105GB
 Search Box not available or took too long o load...
 >>>>>>> 937e119b4d2e6fb07f8721b5902e34e40d4a2b68
 -!!Something went wrong. Trying Close and Reopen Driver...
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 17-06-2020 ÀS 15H7min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------REMOVING BTN FROM LIST-------
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+trying page 2/18
+trying page 3/18
+trying page 4/18
+trying page 5/18
+trying page 6/18
+trying page 7/18
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 17-06-2020 ÀS 15H8min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------REMOVING BTN FROM LIST-------
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+trying page 2/18
+trying page 3/18
