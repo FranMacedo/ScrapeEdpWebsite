@@ -382,11 +382,11 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
                             if no_BTN:
                                 trigger_no_BTN(driver, wait, f_logs)
 
-                            all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, cpe_tt['tt'])
+                            res, all_cpes_data = info_cpe(cpe, driver, wait, f_logs,
+                                                          wait_short, all_cpes_data, cpe_tt['tt'])
                             if res:
                                 print_text_both(f"SUCCESS!", f_logs)
                             else:
-                                print_text_both(f"-!!Something went wrong: {e}", f_logs)
                                 print_text_both(
                                     f"\n\n---->>>>!!Something went wrong with {cpe}. Trying again later....\n\n", f_logs)
                                 cpes_fail.append(cpe_tt)
@@ -406,8 +406,14 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
                         if no_BTN:
                             trigger_no_BTN(driver, wait, f_logs)
 
-                        all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, cpe_tt['tt'])
-                        print_text_both(f"SUCCESS!", f_logs)
+                        res, all_cpes_data = info_cpe(cpe, driver, wait, f_logs,
+                                                      wait_short, all_cpes_data, cpe_tt['tt'])
+                        if res:
+                            print_text_both(f"SUCCESS!", f_logs)
+                        else:
+                            print_text_both(
+                                f"\n\n---->>>>!!Something went wrong with {cpe}. Trying again later....\n\n", f_logs)
+                            cpes_fail.append(cpe_tt)
                     except Exception as e:
                         print_text_both(f"-!!Something went wrong: {e}", f_logs)
                         print_text_both(
@@ -428,7 +434,14 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
                     cpe = cpe_tt['cpe']
                     print_text_both(f"Trying cpe {cpe}: number {cpes_fail.index(cpe_tt)+1}", f_logs)
                     try:
-                        all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, cpe_tt['tt'])
+                        res, all_cpes_data = info_cpe(cpe, driver, wait, f_logs,
+                                                      wait_short, all_cpes_data, cpe_tt['tt'])
+                        if res:
+                            print_text_both(f"SUCCESS!", f_logs)
+                        else:
+                            print_text_both(
+                                f"\n\n---->>>>!!Something went wrong with {cpe}.  Quit trying!", f_logs)
+                            cpes_fail_again.append(cpe_tt)
                     except:
                         print_text_both(f"Something went wrong with {cpe}. Quit trying!", f_logs)
                         cpes_fail_again.append(cpe_tt)
