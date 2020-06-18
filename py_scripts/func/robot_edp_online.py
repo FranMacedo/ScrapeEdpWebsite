@@ -40,16 +40,39 @@ if not os.path.isdir(downloads_path):
 # destination_path = "Z:\\DATABASE\\ENERGIA\\DATAFILES"
 
 
-def connect_driver():
+def regular_driver():
     chrome_options = Options()
     chrome_options.add_argument("--window-size=1920,1080")
-    #from .env_vars import is_fixo
-    # if is_fixo:
-	# chrome_options.add_argument("--headless")
-    
     prefs = {"download.default_directory": downloads_path}
     chrome_options.add_experimental_option("prefs", prefs)
     driver = webdriver.Chrome("chromedriver/chromedriver.exe", options=chrome_options)
+    return driver
+
+
+def headless_driver():
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--window-size=1920,1080")
+    chrome_options.add_argument("--whitelisted-ips=127.0.0.1")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+
+    prefs = {"download.default_directory": downloads_path}
+    chrome_options.add_experimental_option("prefs", prefs)
+
+    # the program quits if we don't have the executable because self.quit() is called from within lol.
+    # no way to debug prints unless we change the library with a github fork and then compile from source...
+    driver = webdriver.Chrome("chromedriver/chromedriver.exe", options=chrome_options)
+    return driver
+
+
+def connect_driver():
+    from .env_vars import is_fixo
+    if is_fixo:
+        driver = headless_driver()
+    else:
+        driver = regular_driver()
+
     driver.get("https://online.edpdistribuicao.pt/pt/Pages/Home.aspx")  # Inicio do website pretendido no webdriver
     action = ActionChains(driver)
     global wait
