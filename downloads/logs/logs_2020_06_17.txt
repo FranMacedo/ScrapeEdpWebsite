@@ -21016,3 +21016,2041 @@ SUCCESS!
 Trying cpe PT0002000118880476YB
 -1 list result(s) found for that CPE
 --Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.0%                                                                   (1481/4361)
+Trying cpe PT0002000118880487YE
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.0%                                                                   (1482/4361)
+Trying cpe PT0002000118880498FX
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.0%                                                                   (1483/4361)
+Trying cpe PT0002000118880512PR
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.0%                                                                   (1484/4361)
+Trying cpe PT0002000118880591BB
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.1%                                                                   (1485/4361)
+Trying cpe PT0002000118880603NT
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.1%                                                                   (1486/4361)
+Trying cpe PT0002000118880614NB
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.1%                                                                   (1487/4361)
+Trying cpe PT0002000118880636JX
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.1%                                                                   (1488/4361)
+Trying cpe PT0002000118880647JK
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.1%                                                                   (1489/4361)
+Trying cpe PT0002000118880658ZD
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.2%                                                                   (1490/4361)
+Trying cpe PT0002000118880669ZC
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.2%                                                                   (1491/4361)
+Trying cpe PT0002000118880671ZE
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.2%                                                                   (1492/4361)
+Trying cpe PT0002000118880682SX
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.2%                                                                   (1493/4361)
+Trying cpe PT0002000118880693SK
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.3%                                                                   (1494/4361)
+Trying cpe PT0002000118880705QX
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.3%                                                                   (1495/4361)
+Trying cpe PT0002000118880716QK
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.3%                                                                   (1496/4361)
+Trying cpe PT0002000118880727VD
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.3%                                                                   (1497/4361)
+Trying cpe PT0002000118880738VC
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.3%                                                                   (1498/4361)
+Trying cpe PT0002000118880795CP
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.4%                                                                   (1499/4361)
+Trying cpe PT0002000118880818KP
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.4%                                                                   (1500/4361)
+Trying cpe PT0002000118880842ED
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.4%                                                                   (1501/4361)
+Trying cpe PT0002000118880853EC
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.4%                                                                   (1502/4361)
+Trying cpe PT0002000118880864TP
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.5%                                                                   (1503/4361)
+Trying cpe PT0002000118880875TL
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.5%                                                                   (1504/4361)
+Trying cpe PT0002000118880886RF
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.5%                                                                   (1505/4361)
+Trying cpe PT0002000118880909WF
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.5%                                                                   (1506/4361)
+Trying cpe PT0002000118880911WD
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.6%                                                                   (1507/4361)
+Trying cpe PT0002000118880922WC
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.6%                                                                   (1508/4361)
+Trying cpe PT0002000118880933AP
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.6%                                                                   (1509/4361)
+Trying cpe PT0002000118880988MV
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.6%                                                                   (1510/4361)
+Trying cpe PT0002000118880999YM
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.6%                                                                   (1511/4361)
+Trying cpe PT0002000118881003YD
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.7%                                                                   (1512/4361)
+Trying cpe PT0002000118881014YC
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.7%                                                                   (1513/4361)
+Trying cpe PT0002000118881025FP
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.7%                                                                   (1514/4361)
+Trying cpe PT0002000118881229QM
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.7%                                                                   (1515/4361)
+Trying cpe PT0002000118881231QF
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.8%                                                                   (1516/4361)
+Trying cpe PT0002000118881242QH
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.8%                                                                   (1517/4361)
+Trying cpe PT0002000118881253VY
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.8%                                                                   (1518/4361)
+Trying cpe PT0002000118881264VV
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.8%                                                                   (1519/4361)
+Trying cpe PT0002000118881275HM
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.9%                                                                   (1520/4361)
+Trying cpe PT0002000118881286HQ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.9%                                                                   (1521/4361)
+Trying cpe PT0002000118881297LG
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.9%                                                                   (1522/4361)
+Trying cpe PT0002000118881309LQ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.9%                                                                   (1523/4361)
+Trying cpe PT0002000118881311LH
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.9%                                                                   (1524/4361)
+Trying cpe PT0002000118881322CY
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.0%                                                                  (1525/4361)
+Trying cpe PT0002000118881333CV
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.0%                                                                  (1526/4361)
+Trying cpe PT0002000118881344KM
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.0%                                                                  (1527/4361)
+Trying cpe PT0002000118881355KQ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.0%                                                                  (1528/4361)
+Trying cpe PT0002000118881366EG
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.1%                                                                  (1529/4361)
+Trying cpe PT0002000118881377ES
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.1%                                                                  (1530/4361)
+Trying cpe PT0002000118881388TA
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.1%                                                                  (1531/4361)
+Trying cpe PT0002000118881399TZ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.1%                                                                  (1532/4361)
+Trying cpe PT0002000118881402TV
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.2%                                                                  (1533/4361)
+Trying cpe PT0002000118881413RM
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.2%                                                                  (1534/4361)
+Trying cpe PT0002000118881424RQ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.2%                                                                  (1535/4361)
+Trying cpe PT0002000118881435WG
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.2%                                                                  (1536/4361)
+Trying cpe PT0002000118881446WS
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.2%                                                                  (1537/4361)
+Trying cpe PT0002000118881457AA
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.3%                                                                  (1538/4361)
+Trying cpe PT0002000118881468AZ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.3%                                                                  (1539/4361)
+Trying cpe PT0002000118881479GW
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.3%                                                                  (1540/4361)
+Trying cpe PT0002000118881481GG
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.3%                                                                  (1541/4361)
+Trying cpe PT0002000118881572PA
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.4%                                                                  (1542/4361)
+Trying cpe PT0002000118881583PZ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.4%                                                                  (1543/4361)
+Trying cpe PT0002000118881594DW
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.4%                                                                  (1544/4361)
+Trying cpe PT0002000118881606DZ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.4%                                                                  (1545/4361)
+Trying cpe PT0002000118881628XJ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.5%                                                                  (1546/4361)
+Trying cpe PT0002000118881641BA
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.5%                                                                  (1547/4361)
+Trying cpe PT0002000118881787VB
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.5%                                                                  (1548/4361)
+Trying cpe PT0002000118881801HW
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.5%                                                                  (1549/4361)
+Trying cpe PT0002000118881889KK
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.5%                                                                  (1550/4361)
+Trying cpe PT0002000118881947RX
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.6%                                                                  (1551/4361)
+Trying cpe PT0002000118882006GT
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.6%                                                                  (1552/4361)
+Trying cpe PT0002000118882039MX
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.6%                                                                  (1553/4361)
+Trying cpe PT0002000118882041MN
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.6%                                                                  (1554/4361)
+Trying cpe PT0002000118882052YT
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.7%                                                                  (1555/4361)
+Trying cpe PT0002000118882074YE
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.7%                                                                  (1556/4361)
+Trying cpe PT0002000118882085FX
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.7%                                                                  (1557/4361)
+Trying cpe PT0002000118882096FK
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.7%                                                                  (1558/4361)
+Trying cpe PT0002000118882108PX
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.7%                                                                  (1559/4361)
+Trying cpe PT0002000118882119PK
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.8%                                                                  (1560/4361)
+Trying cpe PT0002000118882121DT
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.8%                                                                  (1561/4361)
+Trying cpe PT0002000118882132DB
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.8%                                                                  (1562/4361)
+Trying cpe PT0002000118882154XX
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.8%                                                                  (1563/4361)
+Trying cpe PT0002000118882165XK
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.9%                                                                  (1564/4361)
+Trying cpe PT0002000118882393CL
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.9%                                                                  (1565/4361)
+Trying cpe PT0002000118882405KP
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.9%                                                                  (1566/4361)
+Trying cpe PT0002000118882416KL
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------35.9%                                                                  (1567/4361)
+Trying cpe PT0002000118882427EF
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.0%                                                                 (1568/4361)
+Trying cpe PT0002000118882438EH
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.0%                                                                 (1569/4361)
+Trying cpe PT0002000118882449TY
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.0%                                                                 (1570/4361)
+Trying cpe PT0002000118882451TP
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.0%                                                                 (1571/4361)
+Trying cpe PT0002000118882462TL
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.0%                                                                 (1572/4361)
+Trying cpe PT0002000118882473RF
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.1%                                                                 (1573/4361)
+Trying cpe PT0002000118882484RH
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.1%                                                                 (1574/4361)
+Trying cpe PT0002000118882495WY
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.1%                                                                 (1575/4361)
+Trying cpe PT0002000118882507WH
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.1%                                                                 (1576/4361)
+Trying cpe PT0002000118882518AY
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.2%                                                                 (1577/4361)
+Trying cpe PT0002000118882531AL
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.2%                                                                 (1578/4361)
+Trying cpe PT0002000118882542GF
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.2%                                                                 (1579/4361)
+Trying cpe PT0002000118882553GH
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.2%                                                                 (1580/4361)
+Trying cpe PT0002000118882564MY
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.3%                                                                 (1581/4361)
+Trying cpe PT0002000118882575MV
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.3%                                                                 (1582/4361)
+Trying cpe PT0002000118882609FM
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.3%                                                                 (1583/4361)
+Trying cpe PT0002000118882611FF
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.3%                                                                 (1584/4361)
+Trying cpe PT0002000118882666DQ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.3%                                                                 (1585/4361)
+Trying cpe PT0002000118882677XG
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.4%                                                                 (1586/4361)
+Trying cpe PT0002000118882688XS
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.4%                                                                 (1587/4361)
+Trying cpe PT0002000118882699BA
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.4%                                                                 (1588/4361)
+Trying cpe PT0002000118882713BV
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.4%                                                                 (1589/4361)
+Trying cpe PT0002000118882724NM
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.5%                                                                 (1590/4361)
+Trying cpe PT0002000118882757JS
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.5%                                                                 (1591/4361)
+Trying cpe PT0002000118882768ZA
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.5%                                                                 (1592/4361)
+Trying cpe PT0002000118882779ZZ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.5%                                                                 (1593/4361)
+Trying cpe PT0002000118882781ZQ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.6%                                                                 (1594/4361)
+Trying cpe PT0002000118882792SG
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.6%                                                                 (1595/4361)
+Trying cpe PT0002000118882848VZ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.6%                                                                 (1596/4361)
+Trying cpe PT0002000118882859HW
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.6%                                                                 (1597/4361)
+Trying cpe PT0002000118882861HG
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.6%                                                                 (1598/4361)
+Trying cpe PT0002000118882872HS
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.7%                                                                 (1599/4361)
+Trying cpe PT0002000118882883LA
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.7%                                                                 (1600/4361)
+Trying cpe PT0002000118882894LZ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.7%                                                                 (1601/4361)
+Trying cpe PT0002000118882906CA
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.7%                                                                 (1602/4361)
+Trying cpe PT0002000118882917CZ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.8%                                                                 (1603/4361)
+Trying cpe PT0002000118882939KJ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.8%                                                                 (1604/4361)
+Trying cpe PT0002000118882952EA
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.8%                                                                 (1605/4361)
+Trying cpe PT0002000118882974TW
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.8%                                                                 (1606/4361)
+Trying cpe PT0002000118882996RR
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.8%                                                                 (1607/4361)
+Trying cpe PT0002000118883011RQ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.9%                                                                 (1608/4361)
+Trying cpe PT0002000118883033WS
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.9%                                                                 (1609/4361)
+Trying cpe PT0002000118883088MR
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.9%                                                                 (1610/4361)
+Trying cpe PT0002000118883419LX
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.9%                                                                 (1611/4361)
+Trying cpe PT0002000118883421LN
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.0%                                                                (1612/4361)
+Trying cpe PT0002000118883432CT
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.0%                                                                (1613/4361)
+Trying cpe PT0002000118883454CE
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.0%                                                                (1614/4361)
+Trying cpe PT0002000118883465KX
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.0%                                                                (1615/4361)
+Trying cpe PT0002000118883498EC
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.1%                                                                (1616/4361)
+Trying cpe PT0002000118883501TT
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.1%                                                                (1617/4361)
+Trying cpe PT0002000118883818JH
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.1%                                                                (1618/4361)
+Trying cpe PT0002000118883829ZY
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.1%                                                                (1619/4361)
+Trying cpe PT0002000118883831ZP
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.1%                                                                (1620/4361)
+Trying cpe PT0002000118883853SF
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.2%                                                                (1621/4361)
+Trying cpe PT0002000118883864SH
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.2%                                                                (1622/4361)
+Trying cpe PT0002000118883897VM
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.2%                                                                (1623/4361)
+Trying cpe PT0002000118883911VL
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.2%                                                                (1624/4361)
+Trying cpe PT0002000118883955LV
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.3%                                                                (1625/4361)
+Trying cpe PT0002000118883966CM
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.3%                                                                (1626/4361)
+Trying cpe PT0002000118883988KG
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.3%                                                                (1627/4361)
+Trying cpe PT0002000118883999KS
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.3%                                                                (1628/4361)
+Trying cpe PT0002000118884003KL
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.4%                                                                (1629/4361)
+Trying cpe PT0002000118884014EF
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.4%                                                                (1630/4361)
+Trying cpe PT0002000118884025EH
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.4%                                                                (1631/4361)
+Trying cpe PT0002000118884047TV
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.4%                                                                (1632/4361)
+Trying cpe PT0002000118884058RM
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.4%                                                                (1633/4361)
+Trying cpe PT0002000118884069RQ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.5%                                                                (1634/4361)
+Trying cpe PT0002000118884071RH
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.5%                                                                (1635/4361)
+Trying cpe PT0002000118884082WY
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.5%                                                                (1636/4361)
+Trying cpe PT0002000118884105AY
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.5%                                                                (1637/4361)
+Trying cpe PT0002000118884116AV
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.6%                                                                (1638/4361)
+Trying cpe PT0002000111277464LV
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.6%                                                                (1639/4361)
+Trying cpe PT0002000112009283ME
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.6%                                                                (1640/4361)
+Trying cpe PT0002000112064647KW
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.6%                                                                (1641/4361)
+Trying cpe PT0002000112084841WW
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.7%                                                                (1642/4361)
+Trying cpe PT0002000112111457DF
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.7%                                                                (1643/4361)
+Trying cpe PT0002000112111548JY
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.7%                                                                (1644/4361)
+Trying cpe PT0002000112112187HR
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.7%                                                                (1645/4361)
+Trying cpe PT0002000112113842KT
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.7%                                                                (1646/4361)
+Trying cpe PT0002000112113911RT
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.8%                                                                (1647/4361)
+Trying cpe PT0002000112188827SM
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.8%                                                                (1648/4361)
+Trying cpe PT0002000112580149DM
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.8%                                                                (1649/4361)
+Trying cpe PT0002000112606424RZ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.8%                                                                (1650/4361)
+Trying cpe PT0002000112606479GT
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.9%                                                                (1651/4361)
+Trying cpe PT0002000112625191NJ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.9%                                                                (1652/4361)
+Trying cpe PT0002000112708107YZ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.9%                                                                (1653/4361)
+Trying cpe PT0002000112739365PS
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------37.9%                                                                (1654/4361)
+Trying cpe PT0002000112739412XQ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.0%                                                               (1655/4361)
+Trying cpe PT0002000112768855WL
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.0%                                                               (1656/4361)
+Trying cpe PT0002000112812472JM
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.0%                                                               (1657/4361)
+Trying cpe PT0002000112906693SH
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.0%                                                               (1658/4361)
+Trying cpe PT0002000112923316WN
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.0%                                                               (1659/4361)
+Trying cpe PT0002000112956968QS
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.1%                                                               (1660/4361)
+Trying cpe PT0002000113010581RS
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.1%                                                               (1661/4361)
+Trying cpe PT0002000113024817EZ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.1%                                                               (1662/4361)
+Trying cpe PT0002000113193332NP
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.1%                                                               (1663/4361)
+Trying cpe PT0002000113199569FN
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.2%                                                               (1664/4361)
+Trying cpe PT0002000113324209KS
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.2%                                                               (1665/4361)
+Trying cpe PT0002000113340774MC
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.2%                                                               (1666/4361)
+Trying cpe PT0002000113592103PM
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.2%                                                               (1667/4361)
+Trying cpe PT0002000113603909SN
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.2%                                                               (1668/4361)
+Trying cpe PT0002000113673557FQ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.3%                                                               (1669/4361)
+Trying cpe PT0002000113673592DM
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.3%                                                               (1670/4361)
+Trying cpe PT0002000113731979VH
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.3%                                                               (1671/4361)
+Trying cpe PT0002000113897686TX
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.3%                                                               (1672/4361)
+Trying cpe PT0002000113953657HE
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.4%                                                               (1673/4361)
+Trying cpe PT0002000113977581RA
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.4%                                                               (1674/4361)
+Trying cpe PT0002000114307594CN
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.4%                                                               (1675/4361)
+Trying cpe PT0002000114399829MV
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.4%                                                               (1676/4361)
+Trying cpe PT0002000114399909DM
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.5%                                                               (1677/4361)
+Trying cpe PT0002000114412859CY
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.5%                                                               (1678/4361)
+Trying cpe PT0002000114463456NA
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.5%                                                               (1679/4361)
+Trying cpe PT0002000114779481KP
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.5%                                                               (1680/4361)
+Trying cpe PT0002000114783907YH
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.5%                                                               (1681/4361)
+Trying cpe PT0002000114807477LJ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.6%                                                               (1682/4361)
+Trying cpe PT0002000114813797HP
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.6%                                                               (1683/4361)
+Trying cpe PT0002000114824237NY
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.6%                                                               (1684/4361)
+Trying cpe PT0002000114854492QQ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.6%                                                               (1685/4361)
+Trying cpe PT0002000114854776YR
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.7%                                                               (1686/4361)
+Trying cpe PT0002000114855837YG
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.7%                                                               (1687/4361)
+Trying cpe PT0002000114880537EW
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.7%                                                               (1688/4361)
+Trying cpe PT0002000114880559TR
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.7%                                                               (1689/4361)
+Trying cpe PT0002000114880594RJ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.8%                                                               (1690/4361)
+Trying cpe PT0002000114902864AL
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.8%                                                               (1691/4361)
+Trying cpe PT0002000114954225MK
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.8%                                                               (1692/4361)
+Trying cpe PT0002000114959506MN
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.8%                                                               (1693/4361)
+Trying cpe PT0002000115024809SH
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.8%                                                               (1694/4361)
+Trying cpe PT0002000115051379KT
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.9%                                                               (1695/4361)
+Trying cpe PT0002000115051381KW
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.9%                                                               (1696/4361)
+Trying cpe PT0002000115051392KJ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.9%                                                               (1697/4361)
+Trying cpe PT0002000115051404EW
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.9%                                                               (1698/4361)
+Trying cpe PT0002000115054621TE
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.0%                                                              (1699/4361)
+Trying cpe PT0002000115063644WY
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.0%                                                              (1700/4361)
+Trying cpe PT0002000115202907PG
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.0%                                                              (1701/4361)
+Trying cpe PT0002000115338622CL
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.0%                                                              (1702/4361)
+Trying cpe PT0002000115347111KK
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.1%                                                              (1703/4361)
+Trying cpe PT0002000115483018LK
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.1%                                                              (1704/4361)
+Trying cpe PT0002000115534766SL
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.1%                                                              (1705/4361)
+Trying cpe PT0002000115809516RB
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.1%                                                              (1706/4361)
+Trying cpe PT0002000115850699KR
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.1%                                                              (1707/4361)
+Trying cpe PT0002000115874555TY
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.2%                                                              (1708/4361)
+Trying cpe PT0002000115923236TL
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.2%                                                              (1709/4361)
+Trying cpe PT0002000115923258RH
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.2%                                                              (1710/4361)
+Trying cpe PT0002000116084676GE
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.2%                                                              (1711/4361)
+Trying cpe PT0002000116114738RT
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.3%                                                              (1712/4361)
+Trying cpe PT0002000116114886FX
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.3%                                                              (1713/4361)
+Trying cpe PT0002000116347824SG
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.3%                                                              (1714/4361)
+Trying cpe PT0002000116366818JT
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.3%                                                              (1715/4361)
+Trying cpe PT0002000116366853ZN
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.3%                                                              (1716/4361)
+Trying cpe PT0002000116429177XY
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.4%                                                              (1717/4361)
+Trying cpe PT0002000116600306KS
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.4%                                                              (1718/4361)
+Trying cpe PT0002000116626577JC
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.4%                                                              (1719/4361)
+Trying cpe PT0002000116868026TS
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.4%                                                              (1720/4361)
+Trying cpe PT0002000116874871EY
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.5%                                                              (1721/4361)
+Trying cpe PT0002000116874916RM
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.5%                                                              (1722/4361)
+Trying cpe PT0002000116877049RE
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.5%                                                              (1723/4361)
+Trying cpe PT0002000116954902MC
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.5%                                                              (1724/4361)
+Trying cpe PT0002000116968341SG
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.6%                                                              (1725/4361)
+Trying cpe PT0002000117040978EF
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.6%                                                              (1726/4361)
+Trying cpe PT0002000117124843BZ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.6%                                                              (1727/4361)
+Trying cpe PT0002000117161841XM
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.6%                                                              (1728/4361)
+Trying cpe PT0002000117242943VD
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.6%                                                              (1729/4361)
+Trying cpe PT0002000117262907BD
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.7%                                                              (1730/4361)
+Trying cpe PT0002000117265851RD
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.7%                                                              (1731/4361)
+Trying cpe PT0002000117408491QA
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.7%                                                              (1732/4361)
+Trying cpe PT0002000117438027NF
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.7%                                                              (1733/4361)
+Trying cpe PT0002000117457193VZ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.8%                                                              (1734/4361)
+Trying cpe PT0002000118028962ZA
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------39.8%                                                              (1735/4361)
+Trying cpe PT0002000118028984SW
