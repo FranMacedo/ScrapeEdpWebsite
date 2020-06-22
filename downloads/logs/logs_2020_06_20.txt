@@ -2,526 +2,7 @@
 ***DOWNLOAD DE FICHEIROS***
 
 
-<<<<<<< HEAD
-**DIA 19-06-2020 ÀS 15H56min**
-
-Processing CIL: 3874085 | CPE: PT0002000038740856ZG
-
-
-***RECOLHA DE INFORMAÇÃO***
-**DIA 19-06-2020 ÀS 16H7min**
-impossivel adequirir informação nova sobre cpes expecíficos. Tente uma gestão!
-
-
-***RECOLHA DE INFORMAÇÃO***
-**DIA 19-06-2020 ÀS 16H8min**
-
-
-A tentar reunir informação para os cpes: PT0002000038740856ZG......
-
-
--------TURNING ON ACTIVO-------
-
-
-
-
------------------- GOING FOR INFO OF EACH CPE ----------------------
-
-
-
-
-||----------------------------------------------------------------------------------------------------100.0% (1/1)
-Trying cpe PT0002000038740856ZG
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-***RECOLHA DE INFORMAÇÃO***
-**DIA 19-06-2020 ÀS 16H25min**
-
-
-A tentar reunir informação para os cpes: PT0002000038740856ZG......
-
-
--------TURNING ON ACTIVO-------
-
-
-
-
------------------- GOING FOR INFO OF EACH CPE ----------------------
-
-
-
-
-||----------------------------------------------------------------------------------------------------100.0% (1/1)
-Trying cpe PT0002000038740856ZG
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-***RECOLHA DE INFORMAÇÃO***
-**DIA 19-06-2020 ÀS 16H33min**
-
-
-A tentar reunir informação para os cpes: PT0002000038740856ZG......
-
-
--------TURNING ON ACTIVO-------
-
-
-
-
------------------- GOING FOR INFO OF EACH CPE ----------------------
-
-
-
-
-||----------------------------------------------------------------------------------------------------100.0% (1/1)
-Trying cpe PT0002000038740856ZG
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-***RECOLHA DE INFORMAÇÃO***
-**DIA 19-06-2020 ÀS 16H40min**
-
-
-***RECOLHA DE INFORMAÇÃO***
-**DIA 19-06-2020 ÀS 16H46min**
-::ERRO!:: Os cpes/cils selecionados não são válidos... tente novamente:
-:::: -->CPES/CILS inválidos: a
-done
-
-
-***RECOLHA DE INFORMAÇÃO***
-**DIA 19-06-2020 ÀS 16H49min**
-::ERRO!:: Os cpes/cils selecionados não são válidos... tente novamente:
-:::: -->CPES/CILS inválidos: a
-done
-
-
-***RECOLHA DE INFORMAÇÃO***
-**DIA 19-06-2020 ÀS 16H50min**
-
-
-A tentar reunir informação para os cpes: PT0002000038740856ZG......
-
-
--------TURNING ON ACTIVO-------
-
-
-
-
------------------- GOING FOR INFO OF EACH CPE ----------------------
-
-
-
-
-||----------------------------------------------------------------------------------------------------100.0% (1/1)
-Trying cpe PT0002000038740856ZG
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-***RECOLHA DE INFORMAÇÃO***
-**DIA 19-06-2020 ÀS 16H53min**
-
-
--------TURNING ON ACTIVO-------
-
-
-
-
------------------- GOING FOR ALL CPES THAT ARE ACTIVE----------------------
-
-
-trying page 2/5
-trying page 3/5
-trying page 4/5
-trying page 5/5
-
------->ALL CPES GATHERED: 49 cpes
-
-
-
------------------- GOING FOR INFO OF EACH CPE ----------------------
-
-
-
-
-||--2.0%                                                                                                   (1/49)
-Trying cpe PT0002000065171113YH
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||----4.1%                                                                                                 (2/49)
-Trying cpe PT0002000083774745LP
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||------6.1%                                                                                               (3/49)
-Trying cpe PT0002000070983625TQ
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||--------8.2%                                                                                             (4/49)
-Trying cpe PT0002000065171102YF
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||----------10.2%                                                                                           (5/49)
-Trying cpe PT0002000075406578TT
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||------------12.2%                                                                                         (6/49)
-Trying cpe PT0002000065171135FV
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||--------------14.3%                                                                                       (7/49)
-Trying cpe PT0002000066087734TC
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||----------------16.3%                                                                                     (8/49)
-Trying cpe PT0002000065185678LR
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||------------------18.4%                                                                                   (9/49)
-Trying cpe PT0002000103112789SC
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||--------------------20.4%                                                                                 (10/49)
-Trying cpe PT0002000065180535WX
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||----------------------22.4%                                                                               (11/49)
-Trying cpe PT0002000065181879ZC
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||------------------------24.5%                                                                             (12/49)
-Trying cpe PT0002000065171124FY
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||--------------------------26.5%                                                                           (13/49)
-Trying cpe PT0002000037674281DP
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||----------------------------28.6%                                                                         (14/49)
-Trying cpe PT0002000037674315XL
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||------------------------------30.6%                                                                       (15/49)
-Trying cpe PT0002000108305357BQ
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||--------------------------------32.7%                                                                     (16/49)
-Trying cpe PT0002000108305379NS
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||----------------------------------34.7%                                                                   (17/49)
-Trying cpe PT0002000037674656WS
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||------------------------------------36.7%                                                                 (18/49)
-Trying cpe PT0002000039601727EP
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||--------------------------------------38.8%                                                               (19/49)
-Trying cpe PT0002000038740856ZG
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||----------------------------------------40.8%                                                             (20/49)
-Trying cpe PT0002000085043515YY
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||------------------------------------------42.9%                                                           (21/49)
-Trying cpe PT0002000037674598TA
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||--------------------------------------------44.9%                                                         (22/49)
-Trying cpe PT0002000040493413JF
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||----------------------------------------------46.9%                                                       (23/49)
-Trying cpe PT0002000038976931CF
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||-------------------------------------------------49.0%                                                    (24/49)
-Trying cpe PT0002000080680717TD
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||---------------------------------------------------51.0%                                                  (25/49)
-Trying cpe PT0002000040269657JH
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||-----------------------------------------------------53.1%                                                (26/49)
-Trying cpe PT0002000040487491PL
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||-------------------------------------------------------55.1%                                              (27/49)
-Trying cpe PT0002000036852699FD
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||---------------------------------------------------------57.1%                                            (28/49)
-Trying cpe PT0002000124524796RQ
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||-----------------------------------------------------------59.2%                                          (29/49)
-Trying cpe PT0002000065176041ZR
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||-------------------------------------------------------------61.2%                                        (30/49)
-Trying cpe PT0002000083200947AZ
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||---------------------------------------------------------------63.3%                                      (31/49)
-Trying cpe PT0002000040487764CQ
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||-----------------------------------------------------------------65.3%                                    (32/49)
-Trying cpe PT0002000072404696PD
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||-------------------------------------------------------------------67.3%                                  (33/49)
-Trying cpe PT0002000082950554HE
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||---------------------------------------------------------------------69.4%                                (34/49)
-Trying cpe PT0002000083488985ST
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||-----------------------------------------------------------------------71.4%                              (35/49)
-Trying cpe PT0002000084007855BJ
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||-------------------------------------------------------------------------73.5%                            (36/49)
-Trying cpe PT0002000082950359XB
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||---------------------------------------------------------------------------75.5%                          (37/49)
-Trying cpe PT0002000039085483RE
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||-----------------------------------------------------------------------------77.6%                        (38/49)
-Trying cpe PT0002000082950361XJ
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||-------------------------------------------------------------------------------79.6%                      (39/49)
-Trying cpe PT0002000037968526ZZ
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||---------------------------------------------------------------------------------81.6%                    (40/49)
-Trying cpe PT0002000065170303VJ
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||-----------------------------------------------------------------------------------83.7%                  (41/49)
-Trying cpe PT0002000074034645NV
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||-------------------------------------------------------------------------------------85.7%                (42/49)
-Trying cpe PT0002000065170314HR
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||---------------------------------------------------------------------------------------87.8%              (43/49)
-Trying cpe PT0002000088396285GC
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||-----------------------------------------------------------------------------------------89.8%            (44/49)
-Trying cpe PT0002000038956954WV
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||-------------------------------------------------------------------------------------------91.8%          (45/49)
-Trying cpe PT0002000040293434NJ
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||---------------------------------------------------------------------------------------------93.9%        (46/49)
-Trying cpe PT0002000118641824AF
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||-----------------------------------------------------------------------------------------------95.9%      (47/49)
-Trying cpe PT0002000040277724LN
--1 list result(s) found for that CPE
---Trying row 1
----!!Consumos tab not found...
-SUCCESS!
-
-
-||--------------------------------------------------------------------------------------------------98.0%   (48/49)
-Trying cpe PT0002000065196701SF
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-
-
-||----------------------------------------------------------------------------------------------------100.0% (49/49)
-Trying cpe PT0002000039321285LM
--1 list result(s) found for that CPE
---Trying row 1
-SUCCESS!
-=======
-**DIA 19-06-2020 ÀS 0H30min**
+**DIA 20-06-2020 ÀS 0H30min**
 
 Processing CIL: 3874085 | CPE: PT0002000038740856ZG
 -1 list result(s) found for that CPE
@@ -538,7 +19,7 @@ Processing CIL: 3874085 | CPE: PT0002000038740856ZG
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 0H31min**
+**DIA 20-06-2020 ÀS 0H32min**
 
 Processing CIL: 3932128 | CPE: PT0002000039321285LM
 -2 list result(s) found for that CPE
@@ -560,7 +41,7 @@ Processing CIL: 3932128 | CPE: PT0002000039321285LM
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 0H32min**
+**DIA 20-06-2020 ÀS 0H35min**
 
 Processing CIL: 6517030 | CPE: PT0002000065170303VJ
 -2 list result(s) found for that CPE
@@ -581,7 +62,7 @@ Processing CIL: 6517030 | CPE: PT0002000065170303VJ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 0H34min**
+**DIA 20-06-2020 ÀS 0H38min**
 
 Processing CIL: 6517031 | CPE: PT0002000065170314HR
 -2 list result(s) found for that CPE
@@ -602,10 +83,10 @@ Processing CIL: 6517031 | CPE: PT0002000065170314HR
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 0H36min**
+**DIA 20-06-2020 ÀS 0H41min**
 
 Processing CIL: 6517110 | CPE: PT0002000065171102YF
--3 list result(s) found for that CPE
+-4 list result(s) found for that CPE
 
 
 -Trying row 1
@@ -617,11 +98,21 @@ Processing CIL: 6517110 | CPE: PT0002000065171102YF
 
 
 -Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+
+-Trying row 4
 ---No data for 2020 in this row.
+
+ -----6517110 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 0H37min**
+**DIA 20-06-2020 ÀS 0H46min**
 
 Processing CIL: 6517111 | CPE: PT0002000065171113YH
 -4 list result(s) found for that CPE
@@ -650,7 +141,7 @@ Processing CIL: 6517111 | CPE: PT0002000065171113YH
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 0H40min**
+**DIA 20-06-2020 ÀS 0H50min**
 
 Processing CIL: 6517112 | CPE: PT0002000065171124FY
 -1 list result(s) found for that CPE
@@ -667,7 +158,7 @@ Processing CIL: 6517112 | CPE: PT0002000065171124FY
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 0H41min**
+**DIA 20-06-2020 ÀS 0H53min**
 
 Processing CIL: 6517113 | CPE: PT0002000065171135FV
 -4 list result(s) found for that CPE
@@ -696,7 +187,7 @@ Processing CIL: 6517113 | CPE: PT0002000065171135FV
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 0H44min**
+**DIA 20-06-2020 ÀS 0H58min**
 
 Processing CIL: 6517604 | CPE: PT0002000065176041ZR
 -2 list result(s) found for that CPE
@@ -717,7 +208,7 @@ Processing CIL: 6517604 | CPE: PT0002000065176041ZR
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 0H45min**
+**DIA 20-06-2020 ÀS 1H2min**
 
 Processing CIL: 6518053 | CPE: PT0002000065180535WX
 -1 list result(s) found for that CPE
@@ -734,7 +225,7 @@ Processing CIL: 6518053 | CPE: PT0002000065180535WX
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 0H47min**
+**DIA 20-06-2020 ÀS 1H4min**
 
 Processing CIL: 6518187 | CPE: PT0002000065181879ZC
 -1 list result(s) found for that CPE
@@ -751,7 +242,7 @@ Processing CIL: 6518187 | CPE: PT0002000065181879ZC
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 0H48min**
+**DIA 20-06-2020 ÀS 1H7min**
 
 Processing CIL: 6518567 | CPE: PT0002000065185678LR
 -1 list result(s) found for that CPE
@@ -768,7 +259,7 @@ Processing CIL: 6518567 | CPE: PT0002000065185678LR
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 0H49min**
+**DIA 20-06-2020 ÀS 1H9min**
 
 Processing CIL: 6519670 | CPE: PT0002000065196701SF
 -2 list result(s) found for that CPE
@@ -789,7 +280,7 @@ Processing CIL: 6519670 | CPE: PT0002000065196701SF
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 0H51min**
+**DIA 20-06-2020 ÀS 1H12min**
 
 Processing CIL: 6608773 | CPE: PT0002000066087734TC
 -1 list result(s) found for that CPE
@@ -806,7 +297,7 @@ Processing CIL: 6608773 | CPE: PT0002000066087734TC
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 0H52min**
+**DIA 20-06-2020 ÀS 1H15min**
 
 Processing CIL: 7098362 | CPE: PT0002000070983625TQ
 -4 list result(s) found for that CPE
@@ -835,7 +326,7 @@ Processing CIL: 7098362 | CPE: PT0002000070983625TQ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 0H55min**
+**DIA 20-06-2020 ÀS 1H20min**
 
 Processing CIL: 7403464 | CPE: PT0002000074034645NV
 -2 list result(s) found for that CPE
@@ -856,7 +347,7 @@ Processing CIL: 7403464 | CPE: PT0002000074034645NV
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 0H56min**
+**DIA 20-06-2020 ÀS 1H23min**
 
 Processing CIL: 7540657 | CPE: PT0002000075406578TT
 -4 list result(s) found for that CPE
@@ -885,7 +376,7 @@ Processing CIL: 7540657 | CPE: PT0002000075406578TT
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 0H59min**
+**DIA 20-06-2020 ÀS 1H27min**
 
 Processing CIL: 8320094 | CPE: PT0002000083200947AZ
 -2 list result(s) found for that CPE
@@ -906,7 +397,7 @@ Processing CIL: 8320094 | CPE: PT0002000083200947AZ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H1min**
+**DIA 20-06-2020 ÀS 1H31min**
 
 Processing CIL: 8377474 | CPE: PT0002000083774745LP
 -4 list result(s) found for that CPE
@@ -935,7 +426,7 @@ Processing CIL: 8377474 | CPE: PT0002000083774745LP
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H4min**
+**DIA 20-06-2020 ÀS 1H36min**
 
 Processing CIL: 8504351 | CPE: PT0002000085043515YY
 -1 list result(s) found for that CPE
@@ -952,7 +443,7 @@ Processing CIL: 8504351 | CPE: PT0002000085043515YY
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H5min**
+**DIA 20-06-2020 ÀS 1H39min**
 
 Processing CIL: 10311278 | CPE: PT0002000103112789SC
 -1 list result(s) found for that CPE
@@ -969,7 +460,7 @@ Processing CIL: 10311278 | CPE: PT0002000103112789SC
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H7min**
+**DIA 20-06-2020 ÀS 1H41min**
 
 Processing CIL: 11864182 | CPE: PT0002000118641824AF
 -2 list result(s) found for that CPE
@@ -990,14 +481,14 @@ Processing CIL: 11864182 | CPE: PT0002000118641824AF
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H9min**
+**DIA 20-06-2020 ÀS 1H44min**
 
 Processing CIL: 12452419 | CPE: PT0002000124524196RQ
 -No results found. Trying next CPE...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H10min**
+**DIA 20-06-2020 ÀS 1H45min**
 
 Processing CIL: 3941681 | CPE: PT0002000039416818DL
 -3 list result(s) found for that CPE
@@ -1019,7 +510,7 @@ Processing CIL: 3941681 | CPE: PT0002000039416818DL
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H12min**
+**DIA 20-06-2020 ÀS 1H48min**
 
 Processing CIL: 4049602 | CPE: PT0002000040496025BC
 -5 list result(s) found for that CPE
@@ -1055,7 +546,7 @@ Processing CIL: 4049602 | CPE: PT0002000040496025BC
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H16min**
+**DIA 20-06-2020 ÀS 1H55min**
 
 Processing CIL: 6516359 | CPE: PT0002000065163593RL
 -3 list result(s) found for that CPE
@@ -1080,7 +571,7 @@ Processing CIL: 6516359 | CPE: PT0002000065163593RL
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H18min**
+**DIA 20-06-2020 ÀS 1H59min**
 
 Processing CIL: 6516420 | CPE: PT0002000065164209MZ
 -3 list result(s) found for that CPE
@@ -1105,7 +596,7 @@ Processing CIL: 6516420 | CPE: PT0002000065164209MZ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H20min**
+**DIA 20-06-2020 ÀS 2H4min**
 
 Processing CIL: 6516753 | CPE: PT0002000065167539ND
 -3 list result(s) found for that CPE
@@ -1130,7 +621,7 @@ Processing CIL: 6516753 | CPE: PT0002000065167539ND
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H23min**
+**DIA 20-06-2020 ÀS 2H9min**
 
 Processing CIL: 6517378 | CPE: PT0002000065173781FH
 -3 list result(s) found for that CPE
@@ -1155,7 +646,7 @@ Processing CIL: 6517378 | CPE: PT0002000065173781FH
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H25min**
+**DIA 20-06-2020 ÀS 2H14min**
 
 Processing CIL: 6517444 | CPE: PT0002000065174443JJ
 -3 list result(s) found for that CPE
@@ -1180,7 +671,7 @@ Processing CIL: 6517444 | CPE: PT0002000065174443JJ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H28min**
+**DIA 20-06-2020 ÀS 2H18min**
 
 Processing CIL: 6517706 | CPE: PT0002000065177066NZ
 -3 list result(s) found for that CPE
@@ -1205,7 +696,7 @@ Processing CIL: 6517706 | CPE: PT0002000065177066NZ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H30min**
+**DIA 20-06-2020 ÀS 2H23min**
 
 Processing CIL: 6517792 | CPE: PT0002000065177922AL
 -3 list result(s) found for that CPE
@@ -1230,7 +721,7 @@ Processing CIL: 6517792 | CPE: PT0002000065177922AL
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H33min**
+**DIA 20-06-2020 ÀS 2H28min**
 
 Processing CIL: 6517876 | CPE: PT0002000065178765VB
 -3 list result(s) found for that CPE
@@ -1255,7 +746,7 @@ Processing CIL: 6517876 | CPE: PT0002000065178765VB
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H36min**
+**DIA 20-06-2020 ÀS 2H33min**
 
 Processing CIL: 6518657 | CPE: PT0002000065186579NM
 -3 list result(s) found for that CPE
@@ -1280,7 +771,7 @@ Processing CIL: 6518657 | CPE: PT0002000065186579NM
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H39min**
+**DIA 20-06-2020 ÀS 2H37min**
 
 Processing CIL: 6518715 | CPE: PT0002000065187152ZA
 -3 list result(s) found for that CPE
@@ -1305,7 +796,7 @@ Processing CIL: 6518715 | CPE: PT0002000065187152ZA
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H41min**
+**DIA 20-06-2020 ÀS 2H41min**
 
 Processing CIL: 6518936 | CPE: PT0002000065189364HF
 -3 list result(s) found for that CPE
@@ -1330,7 +821,7 @@ Processing CIL: 6518936 | CPE: PT0002000065189364HF
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H43min**
+**DIA 20-06-2020 ÀS 2H45min**
 
 Processing CIL: 6519143 | CPE: PT0002000065191431QG
 -3 list result(s) found for that CPE
@@ -1355,7 +846,7 @@ Processing CIL: 6519143 | CPE: PT0002000065191431QG
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H46min**
+**DIA 20-06-2020 ÀS 2H49min**
 
 Processing CIL: 6519192 | CPE: PT0002000065191921ZB
 -3 list result(s) found for that CPE
@@ -1380,7 +871,7 @@ Processing CIL: 6519192 | CPE: PT0002000065191921ZB
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H49min**
+**DIA 20-06-2020 ÀS 2H53min**
 
 Processing CIL: 6519222 | CPE: PT0002000065192228GL
 -2 list result(s) found for that CPE
@@ -1401,7 +892,7 @@ Processing CIL: 6519222 | CPE: PT0002000065192228GL
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H51min**
+**DIA 20-06-2020 ÀS 2H56min**
 
 Processing CIL: 6519420 | CPE: PT0002000065194203KQ
 -3 list result(s) found for that CPE
@@ -1426,7 +917,7 @@ Processing CIL: 6519420 | CPE: PT0002000065194203KQ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H54min**
+**DIA 20-06-2020 ÀS 3H1min**
 
 Processing CIL: 6519470 | CPE: PT0002000065194704CB
 -3 list result(s) found for that CPE
@@ -1451,7 +942,7 @@ Processing CIL: 6519470 | CPE: PT0002000065194704CB
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H56min**
+**DIA 20-06-2020 ÀS 3H5min**
 
 Processing CIL: 6519541 | CPE: PT0002000065195412MY
 -3 list result(s) found for that CPE
@@ -1476,7 +967,7 @@ Processing CIL: 6519541 | CPE: PT0002000065195412MY
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 1H59min**
+**DIA 20-06-2020 ÀS 3H10min**
 
 Processing CIL: 6519571 | CPE: PT0002000065195718HJ
 -3 list result(s) found for that CPE
@@ -1501,7 +992,7 @@ Processing CIL: 6519571 | CPE: PT0002000065195718HJ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H2min**
+**DIA 20-06-2020 ÀS 3H14min**
 
 Processing CIL: 6519642 | CPE: PT0002000065196426AP
 -3 list result(s) found for that CPE
@@ -1526,7 +1017,7 @@ Processing CIL: 6519642 | CPE: PT0002000065196426AP
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H4min**
+**DIA 20-06-2020 ÀS 3H18min**
 
 Processing CIL: 6519770 | CPE: PT0002000065197704NK
 -3 list result(s) found for that CPE
@@ -1551,7 +1042,7 @@ Processing CIL: 6519770 | CPE: PT0002000065197704NK
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H7min**
+**DIA 20-06-2020 ÀS 3H22min**
 
 Processing CIL: 6640078 | CPE: PT0002000066400783HQ
 -4 list result(s) found for that CPE
@@ -1580,7 +1071,7 @@ Processing CIL: 6640078 | CPE: PT0002000066400783HQ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H11min**
+**DIA 20-06-2020 ÀS 3H28min**
 
 Processing CIL: 6640134 | CPE: PT0002000066401343CR
 -3 list result(s) found for that CPE
@@ -1605,7 +1096,7 @@ Processing CIL: 6640134 | CPE: PT0002000066401343CR
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H14min**
+**DIA 20-06-2020 ÀS 3H32min**
 
 Processing CIL: 6640425 | CPE: PT0002000066404252PN
 -3 list result(s) found for that CPE
@@ -1630,7 +1121,7 @@ Processing CIL: 6640425 | CPE: PT0002000066404252PN
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H17min**
+**DIA 20-06-2020 ÀS 3H36min**
 
 Processing CIL: 6641462 | CPE: PT0002000066414622ED
 -3 list result(s) found for that CPE
@@ -1655,7 +1146,7 @@ Processing CIL: 6641462 | CPE: PT0002000066414622ED
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H19min**
+**DIA 20-06-2020 ÀS 3H41min**
 
 Processing CIL: 6795599 | CPE: PT0002000067955992QB
 -3 list result(s) found for that CPE
@@ -1676,7 +1167,7 @@ Processing CIL: 6795599 | CPE: PT0002000067955992QB
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H21min**
+**DIA 20-06-2020 ÀS 3H44min**
 
 Processing CIL: 6814007 | CPE: PT0002000068140071SK
 -3 list result(s) found for that CPE
@@ -1701,7 +1192,7 @@ Processing CIL: 6814007 | CPE: PT0002000068140071SK
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H24min**
+**DIA 20-06-2020 ÀS 3H49min**
 
 Processing CIL: 6940318 | CPE: PT0002000069403189XW
 -3 list result(s) found for that CPE
@@ -1726,7 +1217,7 @@ Processing CIL: 6940318 | CPE: PT0002000069403189XW
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H26min**
+**DIA 20-06-2020 ÀS 3H53min**
 
 Processing CIL: 6944453 | CPE: PT0002000069444534JQ
 -3 list result(s) found for that CPE
@@ -1751,7 +1242,7 @@ Processing CIL: 6944453 | CPE: PT0002000069444534JQ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H29min**
+**DIA 20-06-2020 ÀS 3H57min**
 
 Processing CIL: 6944557 | CPE: PT0002000069445572NL
 -3 list result(s) found for that CPE
@@ -1776,7 +1267,7 @@ Processing CIL: 6944557 | CPE: PT0002000069445572NL
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H32min**
+**DIA 20-06-2020 ÀS 4H2min**
 
 Processing CIL: 7098383 | CPE: PT0002000070983831DS
 -3 list result(s) found for that CPE
@@ -1801,7 +1292,7 @@ Processing CIL: 7098383 | CPE: PT0002000070983831DS
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H34min**
+**DIA 20-06-2020 ÀS 4H6min**
 
 Processing CIL: 7215241 | CPE: PT0002000072152412XN
 -3 list result(s) found for that CPE
@@ -1826,7 +1317,7 @@ Processing CIL: 7215241 | CPE: PT0002000072152412XN
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H37min**
+**DIA 20-06-2020 ÀS 4H11min**
 
 Processing CIL: 7265892 | CPE: PT0002000072658922KQ
 -3 list result(s) found for that CPE
@@ -1851,7 +1342,7 @@ Processing CIL: 7265892 | CPE: PT0002000072658922KQ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H39min**
+**DIA 20-06-2020 ÀS 4H15min**
 
 Processing CIL: 7369799 | CPE: PT0002000073697991AZ
 -3 list result(s) found for that CPE
@@ -1876,7 +1367,7 @@ Processing CIL: 7369799 | CPE: PT0002000073697991AZ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H42min**
+**DIA 20-06-2020 ÀS 4H19min**
 
 Processing CIL: 7420596 | CPE: PT0002000074205965DX
 -3 list result(s) found for that CPE
@@ -1901,7 +1392,7 @@ Processing CIL: 7420596 | CPE: PT0002000074205965DX
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H45min**
+**DIA 20-06-2020 ÀS 4H23min**
 
 Processing CIL: 7478623 | CPE: PT0002000074786233FB
 -3 list result(s) found for that CPE
@@ -1926,7 +1417,7 @@ Processing CIL: 7478623 | CPE: PT0002000074786233FB
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H48min**
+**DIA 20-06-2020 ÀS 4H28min**
 
 Processing CIL: 7569402 | CPE: PT0002000075694026PV
 -3 list result(s) found for that CPE
@@ -1951,7 +1442,7 @@ Processing CIL: 7569402 | CPE: PT0002000075694026PV
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H51min**
+**DIA 20-06-2020 ÀS 4H32min**
 
 Processing CIL: 7596313 | CPE: PT0002000075963139WF
 -3 list result(s) found for that CPE
@@ -1976,7 +1467,7 @@ Processing CIL: 7596313 | CPE: PT0002000075963139WF
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H53min**
+**DIA 20-06-2020 ÀS 4H36min**
 
 Processing CIL: 7705356 | CPE: PT0002000077053561PE
 -3 list result(s) found for that CPE
@@ -2001,7 +1492,7 @@ Processing CIL: 7705356 | CPE: PT0002000077053561PE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H56min**
+**DIA 20-06-2020 ÀS 4H41min**
 
 Processing CIL: 7827799 | CPE: PT0002000078277993TA
 -3 list result(s) found for that CPE
@@ -2026,7 +1517,7 @@ Processing CIL: 7827799 | CPE: PT0002000078277993TA
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 2H59min**
+**DIA 20-06-2020 ÀS 4H45min**
 
 Processing CIL: 7992887 | CPE: PT0002000079928875VZ
 -2 list result(s) found for that CPE
@@ -2041,7 +1532,7 @@ Processing CIL: 7992887 | CPE: PT0002000079928875VZ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H0min**
+**DIA 20-06-2020 ÀS 4H48min**
 
 Processing CIL: 8266081 | CPE: PT0002000082660814WJ
 -3 list result(s) found for that CPE
@@ -2066,7 +1557,7 @@ Processing CIL: 8266081 | CPE: PT0002000082660814WJ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H3min**
+**DIA 20-06-2020 ÀS 4H52min**
 
 Processing CIL: 8502695 | CPE: PT0002000085026959EX
 -3 list result(s) found for that CPE
@@ -2091,7 +1582,7 @@ Processing CIL: 8502695 | CPE: PT0002000085026959EX
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H6min**
+**DIA 20-06-2020 ÀS 4H56min**
 
 Processing CIL: 10004857 | CPE: PT0002000100048572MR
 -3 list result(s) found for that CPE
@@ -2116,7 +1607,7 @@ Processing CIL: 10004857 | CPE: PT0002000100048572MR
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H9min**
+**DIA 20-06-2020 ÀS 5H0min**
 
 Processing CIL: 10157254 | CPE: PT0002000101572546RH
 -3 list result(s) found for that CPE
@@ -2141,7 +1632,7 @@ Processing CIL: 10157254 | CPE: PT0002000101572546RH
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H12min**
+**DIA 20-06-2020 ÀS 5H4min**
 
 Processing CIL: 10355512 | CPE: PT0002000103555129CR
 -3 list result(s) found for that CPE
@@ -2166,7 +1657,7 @@ Processing CIL: 10355512 | CPE: PT0002000103555129CR
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H15min**
+**DIA 20-06-2020 ÀS 5H9min**
 
 Processing CIL: 10369977 | CPE: PT0002000103699775FT
 -2 list result(s) found for that CPE
@@ -2187,7 +1678,7 @@ Processing CIL: 10369977 | CPE: PT0002000103699775FT
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H17min**
+**DIA 20-06-2020 ÀS 5H13min**
 
 Processing CIL: 10437291 | CPE: PT0002000104372911VH
 -3 list result(s) found for that CPE
@@ -2212,7 +1703,7 @@ Processing CIL: 10437291 | CPE: PT0002000104372911VH
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H19min**
+**DIA 20-06-2020 ÀS 5H17min**
 
 Processing CIL: 10584751 | CPE: PT0002000105847519FG
 -3 list result(s) found for that CPE
@@ -2237,7 +1728,7 @@ Processing CIL: 10584751 | CPE: PT0002000105847519FG
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H22min**
+**DIA 20-06-2020 ÀS 5H21min**
 
 Processing CIL: 10707957 | CPE: PT0002000107079575FL
 -3 list result(s) found for that CPE
@@ -2262,7 +1753,7 @@ Processing CIL: 10707957 | CPE: PT0002000107079575FL
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H25min**
+**DIA 20-06-2020 ÀS 5H25min**
 
 Processing CIL: 10859506 | CPE: PT0002000108595063AZ
 -3 list result(s) found for that CPE
@@ -2287,7 +1778,7 @@ Processing CIL: 10859506 | CPE: PT0002000108595063AZ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H28min**
+**DIA 20-06-2020 ÀS 5H29min**
 
 Processing CIL: 10951428 | CPE: PT0002000109514287HC
 -2 list result(s) found for that CPE
@@ -2308,7 +1799,7 @@ Processing CIL: 10951428 | CPE: PT0002000109514287HC
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H31min**
+**DIA 20-06-2020 ÀS 5H33min**
 
 Processing CIL: 10966989 | CPE: PT0002000109669896EB
 -3 list result(s) found for that CPE
@@ -2333,7 +1824,7 @@ Processing CIL: 10966989 | CPE: PT0002000109669896EB
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H35min**
+**DIA 20-06-2020 ÀS 5H37min**
 
 Processing CIL: 11253006 | CPE: PT0002000112530067QV
 -2 list result(s) found for that CPE
@@ -2354,7 +1845,7 @@ Processing CIL: 11253006 | CPE: PT0002000112530067QV
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H37min**
+**DIA 20-06-2020 ÀS 5H41min**
 
 Processing CIL: 11450228 | CPE: PT0002000114502281KG
 -3 list result(s) found for that CPE
@@ -2379,18 +1870,32 @@ Processing CIL: 11450228 | CPE: PT0002000114502281KG
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H40min**
+**DIA 20-06-2020 ÀS 5H45min**
 
 Processing CIL: 11616653 | CPE: PT0002000116166533KE
-Search Box not available or took too long o load...
-Took too long to find search button...
-Search Box not available or took too long o load...
-Took too long to find search button...
--No results found. Trying next CPE...
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+ -----11616653 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H43min**
+**DIA 20-06-2020 ÀS 5H50min**
 
 Processing CIL: 11664927 | CPE: PT0002000116649279BK
 -2 list result(s) found for that CPE
@@ -2411,7 +1916,7 @@ Processing CIL: 11664927 | CPE: PT0002000116649279BK
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H46min**
+**DIA 20-06-2020 ÀS 5H53min**
 
 Processing CIL: 11665770 | CPE: PT0002000116657701XW
 -1 list result(s) found for that CPE
@@ -2428,7 +1933,7 @@ Processing CIL: 11665770 | CPE: PT0002000116657701XW
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H47min**
+**DIA 20-06-2020 ÀS 5H55min**
 
 Processing CIL: 11695570 | CPE: PT0002000116955701VZ
 -2 list result(s) found for that CPE
@@ -2449,7 +1954,7 @@ Processing CIL: 11695570 | CPE: PT0002000116955701VZ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H50min**
+**DIA 20-06-2020 ÀS 5H57min**
 
 Processing CIL: 11766538 | CPE: PT0002000117665385FX
 -2 list result(s) found for that CPE
@@ -2470,7 +1975,7 @@ Processing CIL: 11766538 | CPE: PT0002000117665385FX
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H53min**
+**DIA 20-06-2020 ÀS 6H0min**
 
 Processing CIL: 11938737 | CPE: PT0002000119387376BZ
 -3 list result(s) found for that CPE
@@ -2495,7 +2000,7 @@ Processing CIL: 11938737 | CPE: PT0002000119387376BZ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 3H56min**
+**DIA 20-06-2020 ÀS 6H3min**
 
 Processing CIL: 12042569 | CPE: PT0002000120425695YK
 -3 list result(s) found for that CPE
@@ -2520,7 +2025,7 @@ Processing CIL: 12042569 | CPE: PT0002000120425695YK
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 4H0min**
+**DIA 20-06-2020 ÀS 6H7min**
 
 Processing CIL: 4046417 | CPE: PT0002000040464173FT
 -5 list result(s) found for that CPE
@@ -2554,12 +2059,12 @@ Processing CIL: 4046417 | CPE: PT0002000040464173FT
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 4H4min**
+**DIA 20-06-2020 ÀS 6H11min**
 4048641 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 4H4min**
+**DIA 20-06-2020 ÀS 6H11min**
 
 Processing CIL: 4049424 | CPE: PT0002000040494245AB
 -4 list result(s) found for that CPE
@@ -2583,7 +2088,7 @@ Processing CIL: 4049424 | CPE: PT0002000040494245AB
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 4H7min**
+**DIA 20-06-2020 ÀS 6H14min**
 
 Processing CIL: 6516363 | CPE: PT0002000065163638AH
 -4 list result(s) found for that CPE
@@ -2612,12 +2117,12 @@ Processing CIL: 6516363 | CPE: PT0002000065163638AH
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 4H11min**
+**DIA 20-06-2020 ÀS 6H18min**
 6516404 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 4H11min**
+**DIA 20-06-2020 ÀS 6H18min**
 
 Processing CIL: 6516444 | CPE: PT0002000065164448QT
 -4 list result(s) found for that CPE
@@ -2646,7 +2151,7 @@ Processing CIL: 6516444 | CPE: PT0002000065164448QT
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 4H16min**
+**DIA 20-06-2020 ÀS 6H22min**
 
 Processing CIL: 6516541 | CPE: PT0002000065165418NG
 -3 list result(s) found for that CPE
@@ -2671,12 +2176,12 @@ Processing CIL: 6516541 | CPE: PT0002000065165418NG
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 4H19min**
+**DIA 20-06-2020 ÀS 6H25min**
 6516739 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 4H19min**
+**DIA 20-06-2020 ÀS 6H25min**
 
 Processing CIL: 6516815 | CPE: PT0002000065168156QM
 -4 list result(s) found for that CPE
@@ -2705,7 +2210,7 @@ Processing CIL: 6516815 | CPE: PT0002000065168156QM
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 4H23min**
+**DIA 20-06-2020 ÀS 6H29min**
 
 Processing CIL: 6516980 | CPE: PT0002000065169809LW
 -4 list result(s) found for that CPE
@@ -2734,7 +2239,7 @@ Processing CIL: 6516980 | CPE: PT0002000065169809LW
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 4H27min**
+**DIA 20-06-2020 ÀS 6H32min**
 
 Processing CIL: 6516981 | CPE: PT0002000065169811LG
 -4 list result(s) found for that CPE
@@ -2763,12 +2268,12 @@ Processing CIL: 6516981 | CPE: PT0002000065169811LG
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 4H31min**
+**DIA 20-06-2020 ÀS 6H36min**
 6516999 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 4H31min**
+**DIA 20-06-2020 ÀS 6H36min**
 
 Processing CIL: 6517040 | CPE: PT0002000065170405ET
 -4 list result(s) found for that CPE
@@ -2797,7 +2302,7 @@ Processing CIL: 6517040 | CPE: PT0002000065170405ET
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 4H36min**
+**DIA 20-06-2020 ÀS 6H40min**
 
 Processing CIL: 6517187 | CPE: PT0002000065171875QK
 -4 list result(s) found for that CPE
@@ -2826,7 +2331,7 @@ Processing CIL: 6517187 | CPE: PT0002000065171875QK
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 4H40min**
+**DIA 20-06-2020 ÀS 6H45min**
 
 Processing CIL: 6517199 | CPE: PT0002000065171999EF
 -4 list result(s) found for that CPE
@@ -2855,7 +2360,7 @@ Processing CIL: 6517199 | CPE: PT0002000065171999EF
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 4H44min**
+**DIA 20-06-2020 ÀS 6H49min**
 
 Processing CIL: 6517365 | CPE: PT0002000065173655WF
 -2 list result(s) found for that CPE
@@ -2870,7 +2375,7 @@ Processing CIL: 6517365 | CPE: PT0002000065173655WF
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 4H46min**
+**DIA 20-06-2020 ÀS 6H51min**
 
 Processing CIL: 6517475 | CPE: PT0002000065174751AE
 -4 list result(s) found for that CPE
@@ -2899,7 +2404,7 @@ Processing CIL: 6517475 | CPE: PT0002000065174751AE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 4H50min**
+**DIA 20-06-2020 ÀS 6H55min**
 
 Processing CIL: 6517493 | CPE: PT0002000065174933BC
 -4 list result(s) found for that CPE
@@ -2928,7 +2433,7 @@ Processing CIL: 6517493 | CPE: PT0002000065174933BC
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 4H55min**
+**DIA 20-06-2020 ÀS 6H59min**
 
 Processing CIL: 6517508 | CPE: PT0002000065175082HP
 -4 list result(s) found for that CPE
@@ -2957,7 +2462,7 @@ Processing CIL: 6517508 | CPE: PT0002000065175082HP
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 4H59min**
+**DIA 20-06-2020 ÀS 7H3min**
 
 Processing CIL: 6517673 | CPE: PT0002000065176735KM
 -3 list result(s) found for that CPE
@@ -2976,7 +2481,7 @@ Processing CIL: 6517673 | CPE: PT0002000065176735KM
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 5H2min**
+**DIA 20-06-2020 ÀS 7H6min**
 
 Processing CIL: 6517674 | CPE: PT0002000065176746KQ
 -3 list result(s) found for that CPE
@@ -2995,7 +2500,7 @@ Processing CIL: 6517674 | CPE: PT0002000065176746KQ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 5H4min**
+**DIA 20-06-2020 ÀS 7H8min**
 
 Processing CIL: 6517690 | CPE: PT0002000065176906MS
 -4 list result(s) found for that CPE
@@ -3024,7 +2529,7 @@ Processing CIL: 6517690 | CPE: PT0002000065176906MS
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 5H8min**
+**DIA 20-06-2020 ÀS 7H11min**
 
 Processing CIL: 6517765 | CPE: PT0002000065177658SP
 -4 list result(s) found for that CPE
@@ -3053,7 +2558,7 @@ Processing CIL: 6517765 | CPE: PT0002000065177658SP
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 5H12min**
+**DIA 20-06-2020 ÀS 7H15min**
 
 Processing CIL: 6517773 | CPE: PT0002000065177738HL
 -3 list result(s) found for that CPE
@@ -3072,7 +2577,7 @@ Processing CIL: 6517773 | CPE: PT0002000065177738HL
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 5H14min**
+**DIA 20-06-2020 ÀS 7H17min**
 
 Processing CIL: 6517775 | CPE: PT0002000065177751LD
 -3 list result(s) found for that CPE
@@ -3091,7 +2596,7 @@ Processing CIL: 6517775 | CPE: PT0002000065177751LD
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 5H17min**
+**DIA 20-06-2020 ÀS 7H20min**
 
 Processing CIL: 6517976 | CPE: PT0002000065179768SW
 -4 list result(s) found for that CPE
@@ -3120,7 +2625,7 @@ Processing CIL: 6517976 | CPE: PT0002000065179768SW
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 5H21min**
+**DIA 20-06-2020 ÀS 7H23min**
 
 Processing CIL: 6518061 | CPE: PT0002000065180615MK
 -4 list result(s) found for that CPE
@@ -3149,7 +2654,7 @@ Processing CIL: 6518061 | CPE: PT0002000065180615MK
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 5H26min**
+**DIA 20-06-2020 ÀS 7H26min**
 
 Processing CIL: 6518179 | CPE: PT0002000065181799BD
 -4 list result(s) found for that CPE
@@ -3178,7 +2683,7 @@ Processing CIL: 6518179 | CPE: PT0002000065181799BD
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 5H30min**
+**DIA 20-06-2020 ÀS 7H31min**
 
 Processing CIL: 6518195 | CPE: PT0002000065181959HP
 -4 list result(s) found for that CPE
@@ -3207,7 +2712,7 @@ Processing CIL: 6518195 | CPE: PT0002000065181959HP
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 5H35min**
+**DIA 20-06-2020 ÀS 7H35min**
 
 Processing CIL: 6518195 | CPE: PT0002000065181959HP
 -4 list result(s) found for that CPE
@@ -3236,7 +2741,7 @@ Processing CIL: 6518195 | CPE: PT0002000065181959HP
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 5H39min**
+**DIA 20-06-2020 ÀS 7H39min**
 
 Processing CIL: 6518195 | CPE: PT0002000065181959HP
 -4 list result(s) found for that CPE
@@ -3265,7 +2770,7 @@ Processing CIL: 6518195 | CPE: PT0002000065181959HP
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 5H43min**
+**DIA 20-06-2020 ÀS 7H42min**
 
 Processing CIL: 6518195 | CPE: PT0002000065181959HP
 -4 list result(s) found for that CPE
@@ -3294,7 +2799,7 @@ Processing CIL: 6518195 | CPE: PT0002000065181959HP
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 5H46min**
+**DIA 20-06-2020 ÀS 7H47min**
 
 Processing CIL: 6518195 | CPE: PT0002000065181959HP
 -4 list result(s) found for that CPE
@@ -3323,7 +2828,7 @@ Processing CIL: 6518195 | CPE: PT0002000065181959HP
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 5H50min**
+**DIA 20-06-2020 ÀS 7H50min**
 
 Processing CIL: 6518305 | CPE: PT0002000065183056CR
 -4 list result(s) found for that CPE
@@ -3352,7 +2857,7 @@ Processing CIL: 6518305 | CPE: PT0002000065183056CR
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 5H55min**
+**DIA 20-06-2020 ÀS 7H54min**
 
 Processing CIL: 6518357 | CPE: PT0002000065183579LH
 -3 list result(s) found for that CPE
@@ -3371,7 +2876,7 @@ Processing CIL: 6518357 | CPE: PT0002000065183579LH
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 5H57min**
+**DIA 20-06-2020 ÀS 7H57min**
 
 Processing CIL: 6518358 | CPE: PT0002000065183581LC
 -3 list result(s) found for that CPE
@@ -3390,7 +2895,7 @@ Processing CIL: 6518358 | CPE: PT0002000065183581LC
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H0min**
+**DIA 20-06-2020 ÀS 7H59min**
 
 Processing CIL: 6518359 | CPE: PT0002000065183592CP
 -3 list result(s) found for that CPE
@@ -3409,7 +2914,7 @@ Processing CIL: 6518359 | CPE: PT0002000065183592CP
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H2min**
+**DIA 20-06-2020 ÀS 8H1min**
 
 Processing CIL: 6518360 | CPE: PT0002000065183604CC
 -3 list result(s) found for that CPE
@@ -3428,7 +2933,7 @@ Processing CIL: 6518360 | CPE: PT0002000065183604CC
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H5min**
+**DIA 20-06-2020 ÀS 8H3min**
 
 Processing CIL: 6518361 | CPE: PT0002000065183615KP
 -3 list result(s) found for that CPE
@@ -3447,7 +2952,7 @@ Processing CIL: 6518361 | CPE: PT0002000065183615KP
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H7min**
+**DIA 20-06-2020 ÀS 8H5min**
 
 Processing CIL: 6518362 | CPE: PT0002000065183626KL
 -3 list result(s) found for that CPE
@@ -3466,7 +2971,7 @@ Processing CIL: 6518362 | CPE: PT0002000065183626KL
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H9min**
+**DIA 20-06-2020 ÀS 8H8min**
 
 Processing CIL: 6518363 | CPE: PT0002000065183637EF
 -3 list result(s) found for that CPE
@@ -3485,7 +2990,7 @@ Processing CIL: 6518363 | CPE: PT0002000065183637EF
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H11min**
+**DIA 20-06-2020 ÀS 8H9min**
 
 Processing CIL: 6518364 | CPE: PT0002000065183648EH
 -3 list result(s) found for that CPE
@@ -3504,7 +3009,7 @@ Processing CIL: 6518364 | CPE: PT0002000065183648EH
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H14min**
+**DIA 20-06-2020 ÀS 8H12min**
 
 Processing CIL: 6518366 | CPE: PT0002000065183661TP
 -3 list result(s) found for that CPE
@@ -3523,7 +3028,7 @@ Processing CIL: 6518366 | CPE: PT0002000065183661TP
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H16min**
+**DIA 20-06-2020 ÀS 8H13min**
 
 Processing CIL: 6518367 | CPE: PT0002000065183672TL
 -3 list result(s) found for that CPE
@@ -3542,7 +3047,7 @@ Processing CIL: 6518367 | CPE: PT0002000065183672TL
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H18min**
+**DIA 20-06-2020 ÀS 8H16min**
 
 Processing CIL: 6518605 | CPE: PT0002000065186056NB
 -3 list result(s) found for that CPE
@@ -3561,7 +3066,7 @@ Processing CIL: 6518605 | CPE: PT0002000065186056NB
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H20min**
+**DIA 20-06-2020 ÀS 8H18min**
 
 Processing CIL: 6518629 | CPE: PT0002000065186295EC
 -3 list result(s) found for that CPE
@@ -3580,7 +3085,7 @@ Processing CIL: 6518629 | CPE: PT0002000065186295EC
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H23min**
+**DIA 20-06-2020 ÀS 8H20min**
 
 Processing CIL: 6518656 | CPE: PT0002000065186568BV
 -4 list result(s) found for that CPE
@@ -3609,7 +3114,7 @@ Processing CIL: 6518656 | CPE: PT0002000065186568BV
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H26min**
+**DIA 20-06-2020 ÀS 8H24min**
 
 Processing CIL: 6518683 | CPE: PT0002000065186832TM
 -4 list result(s) found for that CPE
@@ -3638,7 +3143,7 @@ Processing CIL: 6518683 | CPE: PT0002000065186832TM
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H30min**
+**DIA 20-06-2020 ÀS 8H27min**
 
 Processing CIL: 6518842 | CPE: PT0002000065188428TZ
 -4 list result(s) found for that CPE
@@ -3667,7 +3172,7 @@ Processing CIL: 6518842 | CPE: PT0002000065188428TZ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H34min**
+**DIA 20-06-2020 ÀS 8H31min**
 
 Processing CIL: 6518848 | CPE: PT0002000065188485AW
 -4 list result(s) found for that CPE
@@ -3696,7 +3201,7 @@ Processing CIL: 6518848 | CPE: PT0002000065188485AW
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H37min**
+**DIA 20-06-2020 ÀS 8H34min**
 
 Processing CIL: 6518850 | CPE: PT0002000065188508GW
 -4 list result(s) found for that CPE
@@ -3725,12 +3230,12 @@ Processing CIL: 6518850 | CPE: PT0002000065188508GW
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H41min**
+**DIA 20-06-2020 ÀS 8H38min**
 6518903 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H41min**
+**DIA 20-06-2020 ÀS 8H38min**
 
 Processing CIL: 6518944 | CPE: PT0002000065189444KH
 -3 list result(s) found for that CPE
@@ -3749,7 +3254,7 @@ Processing CIL: 6518944 | CPE: PT0002000065189444KH
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H43min**
+**DIA 20-06-2020 ÀS 8H40min**
 
 Processing CIL: 6518994 | CPE: PT0002000065189945CJ
 -4 list result(s) found for that CPE
@@ -3778,7 +3283,7 @@ Processing CIL: 6518994 | CPE: PT0002000065189945CJ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H46min**
+**DIA 20-06-2020 ÀS 8H43min**
 
 Processing CIL: 6519021 | CPE: PT0002000065190211DA
 -4 list result(s) found for that CPE
@@ -3807,7 +3312,7 @@ Processing CIL: 6519021 | CPE: PT0002000065190211DA
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H49min**
+**DIA 20-06-2020 ÀS 8H47min**
 
 Processing CIL: 6519022 | CPE: PT0002000065190222DZ
 -4 list result(s) found for that CPE
@@ -3836,7 +3341,7 @@ Processing CIL: 6519022 | CPE: PT0002000065190222DZ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H53min**
+**DIA 20-06-2020 ÀS 8H50min**
 
 Processing CIL: 6519195 | CPE: PT0002000065191954SK
 Search Box not available or took too long o load...
@@ -3859,7 +3364,7 @@ Took too long to find search button...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H56min**
+**DIA 20-06-2020 ÀS 8H54min**
 
 Processing CIL: 6519247 | CPE: PT0002000065192478SQ
 -4 list result(s) found for that CPE
@@ -3888,7 +3393,7 @@ Processing CIL: 6519247 | CPE: PT0002000065192478SQ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 6H59min**
+**DIA 20-06-2020 ÀS 8H57min**
 
 Processing CIL: 6519335 | CPE: PT0002000065193357FK
 -4 list result(s) found for that CPE
@@ -3917,7 +3422,7 @@ Processing CIL: 6519335 | CPE: PT0002000065193357FK
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H2min**
+**DIA 20-06-2020 ÀS 8H59min**
 
 Processing CIL: 6519414 | CPE: PT0002000065194145LG
 -4 list result(s) found for that CPE
@@ -3946,7 +3451,7 @@ Processing CIL: 6519414 | CPE: PT0002000065194145LG
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H5min**
+**DIA 20-06-2020 ÀS 9H2min**
 
 Processing CIL: 6519565 | CPE: PT0002000065195651SS
 -3 list result(s) found for that CPE
@@ -3965,7 +3470,7 @@ Processing CIL: 6519565 | CPE: PT0002000065195651SS
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H8min**
+**DIA 20-06-2020 ÀS 9H4min**
 
 Processing CIL: 6519577 | CPE: PT0002000065195775KR
 -4 list result(s) found for that CPE
@@ -3994,7 +3499,7 @@ Processing CIL: 6519577 | CPE: PT0002000065195775KR
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H10min**
+**DIA 20-06-2020 ÀS 9H7min**
 
 Processing CIL: 6519595 | CPE: PT0002000065195957ME
 -4 list result(s) found for that CPE
@@ -4023,7 +3528,7 @@ Processing CIL: 6519595 | CPE: PT0002000065195957ME
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H13min**
+**DIA 20-06-2020 ÀS 9H11min**
 
 Processing CIL: 6519798 | CPE: PT0002000065197987WM
 -2 list result(s) found for that CPE
@@ -4038,7 +3543,7 @@ Processing CIL: 6519798 | CPE: PT0002000065197987WM
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H15min**
+**DIA 20-06-2020 ÀS 9H13min**
 
 Processing CIL: 6605036 | CPE: PT0002000066050362DT
 -4 list result(s) found for that CPE
@@ -4067,7 +3572,7 @@ Processing CIL: 6605036 | CPE: PT0002000066050362DT
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H17min**
+**DIA 20-06-2020 ÀS 9H16min**
 
 Processing CIL: 6608114 | CPE: PT0002000066081142JY
 -4 list result(s) found for that CPE
@@ -4096,7 +3601,7 @@ Processing CIL: 6608114 | CPE: PT0002000066081142JY
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H21min**
+**DIA 20-06-2020 ÀS 9H19min**
 
 Processing CIL: 6773596 | CPE: PT0002000067735968HM
 -4 list result(s) found for that CPE
@@ -4125,7 +3630,7 @@ Processing CIL: 6773596 | CPE: PT0002000067735968HM
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H24min**
+**DIA 20-06-2020 ÀS 9H23min**
 
 Processing CIL: 6774189 | CPE: PT0002000067741891EV
 -2 list result(s) found for that CPE
@@ -4140,7 +3645,7 @@ Processing CIL: 6774189 | CPE: PT0002000067741891EV
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H25min**
+**DIA 20-06-2020 ÀS 9H25min**
 
 Processing CIL: 6795211 | CPE: PT0002000067952115PK
 -4 list result(s) found for that CPE
@@ -4169,7 +3674,7 @@ Processing CIL: 6795211 | CPE: PT0002000067952115PK
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H28min**
+**DIA 20-06-2020 ÀS 9H28min**
 
 Processing CIL: 6795251 | CPE: PT0002000067952514AY
 -4 list result(s) found for that CPE
@@ -4198,7 +3703,7 @@ Processing CIL: 6795251 | CPE: PT0002000067952514AY
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H31min**
+**DIA 20-06-2020 ÀS 9H31min**
 
 Processing CIL: 6795259 | CPE: PT0002000067952593YQ
 -4 list result(s) found for that CPE
@@ -4227,7 +3732,7 @@ Processing CIL: 6795259 | CPE: PT0002000067952593YQ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H34min**
+**DIA 20-06-2020 ÀS 9H34min**
 
 Processing CIL: 6869213 | CPE: PT0002000068692135YQ
 -4 list result(s) found for that CPE
@@ -4256,7 +3761,7 @@ Processing CIL: 6869213 | CPE: PT0002000068692135YQ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H37min**
+**DIA 20-06-2020 ÀS 9H37min**
 
 Processing CIL: 6935633 | CPE: PT0002000069356335LE
 -4 list result(s) found for that CPE
@@ -4285,7 +3790,7 @@ Processing CIL: 6935633 | CPE: PT0002000069356335LE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H40min**
+**DIA 20-06-2020 ÀS 9H40min**
 
 Processing CIL: 6967091 | CPE: PT0002000069670912NM
 -4 list result(s) found for that CPE
@@ -4314,7 +3819,7 @@ Processing CIL: 6967091 | CPE: PT0002000069670912NM
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H43min**
+**DIA 20-06-2020 ÀS 9H45min**
 
 Processing CIL: 6993181 | CPE: PT0002000069931812QQ
 -3 list result(s) found for that CPE
@@ -4333,7 +3838,7 @@ Processing CIL: 6993181 | CPE: PT0002000069931812QQ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H44min**
+**DIA 20-06-2020 ÀS 9H47min**
 
 Processing CIL: 6993203 | CPE: PT0002000069932039AJ
 -4 list result(s) found for that CPE
@@ -4362,17 +3867,17 @@ Processing CIL: 6993203 | CPE: PT0002000069932039AJ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H47min**
+**DIA 20-06-2020 ÀS 9H51min**
 6993242 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H47min**
+**DIA 20-06-2020 ÀS 9H51min**
 7097840 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H47min**
+**DIA 20-06-2020 ÀS 9H51min**
 
 Processing CIL: 7111432 | CPE: PT0002000071114323WM
 -3 list result(s) found for that CPE
@@ -4391,7 +3896,7 @@ Processing CIL: 7111432 | CPE: PT0002000071114323WM
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H49min**
+**DIA 20-06-2020 ÀS 9H53min**
 
 Processing CIL: 7133611 | CPE: PT0002000071336114PF
 -3 list result(s) found for that CPE
@@ -4410,7 +3915,7 @@ Processing CIL: 7133611 | CPE: PT0002000071336114PF
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H50min**
+**DIA 20-06-2020 ÀS 9H54min**
 
 Processing CIL: 7200387 | CPE: PT0002000072003873SF
 -4 list result(s) found for that CPE
@@ -4439,7 +3944,7 @@ Processing CIL: 7200387 | CPE: PT0002000072003873SF
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H53min**
+**DIA 20-06-2020 ÀS 9H58min**
 
 Processing CIL: 7230333 | CPE: PT0002000072303334VP
 -3 list result(s) found for that CPE
@@ -4458,7 +3963,7 @@ Processing CIL: 7230333 | CPE: PT0002000072303334VP
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H55min**
+**DIA 20-06-2020 ÀS 10H0min**
 
 Processing CIL: 7265759 | CPE: PT0002000072657597XW
 Search Box not available or took too long o load...
@@ -4485,7 +3990,7 @@ Took too long to find search button...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 7H58min**
+**DIA 20-06-2020 ÀS 10H3min**
 
 Processing CIL: 7265851 | CPE: PT0002000072658512AC
 -4 list result(s) found for that CPE
@@ -4514,7 +4019,7 @@ Processing CIL: 7265851 | CPE: PT0002000072658512AC
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H1min**
+**DIA 20-06-2020 ÀS 10H6min**
 
 Processing CIL: 7265855 | CPE: PT0002000072658556MH
 -4 list result(s) found for that CPE
@@ -4543,7 +4048,7 @@ Processing CIL: 7265855 | CPE: PT0002000072658556MH
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H3min**
+**DIA 20-06-2020 ÀS 10H10min**
 
 Processing CIL: 7266224 | CPE: PT0002000072662243MW
 -3 list result(s) found for that CPE
@@ -4562,12 +4067,12 @@ Processing CIL: 7266224 | CPE: PT0002000072662243MW
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H5min**
+**DIA 20-06-2020 ÀS 10H12min**
 7300044 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H5min**
+**DIA 20-06-2020 ÀS 10H12min**
 
 Processing CIL: 7317421 | CPE: PT0002000073174219TK
 -4 list result(s) found for that CPE
@@ -4596,7 +4101,7 @@ Processing CIL: 7317421 | CPE: PT0002000073174219TK
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H8min**
+**DIA 20-06-2020 ÀS 10H15min**
 
 Processing CIL: 7339488 | CPE: PT0002000073394881AK
 -4 list result(s) found for that CPE
@@ -4625,7 +4130,7 @@ Processing CIL: 7339488 | CPE: PT0002000073394881AK
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H11min**
+**DIA 20-06-2020 ÀS 10H18min**
 
 Processing CIL: 7339497 | CPE: PT0002000073394972FC
 -4 list result(s) found for that CPE
@@ -4654,7 +4159,7 @@ Processing CIL: 7339497 | CPE: PT0002000073394972FC
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H14min**
+**DIA 20-06-2020 ÀS 10H21min**
 
 Processing CIL: 7369811 | CPE: PT0002000073698117DW
 -4 list result(s) found for that CPE
@@ -4677,14 +4182,13 @@ Processing CIL: 7369811 | CPE: PT0002000073698117DW
 
 
 -Trying row 4
---nao é possivel procurar
-   Consumos tab not found...
+---No data for 2020 in this row.
 
  -----7369811 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H17min**
+**DIA 20-06-2020 ÀS 10H25min**
 
 Processing CIL: 7393793 | CPE: PT0002000073937934QK
 -4 list result(s) found for that CPE
@@ -4713,7 +4217,7 @@ Processing CIL: 7393793 | CPE: PT0002000073937934QK
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H20min**
+**DIA 20-06-2020 ÀS 10H27min**
 
 Processing CIL: 7403429 | CPE: PT0002000074034292CD
 -4 list result(s) found for that CPE
@@ -4742,7 +4246,7 @@ Processing CIL: 7403429 | CPE: PT0002000074034292CD
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H22min**
+**DIA 20-06-2020 ÀS 10H30min**
 
 Processing CIL: 7410953 | CPE: PT0002000074109531WS
 -4 list result(s) found for that CPE
@@ -4771,12 +4275,12 @@ Processing CIL: 7410953 | CPE: PT0002000074109531WS
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H25min**
+**DIA 20-06-2020 ÀS 10H34min**
 7411542 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H25min**
+**DIA 20-06-2020 ÀS 10H34min**
 
 Processing CIL: 7412240 | CPE: PT0002000074122401XM
 -4 list result(s) found for that CPE
@@ -4805,52 +4309,52 @@ Processing CIL: 7412240 | CPE: PT0002000074122401XM
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H28min**
+**DIA 20-06-2020 ÀS 10H36min**
 7589486 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H28min**
+**DIA 20-06-2020 ÀS 10H36min**
 7589502 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H28min**
+**DIA 20-06-2020 ÀS 10H36min**
 7589503 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H28min**
+**DIA 20-06-2020 ÀS 10H36min**
 7589513 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H28min**
+**DIA 20-06-2020 ÀS 10H36min**
 7590678 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H28min**
+**DIA 20-06-2020 ÀS 10H36min**
 7590680 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H28min**
+**DIA 20-06-2020 ÀS 10H36min**
 7590681 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H28min**
+**DIA 20-06-2020 ÀS 10H36min**
 7661400 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H28min**
+**DIA 20-06-2020 ÀS 10H36min**
 7661414 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H28min**
+**DIA 20-06-2020 ÀS 10H36min**
 
 Processing CIL: 7661417 | CPE: PT0002000076614175HM
 -3 list result(s) found for that CPE
@@ -4875,102 +4379,102 @@ Processing CIL: 7661417 | CPE: PT0002000076614175HM
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H30min**
+**DIA 20-06-2020 ÀS 10H39min**
 7661438 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H30min**
+**DIA 20-06-2020 ÀS 10H39min**
 7661447 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H30min**
+**DIA 20-06-2020 ÀS 10H39min**
 7661451 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H30min**
+**DIA 20-06-2020 ÀS 10H39min**
 7661455 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H30min**
+**DIA 20-06-2020 ÀS 10H39min**
 7661679 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H30min**
+**DIA 20-06-2020 ÀS 10H39min**
 7661702 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H30min**
+**DIA 20-06-2020 ÀS 10H39min**
 7661705 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H30min**
+**DIA 20-06-2020 ÀS 10H39min**
 7661711 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H30min**
+**DIA 20-06-2020 ÀS 10H39min**
 7661717 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H30min**
+**DIA 20-06-2020 ÀS 10H39min**
 7661729 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H30min**
+**DIA 20-06-2020 ÀS 10H39min**
 7661737 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H30min**
+**DIA 20-06-2020 ÀS 10H39min**
 7661745 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H30min**
+**DIA 20-06-2020 ÀS 10H39min**
 7662122 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H30min**
+**DIA 20-06-2020 ÀS 10H39min**
 7662130 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H30min**
+**DIA 20-06-2020 ÀS 10H39min**
 7662140 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H30min**
+**DIA 20-06-2020 ÀS 10H39min**
 7662142 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H30min**
+**DIA 20-06-2020 ÀS 10H39min**
 7662144 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H30min**
+**DIA 20-06-2020 ÀS 10H39min**
 7662147 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H30min**
+**DIA 20-06-2020 ÀS 10H39min**
 7680974 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H30min**
+**DIA 20-06-2020 ÀS 10H39min**
 
 Processing CIL: 7749755 | CPE: PT0002000077497553SE
 -4 list result(s) found for that CPE
@@ -4999,7 +4503,7 @@ Processing CIL: 7749755 | CPE: PT0002000077497553SE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H33min**
+**DIA 20-06-2020 ÀS 10H42min**
 
 Processing CIL: 7767560 | CPE: PT0002000077675605YP
 -3 list result(s) found for that CPE
@@ -5024,12 +4528,12 @@ Processing CIL: 7767560 | CPE: PT0002000077675605YP
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H35min**
+**DIA 20-06-2020 ÀS 10H44min**
 7845025 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H35min**
+**DIA 20-06-2020 ÀS 10H44min**
 
 Processing CIL: 7885092 | CPE: PT0002000078850926RY
 -4 list result(s) found for that CPE
@@ -5058,7 +4562,7 @@ Processing CIL: 7885092 | CPE: PT0002000078850926RY
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H37min**
+**DIA 20-06-2020 ÀS 10H47min**
 
 Processing CIL: 7887823 | CPE: PT0002000078878237SQ
 -5 list result(s) found for that CPE
@@ -5091,12 +4595,12 @@ Processing CIL: 7887823 | CPE: PT0002000078878237SQ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H41min**
+**DIA 20-06-2020 ÀS 10H51min**
 7942673 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H41min**
+**DIA 20-06-2020 ÀS 10H51min**
 
 Processing CIL: 7950921 | CPE: PT0002000079509217XZ
 -3 list result(s) found for that CPE
@@ -5115,7 +4619,7 @@ Processing CIL: 7950921 | CPE: PT0002000079509217XZ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H42min**
+**DIA 20-06-2020 ÀS 10H53min**
 
 Processing CIL: 8000196 | CPE: PT0002000080001962KF
 -4 list result(s) found for that CPE
@@ -5144,7 +4648,7 @@ Processing CIL: 8000196 | CPE: PT0002000080001962KF
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H45min**
+**DIA 20-06-2020 ÀS 10H56min**
 
 Processing CIL: 8048752 | CPE: PT0002000080487526HH
 -3 list result(s) found for that CPE
@@ -5163,7 +4667,7 @@ Processing CIL: 8048752 | CPE: PT0002000080487526HH
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H46min**
+**DIA 20-06-2020 ÀS 10H58min**
 
 Processing CIL: 8189010 | CPE: PT0002000081890105GB
 -4 list result(s) found for that CPE
@@ -5192,7 +4696,7 @@ Processing CIL: 8189010 | CPE: PT0002000081890105GB
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H49min**
+**DIA 20-06-2020 ÀS 11H1min**
 
 Processing CIL: 8196357 | CPE: PT0002000081963574RH
 -3 list result(s) found for that CPE
@@ -5211,7 +4715,7 @@ Processing CIL: 8196357 | CPE: PT0002000081963574RH
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H50min**
+**DIA 20-06-2020 ÀS 11H3min**
 
 Processing CIL: 8326024 | CPE: PT0002000083260248MK
 -4 list result(s) found for that CPE
@@ -5240,7 +4744,7 @@ Processing CIL: 8326024 | CPE: PT0002000083260248MK
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H53min**
+**DIA 20-06-2020 ÀS 11H6min**
 
 Processing CIL: 8326030 | CPE: PT0002000083260306PX
 -4 list result(s) found for that CPE
@@ -5269,12 +4773,12 @@ Processing CIL: 8326030 | CPE: PT0002000083260306PX
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H55min**
+**DIA 20-06-2020 ÀS 11H10min**
 8326046 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H55min**
+**DIA 20-06-2020 ÀS 11H10min**
 
 Processing CIL: 8333335 | CPE: PT0002000083333354XX
 -4 list result(s) found for that CPE
@@ -5303,7 +4807,7 @@ Processing CIL: 8333335 | CPE: PT0002000083333354XX
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 8H57min**
+**DIA 20-06-2020 ÀS 11H14min**
 
 Processing CIL: 8368858 | CPE: PT0002000083688587EP
 -4 list result(s) found for that CPE
@@ -5332,7 +4836,7 @@ Processing CIL: 8368858 | CPE: PT0002000083688587EP
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H0min**
+**DIA 20-06-2020 ÀS 11H17min**
 
 Processing CIL: 8373735 | CPE: PT0002000083737359AC
 -3 list result(s) found for that CPE
@@ -5351,7 +4855,7 @@ Processing CIL: 8373735 | CPE: PT0002000083737359AC
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H1min**
+**DIA 20-06-2020 ÀS 11H19min**
 
 Processing CIL: 8395377 | CPE: PT0002000083953777YP
 -3 list result(s) found for that CPE
@@ -5373,7 +4877,7 @@ Processing CIL: 8395377 | CPE: PT0002000083953777YP
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H4min**
+**DIA 20-06-2020 ÀS 11H21min**
 
 Processing CIL: 8418029 | CPE: PT0002000084180294XK
 -4 list result(s) found for that CPE
@@ -5402,7 +4906,7 @@ Processing CIL: 8418029 | CPE: PT0002000084180294XK
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H6min**
+**DIA 20-06-2020 ÀS 11H24min**
 
 Processing CIL: 8465452 | CPE: PT0002000084654521KB
 -4 list result(s) found for that CPE
@@ -5431,7 +4935,7 @@ Processing CIL: 8465452 | CPE: PT0002000084654521KB
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H9min**
+**DIA 20-06-2020 ÀS 11H27min**
 
 Processing CIL: 8474747 | CPE: PT0002000084747475ZE
 -3 list result(s) found for that CPE
@@ -5450,7 +4954,7 @@ Processing CIL: 8474747 | CPE: PT0002000084747475ZE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H10min**
+**DIA 20-06-2020 ÀS 11H29min**
 
 Processing CIL: 8509886 | CPE: PT0002000085098866CL
 -4 list result(s) found for that CPE
@@ -5479,7 +4983,7 @@ Processing CIL: 8509886 | CPE: PT0002000085098866CL
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H13min**
+**DIA 20-06-2020 ÀS 11H31min**
 
 Processing CIL: 10012776 | CPE: PT0002000100127768KP
 -4 list result(s) found for that CPE
@@ -5508,7 +5012,7 @@ Processing CIL: 10012776 | CPE: PT0002000100127768KP
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H15min**
+**DIA 20-06-2020 ÀS 11H34min**
 
 Processing CIL: 10017322 | CPE: PT0002000100173222LZ
 -4 list result(s) found for that CPE
@@ -5537,7 +5041,7 @@ Processing CIL: 10017322 | CPE: PT0002000100173222LZ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H18min**
+**DIA 20-06-2020 ÀS 11H38min**
 
 Processing CIL: 10039397 | CPE: PT0002000100393973AB
 Search Box not available or took too long o load...
@@ -5560,7 +5064,7 @@ Took too long to find search button...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H21min**
+**DIA 20-06-2020 ÀS 11H41min**
 
 Processing CIL: 10046979 | CPE: PT0002000100469793BT
 -4 list result(s) found for that CPE
@@ -5589,7 +5093,7 @@ Processing CIL: 10046979 | CPE: PT0002000100469793BT
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H23min**
+**DIA 20-06-2020 ÀS 11H44min**
 
 Processing CIL: 10056502 | CPE: PT0002000100565022BD
 -2 list result(s) found for that CPE
@@ -5610,7 +5114,7 @@ Processing CIL: 10056502 | CPE: PT0002000100565022BD
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H25min**
+**DIA 20-06-2020 ÀS 11H46min**
 
 Processing CIL: 10113298 | CPE: PT0002000101132989AZ
 -4 list result(s) found for that CPE
@@ -5639,22 +5143,22 @@ Processing CIL: 10113298 | CPE: PT0002000101132989AZ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H27min**
+**DIA 20-06-2020 ÀS 11H49min**
 10157255 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H27min**
+**DIA 20-06-2020 ÀS 11H49min**
 10157256 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H27min**
+**DIA 20-06-2020 ÀS 11H49min**
 10157265 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H27min**
+**DIA 20-06-2020 ÀS 11H49min**
 
 Processing CIL: 10177681 | CPE: PT0002000101776814MT
 -4 list result(s) found for that CPE
@@ -5683,7 +5187,7 @@ Processing CIL: 10177681 | CPE: PT0002000101776814MT
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H29min**
+**DIA 20-06-2020 ÀS 11H52min**
 
 Processing CIL: 10223918 | CPE: PT0002000102239187YG
 -4 list result(s) found for that CPE
@@ -5712,7 +5216,7 @@ Processing CIL: 10223918 | CPE: PT0002000102239187YG
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H32min**
+**DIA 20-06-2020 ÀS 11H55min**
 
 Processing CIL: 10223918 | CPE: PT0002000102239187YG
 -4 list result(s) found for that CPE
@@ -5741,7 +5245,7 @@ Processing CIL: 10223918 | CPE: PT0002000102239187YG
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H35min**
+**DIA 20-06-2020 ÀS 11H59min**
 
 Processing CIL: 10234681 | CPE: PT0002000102346815QS
 -4 list result(s) found for that CPE
@@ -5770,12 +5274,12 @@ Processing CIL: 10234681 | CPE: PT0002000102346815QS
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H37min**
+**DIA 20-06-2020 ÀS 12H2min**
 10260471 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H37min**
+**DIA 20-06-2020 ÀS 12H2min**
 
 Processing CIL: 10292053 | CPE: PT0002000102920535YT
 -4 list result(s) found for that CPE
@@ -5804,7 +5308,7 @@ Processing CIL: 10292053 | CPE: PT0002000102920535YT
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H40min**
+**DIA 20-06-2020 ÀS 12H6min**
 
 Processing CIL: 10332248 | CPE: PT0002000103322488WM
 -4 list result(s) found for that CPE
@@ -5833,7 +5337,7 @@ Processing CIL: 10332248 | CPE: PT0002000103322488WM
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H42min**
+**DIA 20-06-2020 ÀS 12H9min**
 
 Processing CIL: 10353409 | CPE: PT0002000103534093WX
 -4 list result(s) found for that CPE
@@ -5862,7 +5366,7 @@ Processing CIL: 10353409 | CPE: PT0002000103534093WX
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H45min**
+**DIA 20-06-2020 ÀS 12H12min**
 
 Processing CIL: 10363687 | CPE: PT0002000103636871DR
 -4 list result(s) found for that CPE
@@ -5891,7 +5395,7 @@ Processing CIL: 10363687 | CPE: PT0002000103636871DR
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H48min**
+**DIA 20-06-2020 ÀS 12H16min**
 
 Processing CIL: 10370409 | CPE: PT0002000103704091XS
 -3 list result(s) found for that CPE
@@ -5910,7 +5414,7 @@ Processing CIL: 10370409 | CPE: PT0002000103704091XS
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H49min**
+**DIA 20-06-2020 ÀS 12H18min**
 
 Processing CIL: 10370410 | CPE: PT0002000103704103BG
 -3 list result(s) found for that CPE
@@ -5929,7 +5433,7 @@ Processing CIL: 10370410 | CPE: PT0002000103704103BG
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H50min**
+**DIA 20-06-2020 ÀS 12H20min**
 
 Processing CIL: 10409055 | CPE: PT0002000104090552TF
 -3 list result(s) found for that CPE
@@ -5948,12 +5452,12 @@ Processing CIL: 10409055 | CPE: PT0002000104090552TF
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H52min**
+**DIA 20-06-2020 ÀS 12H22min**
 10569156 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H52min**
+**DIA 20-06-2020 ÀS 12H22min**
 
 Processing CIL: 10659211 | CPE: PT0002000106592116LE
 -3 list result(s) found for that CPE
@@ -5972,7 +5476,7 @@ Processing CIL: 10659211 | CPE: PT0002000106592116LE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H53min**
+**DIA 20-06-2020 ÀS 12H24min**
 
 Processing CIL: 10666326 | CPE: PT0002000106663269PJ
 -4 list result(s) found for that CPE
@@ -6001,7 +5505,7 @@ Processing CIL: 10666326 | CPE: PT0002000106663269PJ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H56min**
+**DIA 20-06-2020 ÀS 12H28min**
 
 Processing CIL: 10680623 | CPE: PT0002000106806231ZF
 -3 list result(s) found for that CPE
@@ -6020,7 +5524,7 @@ Processing CIL: 10680623 | CPE: PT0002000106806231ZF
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H57min**
+**DIA 20-06-2020 ÀS 12H30min**
 
 Processing CIL: 10721065 | CPE: PT0002000107210659AA
 -4 list result(s) found for that CPE
@@ -6049,7 +5553,7 @@ Processing CIL: 10721065 | CPE: PT0002000107210659AA
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 9H59min**
+**DIA 20-06-2020 ÀS 12H34min**
 
 Processing CIL: 10809109 | CPE: PT0002000108091095XE
 -4 list result(s) found for that CPE
@@ -6078,7 +5582,7 @@ Processing CIL: 10809109 | CPE: PT0002000108091095XE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H2min**
+**DIA 20-06-2020 ÀS 12H38min**
 
 Processing CIL: 10834665 | CPE: PT0002000108346655JY
 -3 list result(s) found for that CPE
@@ -6097,12 +5601,12 @@ Processing CIL: 10834665 | CPE: PT0002000108346655JY
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H4min**
+**DIA 20-06-2020 ÀS 12H40min**
 10916840 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H4min**
+**DIA 20-06-2020 ÀS 12H40min**
 
 Processing CIL: 10932622 | CPE: PT0002000109326221FW
 -4 list result(s) found for that CPE
@@ -6131,7 +5635,7 @@ Processing CIL: 10932622 | CPE: PT0002000109326221FW
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H6min**
+**DIA 20-06-2020 ÀS 12H44min**
 
 Processing CIL: 10932645 | CPE: PT0002000109326458VD
 -4 list result(s) found for that CPE
@@ -6160,7 +5664,7 @@ Processing CIL: 10932645 | CPE: PT0002000109326458VD
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H9min**
+**DIA 20-06-2020 ÀS 12H47min**
 
 Processing CIL: 10949771 | CPE: PT0002000109497711BG
 -2 list result(s) found for that CPE
@@ -6181,7 +5685,7 @@ Processing CIL: 10949771 | CPE: PT0002000109497711BG
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H10min**
+**DIA 20-06-2020 ÀS 12H49min**
 
 Processing CIL: 10991448 | CPE: PT0002000109914484FV
 -4 list result(s) found for that CPE
@@ -6210,7 +5714,7 @@ Processing CIL: 10991448 | CPE: PT0002000109914484FV
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H13min**
+**DIA 20-06-2020 ÀS 12H52min**
 
 Processing CIL: 11006747 | CPE: PT0002000110067473NX
 -2 list result(s) found for that CPE
@@ -6225,7 +5729,7 @@ Processing CIL: 11006747 | CPE: PT0002000110067473NX
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H14min**
+**DIA 20-06-2020 ÀS 12H54min**
 
 Processing CIL: 11013425 | CPE: PT0002000110134258HA
 -4 list result(s) found for that CPE
@@ -6254,7 +5758,7 @@ Processing CIL: 11013425 | CPE: PT0002000110134258HA
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H17min**
+**DIA 20-06-2020 ÀS 12H57min**
 
 Processing CIL: 11032049 | CPE: PT0002000110320491LM
 -2 list result(s) found for that CPE
@@ -6275,7 +5779,7 @@ Processing CIL: 11032049 | CPE: PT0002000110320491LM
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H19min**
+**DIA 20-06-2020 ÀS 12H59min**
 
 Processing CIL: 11055592 | CPE: PT0002000110555925CB
 -4 list result(s) found for that CPE
@@ -6304,12 +5808,12 @@ Processing CIL: 11055592 | CPE: PT0002000110555925CB
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H21min**
+**DIA 20-06-2020 ÀS 13H2min**
 11109571 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H21min**
+**DIA 20-06-2020 ÀS 13H2min**
 
 Processing CIL: 11114987 | CPE: PT0002000111149872SY
 -4 list result(s) found for that CPE
@@ -6338,7 +5842,7 @@ Processing CIL: 11114987 | CPE: PT0002000111149872SY
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H24min**
+**DIA 20-06-2020 ÀS 13H5min**
 
 Processing CIL: 11250759 | CPE: PT0002000112507592MJ
 -4 list result(s) found for that CPE
@@ -6367,7 +5871,7 @@ Processing CIL: 11250759 | CPE: PT0002000112507592MJ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H26min**
+**DIA 20-06-2020 ÀS 13H8min**
 
 Processing CIL: 11362213 | CPE: PT0002000113622131WH
 -4 list result(s) found for that CPE
@@ -6396,112 +5900,112 @@ Processing CIL: 11362213 | CPE: PT0002000113622131WH
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 11467964 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 11736563 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 11771007 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 11785186 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 11804085 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 11814934 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 11818076 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 11818078 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 11818080 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 11890154 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 11916160 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 11916851 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 11916861 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 11932693 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 11936293 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 12018951 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 12044879 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 12370998 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 12467792 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 12532987 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 12594963 sem credenciais para o site da EDP...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H29min**
+**DIA 20-06-2020 ÀS 13H11min**
 
 Processing CIL: 6517757 | CPE: PT0002000065177578BC
 -1 list result(s) found for that CPE
@@ -6518,7 +6022,7 @@ Processing CIL: 6517757 | CPE: PT0002000065177578BC
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H31min**
+**DIA 20-06-2020 ÀS 13H13min**
 
 Processing CIL: 6519240 | CPE: PT0002000065192401NP
 -1 list result(s) found for that CPE
@@ -6535,7 +6039,7 @@ Processing CIL: 6519240 | CPE: PT0002000065192401NP
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H32min**
+**DIA 20-06-2020 ÀS 13H14min**
 
 Processing CIL: 6517756 | CPE: PT0002000065177567BD
 -1 list result(s) found for that CPE
@@ -6552,7 +6056,7 @@ Processing CIL: 6517756 | CPE: PT0002000065177567BD
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H33min**
+**DIA 20-06-2020 ÀS 13H16min**
 
 Processing CIL: 6517005 | CPE: PT0002000065170052YS
 -1 list result(s) found for that CPE
@@ -6569,7 +6073,7 @@ Processing CIL: 6517005 | CPE: PT0002000065170052YS
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H35min**
+**DIA 20-06-2020 ÀS 13H17min**
 
 Processing CIL: 6519817 | CPE: PT0002000065198172XY
 -1 list result(s) found for that CPE
@@ -6586,7 +6090,7 @@ Processing CIL: 6519817 | CPE: PT0002000065198172XY
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H36min**
+**DIA 20-06-2020 ÀS 13H19min**
 
 Processing CIL: 6518140 | CPE: PT0002000065181403VG
 -1 list result(s) found for that CPE
@@ -6603,7 +6107,7 @@ Processing CIL: 6518140 | CPE: PT0002000065181403VG
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 19-06-2020 ÀS 10H37min**
+**DIA 20-06-2020 ÀS 13H21min**
 
 Processing CIL: 6518770 | CPE: PT0002000065187709SP
 -1 list result(s) found for that CPE
@@ -6617,4 +6121,3 @@ Processing CIL: 6518770 | CPE: PT0002000065187709SP
    Success
 
  -----6518770 - ORGANIZE EXCEL FILES IN REDE
->>>>>>> 258cabd2cd8bf1ab10a9108bcfd9f7e7ed398a34
