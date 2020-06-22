@@ -167,8 +167,9 @@ def write_data(data, email_address):
     today = datetime.datetime.now().strftime('%Y-%m-%d %Hh_%Mm')
     today_short = datetime.datetime.now().strftime('%Y-%m-%d')
 
-    report_path = os.path.join(logs_dir, 'cpe_info_' + today + '.csv')
-    df.to_csv(report_path)
+    report_path = os.path.join(logs_dir, 'cpe_info_' + today + '.xlsx')
+
+    df.to_excel(report_path)
     if len(df) > 30:
         df = df.iloc[:30,:]
         txt_e = '(apenas as 30 primeiras linhas)'
