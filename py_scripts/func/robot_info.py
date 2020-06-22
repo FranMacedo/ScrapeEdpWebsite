@@ -179,7 +179,7 @@ def write_data(data, email_address):
         receiver_email=email_address,
         title='Informações Disponiveis',
         text=f'Informação disponiveis no site da EDP reunidas com sucesso na data <b>{today}</b>{txt_e}:',
-        df=df_e,
+        df=df,
         conditions={'True': 'success-back', 'Ativo': 'success-back', 'row 1': 'warning-back'},
         file_path=report_path
     )
