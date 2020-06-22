@@ -187,7 +187,3 @@ def send_auto_email(receiver_email, title, text, df=pd.DataFrame(), conditions={
         )
 
 
-file_path = 'downloads/logs/cpe_info_2020-06-16 11h_27m.csv'
-df = pd.read_csv(file_path)
-send_auto_email('lisboaenovarobot@gmail.com', 'download 15/06',
-                'Dados de download de uma data especifica', df=df, conditions={'True': 'success-back', 'Ativo': 'success-back', 'row 1': 'warning-back'})

@@ -1,0 +1,521 @@
+
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 19-06-2020 ÀS 15H56min**
+
+Processing CIL: 3874085 | CPE: PT0002000038740856ZG
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 19-06-2020 ÀS 16H7min**
+impossivel adequirir informação nova sobre cpes expecíficos. Tente uma gestão!
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 19-06-2020 ÀS 16H8min**
+
+
+A tentar reunir informação para os cpes: PT0002000038740856ZG......
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||----------------------------------------------------------------------------------------------------100.0% (1/1)
+Trying cpe PT0002000038740856ZG
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 19-06-2020 ÀS 16H25min**
+
+
+A tentar reunir informação para os cpes: PT0002000038740856ZG......
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||----------------------------------------------------------------------------------------------------100.0% (1/1)
+Trying cpe PT0002000038740856ZG
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 19-06-2020 ÀS 16H33min**
+
+
+A tentar reunir informação para os cpes: PT0002000038740856ZG......
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||----------------------------------------------------------------------------------------------------100.0% (1/1)
+Trying cpe PT0002000038740856ZG
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 19-06-2020 ÀS 16H40min**
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 19-06-2020 ÀS 16H46min**
+::ERRO!:: Os cpes/cils selecionados não são válidos... tente novamente:
+:::: -->CPES/CILS inválidos: a
+done
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 19-06-2020 ÀS 16H49min**
+::ERRO!:: Os cpes/cils selecionados não são válidos... tente novamente:
+:::: -->CPES/CILS inválidos: a
+done
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 19-06-2020 ÀS 16H50min**
+
+
+A tentar reunir informação para os cpes: PT0002000038740856ZG......
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||----------------------------------------------------------------------------------------------------100.0% (1/1)
+Trying cpe PT0002000038740856ZG
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 19-06-2020 ÀS 16H53min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+trying page 2/5
+trying page 3/5
+trying page 4/5
+trying page 5/5
+
+------>ALL CPES GATHERED: 49 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||--2.0%                                                                                                   (1/49)
+Trying cpe PT0002000065171113YH
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----4.1%                                                                                                 (2/49)
+Trying cpe PT0002000083774745LP
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||------6.1%                                                                                               (3/49)
+Trying cpe PT0002000070983625TQ
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--------8.2%                                                                                             (4/49)
+Trying cpe PT0002000065171102YF
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----------10.2%                                                                                           (5/49)
+Trying cpe PT0002000075406578TT
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||------------12.2%                                                                                         (6/49)
+Trying cpe PT0002000065171135FV
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--------------14.3%                                                                                       (7/49)
+Trying cpe PT0002000066087734TC
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----------------16.3%                                                                                     (8/49)
+Trying cpe PT0002000065185678LR
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||------------------18.4%                                                                                   (9/49)
+Trying cpe PT0002000103112789SC
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--------------------20.4%                                                                                 (10/49)
+Trying cpe PT0002000065180535WX
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----------------------22.4%                                                                               (11/49)
+Trying cpe PT0002000065181879ZC
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||------------------------24.5%                                                                             (12/49)
+Trying cpe PT0002000065171124FY
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--------------------------26.5%                                                                           (13/49)
+Trying cpe PT0002000037674281DP
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------28.6%                                                                         (14/49)
+Trying cpe PT0002000037674315XL
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------30.6%                                                                       (15/49)
+Trying cpe PT0002000108305357BQ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------32.7%                                                                     (16/49)
+Trying cpe PT0002000108305379NS
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------34.7%                                                                   (17/49)
+Trying cpe PT0002000037674656WS
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------36.7%                                                                 (18/49)
+Trying cpe PT0002000039601727EP
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------38.8%                                                               (19/49)
+Trying cpe PT0002000038740856ZG
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----------------------------------------40.8%                                                             (20/49)
+Trying cpe PT0002000085043515YY
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||------------------------------------------42.9%                                                           (21/49)
+Trying cpe PT0002000037674598TA
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------------44.9%                                                         (22/49)
+Trying cpe PT0002000040493413JF
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||----------------------------------------------46.9%                                                       (23/49)
+Trying cpe PT0002000038976931CF
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------------------49.0%                                                    (24/49)
+Trying cpe PT0002000080680717TD
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------------------51.0%                                                  (25/49)
+Trying cpe PT0002000040269657JH
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------------------------53.1%                                                (26/49)
+Trying cpe PT0002000040487491PL
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------------------------55.1%                                              (27/49)
+Trying cpe PT0002000036852699FD
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------------------------57.1%                                            (28/49)
+Trying cpe PT0002000124524796RQ
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-----------------------------------------------------------59.2%                                          (29/49)
+Trying cpe PT0002000065176041ZR
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-------------------------------------------------------------61.2%                                        (30/49)
+Trying cpe PT0002000083200947AZ
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---------------------------------------------------------------63.3%                                      (31/49)
+Trying cpe PT0002000040487764CQ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------------------------------------65.3%                                    (32/49)
+Trying cpe PT0002000072404696PD
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------------------------------------67.3%                                  (33/49)
+Trying cpe PT0002000082950554HE
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------------------------------------69.4%                                (34/49)
+Trying cpe PT0002000083488985ST
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------------------------------------------71.4%                              (35/49)
+Trying cpe PT0002000084007855BJ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------------------------------------------73.5%                            (36/49)
+Trying cpe PT0002000082950359XB
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------------------------------------------75.5%                          (37/49)
+Trying cpe PT0002000039085483RE
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------------------------------------------------77.6%                        (38/49)
+Trying cpe PT0002000082950361XJ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------------------------------------------------79.6%                      (39/49)
+Trying cpe PT0002000037968526ZZ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------------------------------------------------81.6%                    (40/49)
+Trying cpe PT0002000065170303VJ
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-----------------------------------------------------------------------------------83.7%                  (41/49)
+Trying cpe PT0002000074034645NV
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-------------------------------------------------------------------------------------85.7%                (42/49)
+Trying cpe PT0002000065170314HR
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---------------------------------------------------------------------------------------87.8%              (43/49)
+Trying cpe PT0002000088396285GC
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-----------------------------------------------------------------------------------------89.8%            (44/49)
+Trying cpe PT0002000038956954WV
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||-------------------------------------------------------------------------------------------91.8%          (45/49)
+Trying cpe PT0002000040293434NJ
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||---------------------------------------------------------------------------------------------93.9%        (46/49)
+Trying cpe PT0002000118641824AF
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-----------------------------------------------------------------------------------------------95.9%      (47/49)
+Trying cpe PT0002000040277724LN
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||--------------------------------------------------------------------------------------------------98.0%   (48/49)
+Trying cpe PT0002000065196701SF
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----------------------------------------------------------------------------------------------------100.0% (49/49)
+Trying cpe PT0002000039321285LM
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!

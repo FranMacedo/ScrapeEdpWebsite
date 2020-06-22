@@ -146,7 +146,7 @@ def info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, tt):
     return True, all_cpes_data
 
 
-def write_data(data):
+def write_data(data, email_address):
     idx = [[], []]
     for c, v in data.items():
         for r, v2 in v.items():
@@ -169,12 +169,17 @@ def write_data(data):
 
     report_path = os.path.join(logs_dir, 'cpe_info_' + today + '.csv')
     df.to_csv(report_path)
+    if len(df) > 30:
+        df = df.iloc[:30,:]
+        txt_e = '(apenas as 30 primeiras linhas)'
+    else:
+        txt_e = ''
     time.sleep(5)
     send_auto_email(
-        receiver_email='franciscomacedo@lisboaenova.org',
+        receiver_email=email_address,
         title='Informações Disponiveis',
-        text=f'Informação disponiveis no site da EDP reunidas com sucesso na data <b>{today}</b>:',
-        df=df,
+        text=f'Informação disponiveis no site da EDP reunidas com sucesso na data <b>{today}</b>{txt_e}:',
+        df=df_e,
         conditions={'True': 'success-back', 'Ativo': 'success-back', 'row 1': 'warning-back'},
         file_path=report_path
     )
@@ -254,7 +259,7 @@ def trigger_no_BTN(driver, wait, f_logs):
     wait_loading_state(driver, 100)
 
 
-def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, no_BTN=True):
+def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, no_BTN=True, email_address='franciscomacedo@lisboaenova.org'):
     now = datetime.datetime.now()
     year = str(now.year)
     month = str(now.month).zfill(2)
@@ -265,13 +270,13 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
         f"\n\n***RECOLHA DE INFORMAÇÃO***\n**DIA {day}-{month}-{now.year} ÀS {now.hour}H{now.minute}min**", f_logs)
     if get_new and cils_or_cpes:
         print_text_both('impossivel adequirir informação nova sobre cpes expecíficos. Tente uma gestão!', f_logs)
-        return
+        return False
 
     if not get_new:
         cpes = get_cpes(gestao, cils_or_cpes, f_logs)
         if not cpes:
             print_text_both("done", f_logs)
-            return
+            return False
         print_text_both(f'\n\nA tentar reunir informação para os cpes: {space_l(cpes)}......', f_logs)
         diff_gestao = df_db.loc[df_db.cpe.isin(cpes), 'gestao'].unique()
     else:
@@ -280,7 +285,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
             diff_gestao = [gestao.upper()]
         else:
             print_text_both('Impossível reunir informação nova se não fornecer uma gestão...', f_logs)
-            return
+            return False
 
     all_cpes_data = {}
 
@@ -454,10 +459,10 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
                 driver.quit()
             except:
                 pass
-    write_data(all_cpes_data)
+    write_data(all_cpes_data, email_address)
     try:
         driver.close()
         driver.quit()
     except:
         pass
-    return
+    return True

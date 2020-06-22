@@ -15,8 +15,13 @@ try:
 
     print(df_db)
 except Exception as e:
+    import PySimpleGUI as sg
+
     print(
         f"Ocurreu um erro a tentar ligar à rede...:{e}\n\nTente Novamente mais tarde, depois de a ligação estar estabelecida.")
+    sg.PopupTimed('Não é possível ligar à rede Z:...',
+                  'Garanta que há uma conexão primeiro!',
+                  title="ERROR Z:", auto_close_duration=10)
     sys.exit()
 
 
