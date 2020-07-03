@@ -1,0 +1,32 @@
+
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 25-06-2020 ÀS 15H19min**
+
+Processing CIL: 6517706 | CPE: PT0002000065177066NZ
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2019 in this row.
+
+
+-Trying row 2
+
+--Trying month 1-2019...
+---Month 1-2019 available: Downloading Jan...
+---First attempt to click download button
+   Success
+
+
+-Trying row 3
+---No data for 2019 in this row.
+
+ -----6517706 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 25-06-2020 ÀS 16H33min**
+
+Processing CIL: 3941681 | CPE: PT0002000039416818DL
