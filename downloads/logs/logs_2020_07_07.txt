@@ -2,27 +2,13 @@
 ***DOWNLOAD DE FICHEIROS***
 
 
-<<<<<<< HEAD
-**DIA 02-07-2020 ÀS 15H36min**
+**DIA 07-07-2020 ÀS 0H30min**
 
 Processing CIL: 38740856 | CPE: PT0002000038740856ZG
-=======
-**DIA 02-07-2020 ÀS 0H30min**
-
-Processing CIL: 3874085 | CPE: PT0002000038740856ZG
->>>>>>> 5bc34ac02fe8ced25f7731c57c3447857ebc38f7
 -1 list result(s) found for that CPE
 
 
 -Trying row 1
-<<<<<<< HEAD
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 15H39min**
-
-Processing CIL: 38740856 | CPE: PT0002000038740856ZG
-=======
 
 --Trying month 6-2020...
 ---Month 6-2020 available: Downloading Jun...
@@ -33,13 +19,13 @@ Processing CIL: 38740856 | CPE: PT0002000038740856ZG
 ---Month 7-2020 available: Downloading Jul...
 ---First attempt to click download button
 
- -----3874085 - ORGANIZE EXCEL FILES IN REDE
+ -----38740856 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 0H35min**
+**DIA 07-07-2020 ÀS 0H33min**
 
-Processing CIL: 3932128 | CPE: PT0002000039321285LM
+Processing CIL: 39321285 | CPE: PT0002000039321285LM
 -2 list result(s) found for that CPE
 
 
@@ -59,24 +45,13 @@ Processing CIL: 3932128 | CPE: PT0002000039321285LM
 ---Month 7-2020 available: Downloading Jul...
 ---First attempt to click download button
 
- -----3932128 - ORGANIZE EXCEL FILES IN REDE
+ -----39321285 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 0H41min**
+**DIA 07-07-2020 ÀS 0H38min**
 
-Processing CIL: 6517030 | CPE: PT0002000065170303VJ
--1 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 0H42min**
-
-Processing CIL: 6517031 | CPE: PT0002000065170314HR
+Processing CIL: 65170303 | CPE: PT0002000065170303VJ
 -2 list result(s) found for that CPE
 
 
@@ -95,14 +70,39 @@ Processing CIL: 6517031 | CPE: PT0002000065170314HR
 ---Month 7-2020 available: Downloading Jul...
 ---First attempt to click download button
 
- -----6517031 - ORGANIZE EXCEL FILES IN REDE
+ -----65170303 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 0H48min**
+**DIA 07-07-2020 ÀS 0H42min**
 
-Processing CIL: 6517110 | CPE: PT0002000065171102YF
--3 list result(s) found for that CPE
+Processing CIL: 65170314 | CPE: PT0002000065170314HR
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----65170314 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 0H47min**
+
+Processing CIL: 65171102 | CPE: PT0002000065171102YF
+-4 list result(s) found for that CPE
 
 
 -Trying row 1
@@ -114,14 +114,28 @@ Processing CIL: 6517110 | CPE: PT0002000065171102YF
 
 
 -Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 4
 ---No data for 2020 in this row.
+
+ -----65171102 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 0H51min**
+**DIA 07-07-2020 ÀS 0H52min**
 
-Processing CIL: 6517111 | CPE: PT0002000065171113YH
--3 list result(s) found for that CPE
+Processing CIL: 65171113 | CPE: PT0002000065171113YH
+-4 list result(s) found for that CPE
 
 
 -Trying row 1
@@ -133,13 +147,27 @@ Processing CIL: 6517111 | CPE: PT0002000065171113YH
 
 
 -Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 4
 ---No data for 2020 in this row.
+
+ -----65171113 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 0H53min**
+**DIA 07-07-2020 ÀS 0H58min**
 
-Processing CIL: 6517112 | CPE: PT0002000065171124FY
+Processing CIL: 65171124 | CPE: PT0002000065171124FY
 -1 list result(s) found for that CPE
 
 
@@ -154,14 +182,14 @@ Processing CIL: 6517112 | CPE: PT0002000065171124FY
 ---Month 7-2020 available: Downloading Jul...
 ---First attempt to click download button
 
- -----6517112 - ORGANIZE EXCEL FILES IN REDE
+ -----65171124 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 0H59min**
+**DIA 07-07-2020 ÀS 1H1min**
 
-Processing CIL: 6517113 | CPE: PT0002000065171135FV
--3 list result(s) found for that CPE
+Processing CIL: 65171135 | CPE: PT0002000065171135FV
+-4 list result(s) found for that CPE
 
 
 -Trying row 1
@@ -173,13 +201,27 @@ Processing CIL: 6517113 | CPE: PT0002000065171135FV
 
 
 -Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 4
 ---No data for 2020 in this row.
+
+ -----65171135 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 1H2min**
+**DIA 07-07-2020 ÀS 1H7min**
 
-Processing CIL: 6517604 | CPE: PT0002000065176041ZR
+Processing CIL: 65176041 | CPE: PT0002000065176041ZR
 -2 list result(s) found for that CPE
 
 
@@ -200,9 +242,9 @@ Processing CIL: 6517604 | CPE: PT0002000065176041ZR
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 1H8min**
+**DIA 07-07-2020 ÀS 1H10min**
 
-Processing CIL: 6518053 | CPE: PT0002000065180535WX
+Processing CIL: 65180535 | CPE: PT0002000065180535WX
 -1 list result(s) found for that CPE
 
 
@@ -217,14 +259,32 @@ Processing CIL: 6518053 | CPE: PT0002000065180535WX
 ---Month 7-2020 available: Downloading Jul...
 ---First attempt to click download button
 
- -----6518053 - ORGANIZE EXCEL FILES IN REDE
-Ficheiro 20200702.xlsx sem dados - removido
+ -----65180535 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 1H15min**
+**DIA 07-07-2020 ÀS 1H15min**
 
-Processing CIL: 6518187 | CPE: PT0002000065181879ZC
+Processing CIL: 65181879 | CPE: PT0002000065181879ZC
+-1 list result(s) found for that CPE
+
+
+-Trying row 1
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 1H18min**
+
+Processing CIL: 65185678 | CPE: PT0002000065185678LR
 -1 list result(s) found for that CPE
 
 
@@ -239,20 +299,276 @@ Processing CIL: 6518187 | CPE: PT0002000065181879ZC
 ---Month 7-2020 available: Downloading Jul...
 ---First attempt to click download button
 
- -----6518187 - ORGANIZE EXCEL FILES IN REDE
+ -----65185678 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 1H20min**
+**DIA 07-07-2020 ÀS 1H23min**
 
-Processing CIL: 6518567 | CPE: PT0002000065185678LR
+Processing CIL: 65196701 | CPE: PT0002000065196701SF
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----65196701 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 1H28min**
+
+Processing CIL: 66087734 | CPE: PT0002000066087734TC
+-1 list result(s) found for that CPE
+
+
+-Trying row 1
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----66087734 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 1H33min**
+
+Processing CIL: 70983625 | CPE: PT0002000070983625TQ
+-4 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 4
+---No data for 2020 in this row.
+
+ -----70983625 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 1H38min**
+
+Processing CIL: 74034645 | CPE: PT0002000074034645NV
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----74034645 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 1H43min**
+
+Processing CIL: 75406578 | CPE: PT0002000075406578TT
+-4 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 1H49min**
+
+Processing CIL: 83200947 | CPE: PT0002000083200947AZ
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----83200947 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 1H54min**
+
+Processing CIL: 83774745 | CPE: PT0002000083774745LP
+-4 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 4
+---No data for 2020 in this row.
+
+ -----83774745 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 2H0min**
+
+Processing CIL: 85043515 | CPE: PT0002000085043515YY
+-1 list result(s) found for that CPE
+
+
+-Trying row 1
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----85043515 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 2H3min**
+
+Processing CIL: 103112789 | CPE: PT0002000103112789SC
+-1 list result(s) found for that CPE
+
+
+-Trying row 1
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----103112789 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 2H8min**
+
+Processing CIL: 118641824 | CPE: PT0002000118641824AF
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----118641824 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 2H13min**
+
+Processing CIL: 124524196 | CPE: PT0002000124524196RQ
 -No results found. Trying next CPE...
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 1H21min**
+**DIA 07-07-2020 ÀS 2H14min**
 
-Processing CIL: 6519670 | CPE: PT0002000065196701SF
+Processing CIL: 65176041 | CPE: PT0002000065176041ZR
 -2 list result(s) found for that CPE
 
 
@@ -270,28 +586,19 @@ Processing CIL: 6519670 | CPE: PT0002000065196701SF
 --Trying month 7-2020...
 ---Month 7-2020 available: Downloading Jul...
 ---First attempt to click download button
+
+ -----65176041 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 1H26min**
+**DIA 07-07-2020 ÀS 2H19min**
 
-Processing CIL: 6608773 | CPE: PT0002000066087734TC
->>>>>>> 5bc34ac02fe8ced25f7731c57c3447857ebc38f7
+Processing CIL: 65181879 | CPE: PT0002000065181879ZC
 -1 list result(s) found for that CPE
 
 
 -Trying row 1
 
-<<<<<<< HEAD
---Trying month 5-2020...
----Month 5-2020 available: Downloading Mai...
----First attempt to click download button
-   Success
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-=======
 --Trying month 6-2020...
 ---Month 6-2020 available: Downloading Jun...
 ---First attempt to click download button
@@ -301,13 +608,13 @@ Processing CIL: 6608773 | CPE: PT0002000066087734TC
 ---Month 7-2020 available: Downloading Jul...
 ---First attempt to click download button
 
- -----6608773 - ORGANIZE EXCEL FILES IN REDE
+ -----65181879 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 1H31min**
+**DIA 07-07-2020 ÀS 2H23min**
 
-Processing CIL: 7098362 | CPE: PT0002000070983625TQ
+Processing CIL: 75406578 | CPE: PT0002000075406578TT
 -4 list result(s) found for that CPE
 
 
@@ -334,334 +641,13 @@ Processing CIL: 7098362 | CPE: PT0002000070983625TQ
 -Trying row 4
 ---No data for 2020 in this row.
 
- -----7098362 - ORGANIZE EXCEL FILES IN REDE
+ -----75406578 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 1H40min**
+**DIA 07-07-2020 ÀS 2H30min**
 
-Processing CIL: 7403464 | CPE: PT0002000074034645NV
--2 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 1H48min**
-
-Processing CIL: 7540657 | CPE: PT0002000075406578TT
--4 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
----No data for 2020 in this row.
-
-
--Trying row 3
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
->>>>>>> 5bc34ac02fe8ced25f7731c57c3447857ebc38f7
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-<<<<<<< HEAD
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 15H46min**
-
-Processing CIL: 38740856 | CPE: PT0002000038740856ZG
-=======
-
-
--Trying row 4
----No data for 2020 in this row.
-
- -----7540657 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 1H56min**
-
-Processing CIL: 8320094 | CPE: PT0002000083200947AZ
--2 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 2H2min**
-
-Processing CIL: 8377474 | CPE: PT0002000083774745LP
--4 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
----No data for 2020 in this row.
-
-
--Trying row 3
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 2H7min**
-
-Processing CIL: 8504351 | CPE: PT0002000085043515YY
--1 list result(s) found for that CPE
-
-
--Trying row 1
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
- -----8504351 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 2H13min**
-
-Processing CIL: 10311278 | CPE: PT0002000103112789SC
--1 list result(s) found for that CPE
-
-
--Trying row 1
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
- -----10311278 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 2H20min**
-
-Processing CIL: 11864182 | CPE: PT0002000118641824AF
--2 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
- -----11864182 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 2H28min**
-
-Processing CIL: 12452419 | CPE: PT0002000124524196RQ
--No results found. Trying next CPE...
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 2H29min**
-
-Processing CIL: 6517604 | CPE: PT0002000065176041ZR
--2 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
- -----6517604 - ORGANIZE EXCEL FILES IN REDE
-Ficheiro 20200702.xlsx sem dados - removido
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 2H37min**
-
-Processing CIL: 6519670 | CPE: PT0002000065196701SF
--2 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
- -----6519670 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 2H44min**
-
-Processing CIL: 7403464 | CPE: PT0002000074034645NV
--2 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 2H48min**
-
-Processing CIL: 8320094 | CPE: PT0002000083200947AZ
--2 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
- -----8320094 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 2H56min**
-
-Processing CIL: 8377474 | CPE: PT0002000083774745LP
--4 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
----No data for 2020 in this row.
-
-
--Trying row 3
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
-
--Trying row 4
----No data for 2020 in this row.
-
- -----8377474 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 3H5min**
-
-Processing CIL: 3941681 | CPE: PT0002000039416818DL
+Processing CIL: 39416818 | CPE: PT0002000039416818DL
 -3 list result(s) found for that CPE
 
 
@@ -681,9 +667,9 @@ Processing CIL: 3941681 | CPE: PT0002000039416818DL
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 3H9min**
+**DIA 07-07-2020 ÀS 2H32min**
 
-Processing CIL: 4049602 | CPE: PT0002000040496025BC
+Processing CIL: 40496025 | CPE: PT0002000040496025BC
 -5 list result(s) found for that CPE
 
 
@@ -717,13 +703,13 @@ Processing CIL: 4049602 | CPE: PT0002000040496025BC
 ---Month 7-2020 available: Downloading Jul...
 ---First attempt to click download button
 
- -----4049602 - ORGANIZE EXCEL FILES IN REDE
+ -----40496025 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 3H20min**
+**DIA 07-07-2020 ÀS 2H40min**
 
-Processing CIL: 6516359 | CPE: PT0002000065163593RL
+Processing CIL: 65163593 | CPE: PT0002000065163593RL
 -3 list result(s) found for that CPE
 
 
@@ -741,18 +727,12 @@ Processing CIL: 6516359 | CPE: PT0002000065163593RL
 --Trying month 7-2020...
 ---Month 7-2020 available: Downloading Jul...
 ---First attempt to click download button
-
-
--Trying row 3
----No data for 2020 in this row.
-
- -----6516359 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 3H29min**
+**DIA 07-07-2020 ÀS 2H44min**
 
-Processing CIL: 6516420 | CPE: PT0002000065164209MZ
+Processing CIL: 65164209 | CPE: PT0002000065164209MZ
 -3 list result(s) found for that CPE
 
 
@@ -775,13 +755,36 @@ Processing CIL: 6516420 | CPE: PT0002000065164209MZ
 ---Month 7-2020 available: Downloading Jul...
 ---First attempt to click download button
 
- -----6516420 - ORGANIZE EXCEL FILES IN REDE
+ -----65164209 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 3H37min**
+**DIA 07-07-2020 ÀS 2H50min**
 
-Processing CIL: 6516753 | CPE: PT0002000065167539ND
+Processing CIL: 65167539 | CPE: PT0002000065167539ND
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 2H53min**
+
+Processing CIL: 65173781 | CPE: PT0002000065173781FH
 -3 list result(s) found for that CPE
 
 
@@ -804,42 +807,13 @@ Processing CIL: 6516753 | CPE: PT0002000065167539ND
 -Trying row 3
 ---No data for 2020 in this row.
 
- -----6516753 - ORGANIZE EXCEL FILES IN REDE
+ -----65173781 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 3H44min**
+**DIA 07-07-2020 ÀS 2H59min**
 
-Processing CIL: 6517378 | CPE: PT0002000065173781FH
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
-
--Trying row 3
----No data for 2020 in this row.
-
- -----6517378 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 3H52min**
-
-Processing CIL: 6517444 | CPE: PT0002000065174443JJ
+Processing CIL: 65174443 | CPE: PT0002000065174443JJ
 -3 list result(s) found for that CPE
 
 
@@ -864,9 +838,9 @@ Processing CIL: 6517444 | CPE: PT0002000065174443JJ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 3H56min**
+**DIA 07-07-2020 ÀS 3H3min**
 
-Processing CIL: 6517706 | CPE: PT0002000065177066NZ
+Processing CIL: 65177066 | CPE: PT0002000065177066NZ
 -3 list result(s) found for that CPE
 
 
@@ -889,13 +863,13 @@ Processing CIL: 6517706 | CPE: PT0002000065177066NZ
 -Trying row 3
 ---No data for 2020 in this row.
 
- -----6517706 - ORGANIZE EXCEL FILES IN REDE
+ -----65177066 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 4H4min**
+**DIA 07-07-2020 ÀS 3H8min**
 
-Processing CIL: 6517792 | CPE: PT0002000065177922AL
+Processing CIL: 65177922 | CPE: PT0002000065177922AL
 -3 list result(s) found for that CPE
 
 
@@ -918,13 +892,13 @@ Processing CIL: 6517792 | CPE: PT0002000065177922AL
 -Trying row 3
 ---No data for 2020 in this row.
 
- -----6517792 - ORGANIZE EXCEL FILES IN REDE
+ -----65177922 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 4H12min**
+**DIA 07-07-2020 ÀS 3H13min**
 
-Processing CIL: 6517876 | CPE: PT0002000065178765VB
+Processing CIL: 65178765 | CPE: PT0002000065178765VB
 -3 list result(s) found for that CPE
 
 
@@ -946,14 +920,12 @@ Processing CIL: 6517876 | CPE: PT0002000065178765VB
 --Trying month 7-2020...
 ---Month 7-2020 available: Downloading Jul...
 ---First attempt to click download button
-
- -----6517876 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 4H18min**
+**DIA 07-07-2020 ÀS 3H19min**
 
-Processing CIL: 6518657 | CPE: PT0002000065186579NM
+Processing CIL: 65186579 | CPE: PT0002000065186579NM
 -3 list result(s) found for that CPE
 
 
@@ -976,13 +948,13 @@ Processing CIL: 6518657 | CPE: PT0002000065186579NM
 -Trying row 3
 ---No data for 2020 in this row.
 
- -----6518657 - ORGANIZE EXCEL FILES IN REDE
+ -----65186579 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 4H27min**
+**DIA 07-07-2020 ÀS 3H24min**
 
-Processing CIL: 6518715 | CPE: PT0002000065187152ZA
+Processing CIL: 65187152 | CPE: PT0002000065187152ZA
 -3 list result(s) found for that CPE
 
 
@@ -1003,32 +975,9 @@ Processing CIL: 6518715 | CPE: PT0002000065187152ZA
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 4H32min**
+**DIA 07-07-2020 ÀS 3H26min**
 
-Processing CIL: 6518936 | CPE: PT0002000065189364HF
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 4H36min**
-
-Processing CIL: 6519143 | CPE: PT0002000065191431QG
+Processing CIL: 65189364 | CPE: PT0002000065189364HF
 -3 list result(s) found for that CPE
 
 
@@ -1051,14 +1000,36 @@ Processing CIL: 6519143 | CPE: PT0002000065191431QG
 -Trying row 3
 ---No data for 2020 in this row.
 
- -----6519143 - ORGANIZE EXCEL FILES IN REDE
-Ficheiro 20200702.xlsx sem dados - removido
+ -----65189364 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 4H44min**
+**DIA 07-07-2020 ÀS 3H32min**
 
-Processing CIL: 6519192 | CPE: PT0002000065191921ZB
+Processing CIL: 65191431 | CPE: PT0002000065191431QG
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 3H36min**
+
+Processing CIL: 65191921 | CPE: PT0002000065191921ZB
 -3 list result(s) found for that CPE
 
 
@@ -1081,13 +1052,13 @@ Processing CIL: 6519192 | CPE: PT0002000065191921ZB
 ---Month 7-2020 available: Downloading Jul...
 ---First attempt to click download button
 
- -----6519192 - ORGANIZE EXCEL FILES IN REDE
+ -----65191921 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 4H53min**
+**DIA 07-07-2020 ÀS 3H42min**
 
-Processing CIL: 6519222 | CPE: PT0002000065192228GL
+Processing CIL: 65192228 | CPE: PT0002000065192228GL
 -2 list result(s) found for that CPE
 
 
@@ -1106,13 +1077,13 @@ Processing CIL: 6519222 | CPE: PT0002000065192228GL
 ---Month 7-2020 available: Downloading Jul...
 ---First attempt to click download button
 
- -----6519222 - ORGANIZE EXCEL FILES IN REDE
+ -----65192228 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 5H0min**
+**DIA 07-07-2020 ÀS 3H47min**
 
-Processing CIL: 6519420 | CPE: PT0002000065194203KQ
+Processing CIL: 65194203 | CPE: PT0002000065194203KQ
 -3 list result(s) found for that CPE
 
 
@@ -1135,13 +1106,13 @@ Processing CIL: 6519420 | CPE: PT0002000065194203KQ
 -Trying row 3
 ---No data for 2020 in this row.
 
- -----6519420 - ORGANIZE EXCEL FILES IN REDE
+ -----65194203 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 5H9min**
+**DIA 07-07-2020 ÀS 3H55min**
 
-Processing CIL: 6519470 | CPE: PT0002000065194704CB
+Processing CIL: 65194704 | CPE: PT0002000065194704CB
 -3 list result(s) found for that CPE
 
 
@@ -1164,14 +1135,510 @@ Processing CIL: 6519470 | CPE: PT0002000065194704CB
 -Trying row 3
 ---No data for 2020 in this row.
 
- -----6519470 - ORGANIZE EXCEL FILES IN REDE
-Ficheiro 20200702.xlsx sem dados - removido
+ -----65194704 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 5H17min**
+**DIA 07-07-2020 ÀS 4H1min**
 
-Processing CIL: 6519541 | CPE: PT0002000065195412MY
+Processing CIL: 65195412 | CPE: PT0002000065195412MY
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----65195412 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 4H7min**
+
+Processing CIL: 65195718 | CPE: PT0002000065195718HJ
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 4H11min**
+
+Processing CIL: 65196426 | CPE: PT0002000065196426AP
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 4H14min**
+
+Processing CIL: 65197704 | CPE: PT0002000065197704NK
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+ -----65197704 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 4H20min**
+
+Processing CIL: 66400783 | CPE: PT0002000066400783HQ
+-4 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 4H24min**
+
+Processing CIL: 66401343 | CPE: PT0002000066401343CR
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+ -----66401343 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 4H30min**
+
+Processing CIL: 66404252 | CPE: PT0002000066404252PN
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+ -----66404252 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 4H36min**
+
+Processing CIL: 66414622 | CPE: PT0002000066414622ED
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+ -----66414622 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 4H43min**
+
+Processing CIL: 67955992 | CPE: PT0002000067955992QB
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 not available: skipping Jun...
+
+--Trying month 7-2020...
+---Month 7-2020 not available: skipping Jul...
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 4H46min**
+
+Processing CIL: 68140071 | CPE: PT0002000068140071SK
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+ -----68140071 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 4H52min**
+
+Processing CIL: 69403189 | CPE: PT0002000069403189XW
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 4H58min**
+
+Processing CIL: 69444534 | CPE: PT0002000069444534JQ
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+ -----69444534 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 5H4min**
+
+Processing CIL: 69445572 | CPE: PT0002000069445572NL
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+ -----69445572 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 5H10min**
+
+Processing CIL: 70983831 | CPE: PT0002000070983831DS
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+ -----70983831 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 5H18min**
+
+Processing CIL: 72152412 | CPE: PT0002000072152412XN
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+ -----72152412 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 5H26min**
+
+Processing CIL: 72658922 | CPE: PT0002000072658922KQ
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+ -----72658922 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 5H31min**
+
+Processing CIL: 73697991 | CPE: PT0002000073697991AZ
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----73697991 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 5H38min**
+
+Processing CIL: 74205965 | CPE: PT0002000074205965DX
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+ -----74205965 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 5H44min**
+
+Processing CIL: 74786233 | CPE: PT0002000074786233FB
 -3 list result(s) found for that CPE
 
 
@@ -1196,9 +1663,78 @@ Processing CIL: 6519541 | CPE: PT0002000065195412MY
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 5H22min**
+**DIA 07-07-2020 ÀS 5H48min**
 
-Processing CIL: 6519571 | CPE: PT0002000065195718HJ
+Processing CIL: 75694026 | CPE: PT0002000075694026PV
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 5H52min**
+
+Processing CIL: 75963139 | CPE: PT0002000075963139WF
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 5H55min**
+
+Processing CIL: 77053561 | CPE: PT0002000077053561PE
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 5H58min**
+
+Processing CIL: 78277993 | CPE: PT0002000078277993TA
 -3 list result(s) found for that CPE
 
 
@@ -1221,13 +1757,28 @@ Processing CIL: 6519571 | CPE: PT0002000065195718HJ
 -Trying row 3
 ---No data for 2020 in this row.
 
- -----6519571 - ORGANIZE EXCEL FILES IN REDE
+ -----78277993 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 5H30min**
+**DIA 07-07-2020 ÀS 6H4min**
 
-Processing CIL: 6519642 | CPE: PT0002000065196426AP
+Processing CIL: 79928875 | CPE: PT0002000079928875VZ
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 6H6min**
+
+Processing CIL: 82660814 | CPE: PT0002000082660814WJ
 -3 list result(s) found for that CPE
 
 
@@ -1248,9 +1799,9 @@ Processing CIL: 6519642 | CPE: PT0002000065196426AP
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 5H37min**
+**DIA 07-07-2020 ÀS 6H8min**
 
-Processing CIL: 6519770 | CPE: PT0002000065197704NK
+Processing CIL: 85026959 | CPE: PT0002000085026959EX
 -3 list result(s) found for that CPE
 
 
@@ -1271,9 +1822,1171 @@ Processing CIL: 6519770 | CPE: PT0002000065197704NK
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 5H43min**
+**DIA 07-07-2020 ÀS 6H10min**
 
-Processing CIL: 6640078 | CPE: PT0002000066400783HQ
+Processing CIL: 100048572 | CPE: PT0002000100048572MR
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----100048572 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 6H16min**
+
+Processing CIL: 101572546 | CPE: PT0002000101572546RH
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----101572546 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 6H22min**
+
+Processing CIL: 103555129 | CPE: PT0002000103555129CR
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----103555129 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 6H28min**
+
+Processing CIL: 103699775 | CPE: PT0002000103699775FT
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 6H33min**
+
+Processing CIL: 104372911 | CPE: PT0002000104372911VH
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----104372911 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 6H39min**
+
+Processing CIL: 105847519 | CPE: PT0002000105847519FG
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 6H43min**
+
+Processing CIL: 107079575 | CPE: PT0002000107079575FL
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 6H47min**
+
+Processing CIL: 108595063 | CPE: PT0002000108595063AZ
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----108595063 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 6H53min**
+
+Processing CIL: 109514287 | CPE: PT0002000109514287HC
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----109514287 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 6H58min**
+
+Processing CIL: 109669896 | CPE: PT0002000109669896EB
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----109669896 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 7H3min**
+
+Processing CIL: 112530067 | CPE: PT0002000112530067QV
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----112530067 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 7H9min**
+
+Processing CIL: 114502281 | CPE: PT0002000114502281KG
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 7H12min**
+
+Processing CIL: 116166533 | CPE: PT0002000116166533KE
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----116166533 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 7H18min**
+
+Processing CIL: 116649279 | CPE: PT0002000116649279BK
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----116649279 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 7H22min**
+
+Processing CIL: 116657701 | CPE: PT0002000116657701XW
+-1 list result(s) found for that CPE
+
+
+-Trying row 1
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 7H25min**
+
+Processing CIL: 116955701 | CPE: PT0002000116955701VZ
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----116955701 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 7H29min**
+
+Processing CIL: 117665385 | CPE: PT0002000117665385FX
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----117665385 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 7H35min**
+
+Processing CIL: 119387376 | CPE: PT0002000119387376BZ
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----119387376 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 7H40min**
+
+Processing CIL: 120425695 | CPE: PT0002000120425695YK
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----120425695 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 7H44min**
+
+Processing CIL: 65163593 | CPE: PT0002000065163593RL
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+ -----65163593 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 7H49min**
+
+Processing CIL: 65167539 | CPE: PT0002000065167539ND
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+ -----65167539 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 7H54min**
+
+Processing CIL: 65174443 | CPE: PT0002000065174443JJ
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 7H58min**
+
+Processing CIL: 65178765 | CPE: PT0002000065178765VB
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----65178765 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 8H4min**
+
+Processing CIL: 65187152 | CPE: PT0002000065187152ZA
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 8H7min**
+
+Processing CIL: 65191431 | CPE: PT0002000065191431QG
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 8H10min**
+
+Processing CIL: 65195718 | CPE: PT0002000065195718HJ
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 8H12min**
+
+Processing CIL: 65196426 | CPE: PT0002000065196426AP
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+--No results found for this CPE. Trying next CPE...
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 8H13min**
+
+Processing CIL: 66400783 | CPE: PT0002000066400783HQ
+-4 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 8H16min**
+
+Processing CIL: 69403189 | CPE: PT0002000069403189XW
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+ -----69403189 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 8H21min**
+
+Processing CIL: 74786233 | CPE: PT0002000074786233FB
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 8H25min**
+
+Processing CIL: 75694026 | CPE: PT0002000075694026PV
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+ -----75694026 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 8H31min**
+
+Processing CIL: 75963139 | CPE: PT0002000075963139WF
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+ -----75963139 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 8H36min**
+
+Processing CIL: 77053561 | CPE: PT0002000077053561PE
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+ -----77053561 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 8H41min**
+
+Processing CIL: 82660814 | CPE: PT0002000082660814WJ
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+ -----82660814 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 8H45min**
+
+Processing CIL: 85026959 | CPE: PT0002000085026959EX
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+ -----85026959 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 8H50min**
+
+Processing CIL: 103699775 | CPE: PT0002000103699775FT
+-2 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+--nao é possivel procurar
+   Consumos tab not found...
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 8H52min**
+
+Processing CIL: 105847519 | CPE: PT0002000105847519FG
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 8H55min**
+
+Processing CIL: 107079575 | CPE: PT0002000107079575FL
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 9H0min**
+
+Processing CIL: 114502281 | CPE: PT0002000114502281KG
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 9H4min**
+
+Processing CIL: 116657701 | CPE: PT0002000116657701XW
+-1 list result(s) found for that CPE
+
+
+-Trying row 1
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----116657701 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 9H8min**
+
+Processing CIL: 40464173 | CPE: PT0002000040464173FT
+-5 list result(s) found for that CPE
+
+
+-Trying row 1
+--nao é possivel procurar
+   Consumos tab not found...
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+
+-Trying row 4
+---No data for 2020 in this row.
+
+
+-Trying row 5
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----40464173 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 9H15min**
+40486418 sem credenciais para o site da EDP...
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 9H15min**
+
+Processing CIL: 40494245 | CPE: PT0002000040494245AB
+-4 list result(s) found for that CPE
+
+
+-Trying row 1
+--nao é possivel procurar
+   Consumos tab not found...
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+
+-Trying row 4
+---No data for 2020 in this row.
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 9H17min**
+
+Processing CIL: 65163638 | CPE: PT0002000065163638AH
+-4 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+---No data for 2020 in this row.
+
+
+-Trying row 4
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+ -----65163638 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 9H22min**
+65164049 sem credenciais para o site da EDP...
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 9H22min**
+
+Processing CIL: 65164448 | CPE: PT0002000065164448QT
 -4 list result(s) found for that CPE
 
 
@@ -1300,361 +3013,13 @@ Processing CIL: 6640078 | CPE: PT0002000066400783HQ
 -Trying row 4
 ---No data for 2020 in this row.
 
- -----6640078 - ORGANIZE EXCEL FILES IN REDE
+ -----65164448 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 5H52min**
+**DIA 07-07-2020 ÀS 9H28min**
 
-Processing CIL: 6640134 | CPE: PT0002000066401343CR
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 5H59min**
-
-Processing CIL: 6640425 | CPE: PT0002000066404252PN
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 6H3min**
-
-Processing CIL: 6641462 | CPE: PT0002000066414622ED
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
-
--Trying row 3
----No data for 2020 in this row.
-
- -----6641462 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 6H11min**
-
-Processing CIL: 6795599 | CPE: PT0002000067955992QB
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
----No data for 2020 in this row.
-
-
--Trying row 3
-
---Trying month 6-2020...
----Month 6-2020 not available: skipping Jun...
-
---Trying month 7-2020...
----Month 7-2020 not available: skipping Jul...
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 6H14min**
-
-Processing CIL: 6814007 | CPE: PT0002000068140071SK
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
-
--Trying row 3
----No data for 2020 in this row.
-
- -----6814007 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 6H22min**
-
-Processing CIL: 6940318 | CPE: PT0002000069403189XW
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
-
--Trying row 3
----No data for 2020 in this row.
-
- -----6940318 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 6H30min**
-
-Processing CIL: 6944453 | CPE: PT0002000069444534JQ
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 6H33min**
-
-Processing CIL: 6944557 | CPE: PT0002000069445572NL
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
-
--Trying row 3
----No data for 2020 in this row.
-
- -----6944557 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 6H40min**
-
-Processing CIL: 7098383 | CPE: PT0002000070983831DS
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
-
--Trying row 3
----No data for 2020 in this row.
-
- -----7098383 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 6H49min**
-
-Processing CIL: 7215241 | CPE: PT0002000072152412XN
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
-
--Trying row 3
----No data for 2020 in this row.
-
- -----7215241 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 6H56min**
-
-Processing CIL: 7265892 | CPE: PT0002000072658922KQ
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
-
--Trying row 3
----No data for 2020 in this row.
-
- -----7265892 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 7H4min**
-
-Processing CIL: 7369799 | CPE: PT0002000073697991AZ
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
----No data for 2020 in this row.
-
-
--Trying row 3
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
- -----7369799 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 7H12min**
-
-Processing CIL: 7420596 | CPE: PT0002000074205965DX
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 7H16min**
-
-Processing CIL: 7478623 | CPE: PT0002000074786233FB
+Processing CIL: 65165418 | CPE: PT0002000065165418NG
 -3 list result(s) found for that CPE
 
 
@@ -1679,10 +3044,15 @@ Processing CIL: 7478623 | CPE: PT0002000074786233FB
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 7H21min**
+**DIA 07-07-2020 ÀS 9H32min**
+65167392 sem credenciais para o site da EDP...
+***DOWNLOAD DE FICHEIROS***
 
-Processing CIL: 7569402 | CPE: PT0002000075694026PV
--3 list result(s) found for that CPE
+
+**DIA 07-07-2020 ÀS 9H32min**
+
+Processing CIL: 65168156 | CPE: PT0002000065168156QM
+-4 list result(s) found for that CPE
 
 
 -Trying row 1
@@ -1690,35 +3060,10 @@ Processing CIL: 7569402 | CPE: PT0002000075694026PV
 
 
 -Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
+---No data for 2020 in this row.
 
 
 -Trying row 3
----No data for 2020 in this row.
-
- -----7569402 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 7H28min**
-
-Processing CIL: 7596313 | CPE: PT0002000075963139WF
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
 
 --Trying month 6-2020...
 ---Month 6-2020 available: Downloading Jun...
@@ -1728,26 +3073,30 @@ Processing CIL: 7596313 | CPE: PT0002000075963139WF
 --Trying month 7-2020...
 ---Month 7-2020 available: Downloading Jul...
 ---First attempt to click download button
+
+
+-Trying row 4
+---No data for 2020 in this row.
+
+ -----65168156 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 9H37min**
+
+Processing CIL: 65169809 | CPE: PT0002000065169809LW
+-4 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
 
 
 -Trying row 3
----No data for 2020 in this row.
-
- -----7596313 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 7H35min**
-
-Processing CIL: 7705356 | CPE: PT0002000077053561PE
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
 
 --Trying month 6-2020...
 ---Month 6-2020 available: Downloading Jun...
@@ -1757,19 +3106,51 @@ Processing CIL: 7705356 | CPE: PT0002000077053561PE
 --Trying month 7-2020...
 ---Month 7-2020 available: Downloading Jul...
 ---First attempt to click download button
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 9H40min**
+
+Processing CIL: 65169811 | CPE: PT0002000065169811LG
+-4 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
 
 
 -Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 4
 ---No data for 2020 in this row.
 
- -----7705356 - ORGANIZE EXCEL FILES IN REDE
+ -----65169811 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 7H42min**
+**DIA 07-07-2020 ÀS 9H46min**
+65169992 sem credenciais para o site da EDP...
+***DOWNLOAD DE FICHEIROS***
 
-Processing CIL: 7827799 | CPE: PT0002000078277993TA
--3 list result(s) found for that CPE
+
+**DIA 07-07-2020 ÀS 9H46min**
+
+Processing CIL: 65170405 | CPE: PT0002000065170405ET
+-4 list result(s) found for that CPE
 
 
 -Trying row 1
@@ -1777,6 +3158,10 @@ Processing CIL: 7827799 | CPE: PT0002000078277993TA
 
 
 -Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
 
 --Trying month 6-2020...
 ---Month 6-2020 available: Downloading Jun...
@@ -1789,9 +3174,75 @@ Processing CIL: 7827799 | CPE: PT0002000078277993TA
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 7H47min**
+**DIA 07-07-2020 ÀS 9H49min**
 
-Processing CIL: 7992887 | CPE: PT0002000079928875VZ
+Processing CIL: 65171875 | CPE: PT0002000065171875QK
+-4 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 4
+---No data for 2020 in this row.
+
+ -----65171875 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 9H53min**
+
+Processing CIL: 65171999 | CPE: PT0002000065171999EF
+-4 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 4
+---No data for 2020 in this row.
+
+ -----65171999 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 9H58min**
+
+Processing CIL: 65173655 | CPE: PT0002000065173655WF
 -2 list result(s) found for that CPE
 
 
@@ -1804,56 +3255,10 @@ Processing CIL: 7992887 | CPE: PT0002000079928875VZ
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 7H49min**
+**DIA 07-07-2020 ÀS 9H59min**
 
-Processing CIL: 8266081 | CPE: PT0002000082660814WJ
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 7H55min**
-
-Processing CIL: 8502695 | CPE: PT0002000085026959EX
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 7H58min**
-
-Processing CIL: 10004857 | CPE: PT0002000100048572MR
--3 list result(s) found for that CPE
+Processing CIL: 65174751 | CPE: PT0002000065174751AE
+-4 list result(s) found for that CPE
 
 
 -Trying row 1
@@ -1875,14 +3280,18 @@ Processing CIL: 10004857 | CPE: PT0002000100048572MR
 ---Month 7-2020 available: Downloading Jul...
 ---First attempt to click download button
 
- -----10004857 - ORGANIZE EXCEL FILES IN REDE
+
+-Trying row 4
+---No data for 2020 in this row.
+
+ -----65174751 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 8H4min**
+**DIA 07-07-2020 ÀS 10H4min**
 
-Processing CIL: 10157254 | CPE: PT0002000101572546RH
--3 list result(s) found for that CPE
+Processing CIL: 65174933 | CPE: PT0002000065174933BC
+-4 list result(s) found for that CPE
 
 
 -Trying row 1
@@ -1904,14 +3313,292 @@ Processing CIL: 10157254 | CPE: PT0002000101572546RH
 ---Month 7-2020 available: Downloading Jul...
 ---First attempt to click download button
 
- -----10157254 - ORGANIZE EXCEL FILES IN REDE
+
+-Trying row 4
+---No data for 2020 in this row.
+
+ -----65174933 - ORGANIZE EXCEL FILES IN REDE
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 8H8min**
+**DIA 07-07-2020 ÀS 10H10min**
 
-Processing CIL: 10355512 | CPE: PT0002000103555129CR
+Processing CIL: 65175082 | CPE: PT0002000065175082HP
+-4 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 4
+---No data for 2020 in this row.
+
+ -----65175082 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 10H15min**
+
+Processing CIL: 65176735 | CPE: PT0002000065176735KM
 -3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+---No data for 2020 in this row.
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 10H17min**
+
+Processing CIL: 65176746 | CPE: PT0002000065176746KQ
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+---No data for 2020 in this row.
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 10H18min**
+
+Processing CIL: 65176906 | CPE: PT0002000065176906MS
+-4 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 4
+---No data for 2020 in this row.
+
+ -----65176906 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 10H24min**
+
+Processing CIL: 65177658 | CPE: PT0002000065177658SP
+-4 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 4
+---No data for 2020 in this row.
+
+ -----65177658 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 10H30min**
+
+Processing CIL: 65177738 | CPE: PT0002000065177738HL
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+---No data for 2020 in this row.
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 10H32min**
+
+Processing CIL: 65177751 | CPE: PT0002000065177751LD
+-3 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+---No data for 2020 in this row.
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 10H33min**
+
+Processing CIL: 65179768 | CPE: PT0002000065179768SW
+-4 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 4
+---No data for 2020 in this row.
+
+ -----65179768 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 10H41min**
+
+Processing CIL: 65180615 | CPE: PT0002000065180615MK
+-4 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 4
+---No data for 2020 in this row.
+
+ -----65180615 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 10H48min**
+
+Processing CIL: 65181799 | CPE: PT0002000065181799BD
+-4 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2020 in this row.
+
+
+-Trying row 2
+---No data for 2020 in this row.
+
+
+-Trying row 3
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+
+
+-Trying row 4
+---No data for 2020 in this row.
+
+ -----65181799 - ORGANIZE EXCEL FILES IN REDE
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 07-07-2020 ÀS 10H53min**
+
+Processing CIL: 65181959 | CPE: PT0002000065181959HP
+-4 list result(s) found for that CPE
 
 
 -Trying row 1
@@ -1935,35 +3622,10 @@ Processing CIL: 10355512 | CPE: PT0002000103555129CR
 ***DOWNLOAD DE FICHEIROS***
 
 
-**DIA 02-07-2020 ÀS 8H13min**
+**DIA 07-07-2020 ÀS 10H58min**
 
-Processing CIL: 10369977 | CPE: PT0002000103699775FT
--2 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
- -----10369977 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 8H17min**
-
-Processing CIL: 10437291 | CPE: PT0002000104372911VH
--3 list result(s) found for that CPE
+Processing CIL: 65181959 | CPE: PT0002000065181959HP
+-4 list result(s) found for that CPE
 
 
 -Trying row 1
@@ -1984,681 +3646,3 @@ Processing CIL: 10437291 | CPE: PT0002000104372911VH
 --Trying month 7-2020...
 ---Month 7-2020 available: Downloading Jul...
 ---First attempt to click download button
-
- -----10437291 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 8H22min**
-
-Processing CIL: 10584751 | CPE: PT0002000105847519FG
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
----No data for 2020 in this row.
-
-
--Trying row 3
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
- -----10584751 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 8H26min**
-
-Processing CIL: 10707957 | CPE: PT0002000107079575FL
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
----No data for 2020 in this row.
-
-
--Trying row 3
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
- -----10707957 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 8H31min**
-
-Processing CIL: 10859506 | CPE: PT0002000108595063AZ
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
----No data for 2020 in this row.
-
-
--Trying row 3
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 8H34min**
-
-Processing CIL: 10951428 | CPE: PT0002000109514287HC
--2 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 8H36min**
-
-Processing CIL: 10966989 | CPE: PT0002000109669896EB
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
----No data for 2020 in this row.
-
-
--Trying row 3
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
- -----10966989 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 8H41min**
-
-Processing CIL: 11253006 | CPE: PT0002000112530067QV
--2 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 8H44min**
-
-Processing CIL: 11450228 | CPE: PT0002000114502281KG
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
----No data for 2020 in this row.
-
-
--Trying row 3
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
- -----11450228 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 8H49min**
-
-Processing CIL: 11616653 | CPE: PT0002000116166533KE
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
----No data for 2020 in this row.
-
-
--Trying row 3
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
- -----11616653 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 8H53min**
-
-Processing CIL: 11664927 | CPE: PT0002000116649279BK
--2 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
- -----11664927 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 8H57min**
-
-Processing CIL: 11665770 | CPE: PT0002000116657701XW
--1 list result(s) found for that CPE
-
-
--Trying row 1
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
- -----11665770 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 9H1min**
-
-Processing CIL: 11695570 | CPE: PT0002000116955701VZ
--2 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
- -----11695570 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 9H5min**
-
-Processing CIL: 11766538 | CPE: PT0002000117665385FX
--2 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 9H7min**
-
-Processing CIL: 11938737 | CPE: PT0002000119387376BZ
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
----No data for 2020 in this row.
-
-
--Trying row 3
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
- -----11938737 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 9H12min**
-
-Processing CIL: 12042569 | CPE: PT0002000120425695YK
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
----No data for 2020 in this row.
-
-
--Trying row 3
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
- -----12042569 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 9H16min**
-
-Processing CIL: 6517444 | CPE: PT0002000065174443JJ
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
----No data for 2020 in this row.
-
-
--Trying row 3
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
- -----6517444 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 9H21min**
-
-Processing CIL: 6518715 | CPE: PT0002000065187152ZA
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
-
--Trying row 3
----No data for 2020 in this row.
-
- -----6518715 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 9H25min**
-
-Processing CIL: 6518936 | CPE: PT0002000065189364HF
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
-
--Trying row 3
----No data for 2020 in this row.
-
- -----6518936 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 9H30min**
-
-Processing CIL: 6519541 | CPE: PT0002000065195412MY
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
----No data for 2020 in this row.
-
-
--Trying row 3
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
- -----6519541 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 9H34min**
-
-Processing CIL: 6519642 | CPE: PT0002000065196426AP
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 9H37min**
-
-Processing CIL: 6519770 | CPE: PT0002000065197704NK
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
-
--Trying row 3
----No data for 2020 in this row.
-
- -----6519770 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 9H43min**
-
-Processing CIL: 6640134 | CPE: PT0002000066401343CR
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
-
--Trying row 3
----No data for 2020 in this row.
-
- -----6640134 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 9H48min**
-
-Processing CIL: 6640425 | CPE: PT0002000066404252PN
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
-
--Trying row 3
----No data for 2020 in this row.
-
- -----6640425 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 9H54min**
-
-Processing CIL: 6944453 | CPE: PT0002000069444534JQ
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
-
-
--Trying row 3
----No data for 2020 in this row.
-
- -----6944453 - ORGANIZE EXCEL FILES IN REDE
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 10H0min**
-
-Processing CIL: 7420596 | CPE: PT0002000074205965DX
--3 list result(s) found for that CPE
-
-
--Trying row 1
---nao é possivel procurar
-   Consumos tab not found...
-
-
--Trying row 2
---nao é possivel procurar
-   Consumos tab not found...
-
-
--Trying row 3
---No results found for this CPE. Trying next CPE...
-***DOWNLOAD DE FICHEIROS***
-
-
-**DIA 02-07-2020 ÀS 10H3min**
-
-Processing CIL: 7478623 | CPE: PT0002000074786233FB
-Search Box not available or took too long o load...
-Took too long to find search button...
--3 list result(s) found for that CPE
-
-
--Trying row 1
----No data for 2020 in this row.
-
-
--Trying row 2
----No data for 2020 in this row.
-
-
--Trying row 3
-
---Trying month 6-2020...
----Month 6-2020 available: Downloading Jun...
----First attempt to click download button
-   Success
-
---Trying month 7-2020...
----Month 7-2020 available: Downloading Jul...
----First attempt to click download button
->>>>>>> 5bc34ac02fe8ced25f7731c57c3447857ebc38f7
