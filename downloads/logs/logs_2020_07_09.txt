@@ -153,4 +153,24 @@ A tentar reunir informação para os cpes: PT0002000073394972FC	PT0002000065181959
 =======
 >>>>>>> 5bc34ac02fe8ced25f7731c57c3447857ebc38f7
 >>>>>>> 07a30d8ce2bf5597d8b8b302a2b250ff06cff25d
+<<<<<<< HEAD
+
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 09-07-2020 ÀS 12H35min**
+
+
+A tentar reunir informação para os cpes: PT0002000073394972FC PT0002000065181959HP PT0002000065181959HP PT0002000065181959HP......
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+=======
 >>>>>>> 02b7a24f5c8d0053daf4d249bedfc57f2954968f
+>>>>>>> bd4cca33e812acc908ec03ebb42ad2eb25bdc77e
