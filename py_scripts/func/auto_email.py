@@ -121,12 +121,17 @@ def send_auto_email(receiver_email, title, text, df=pd.DataFrame(), conditions={
     message["To"] = receiver_email
 
     # Create the plain-text and HTML version of your message
-    if not df.empty:
+    if len(df) > 30:
+        df_txt = df.iloc[:30, :]
+    else:
+        df_txt = df
+    if not df_txt.empty:
         if conditions:
             style_f = custom_style(conditions)
-            df_txt = df.to_html(formatters={d: style_f for d in df.columns.tolist()}, classes='mystyle', escape=False)
+            df_txt = df_txt.to_html(
+                formatters={d: style_f for d in df_txt.columns.tolist()}, classes='mystyle', escape=False)
         else:
-            df_txt = df.to_html(classes='mystyle', escape=False)
+            df_txt = df_txt.to_html(classes='mystyle', escape=False)
     else:
         df_txt = ''
 
@@ -185,5 +190,3 @@ def send_auto_email(receiver_email, title, text, df=pd.DataFrame(), conditions={
         server.sendmail(
             sender_email, receiver_email, message.as_string()
         )
-
-
