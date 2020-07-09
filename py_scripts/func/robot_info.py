@@ -303,6 +303,8 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
 
     for gestao_i in diff_gestao:
         # gestao_i = diff_gestao[0]
+        if not gestao_i:
+            continue
         usernames = df_db.loc[df_db.gestao == gestao_i.upper(), 'user'].unique()
         usernames_not_none = [u for u in usernames if u is not None]
         for username in usernames_not_none:
