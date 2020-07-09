@@ -63,11 +63,13 @@ def info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, tt):
 
     cpe_data = {}
     lista_button(driver)
-    success_search = search_cpe(driver, cpe, wait, f_logs)
-
-    if not success_search:
-        lista_button(driver)
+    try:
         success_search = search_cpe(driver, cpe, wait, f_logs)
+        if not success_search:
+            lista_button(driver)
+            success_search = search_cpe(driver, cpe, wait, f_logs)
+    except InvalidElementStateException:
+        print_text_both("-Not possible to search. trying to click in this page", f_logs)
 
     wait_loading_state(driver, 100)
 
@@ -86,12 +88,15 @@ def info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, tt):
         wait_loading_state(driver, 100)
 
         is_lista = lista_button(driver)
-        if is_lista:
-            success_search = search_cpe(driver, cpe, wait, f_logs)
-        if not success_search:
-            print_text_both("--nao é possivel procurar", f_logs)
-            continue
 
+        if is_lista:
+            try:
+                success_search = search_cpe(driver, cpe, wait, f_logs)
+                if not success_search:
+                    print_text_both("--nao é possivel procurar", f_logs)
+                    continue
+            except InvalidElementStateException:
+                print_text_both("-Not possible to search. trying to click for this row in this page", f_logs)
         try:
             rows = wait.until(ec.presence_of_all_elements_located((By.LINK_TEXT, cpe)))
             row = rows[index_row]
@@ -171,7 +176,7 @@ def write_data(data, email_address):
 
     df.to_excel(report_path)
     if len(df) > 30:
-        df = df.iloc[:30,:]
+        df = df.iloc[:30, :]
         txt_e = '(apenas as 30 primeiras linhas)'
     else:
         txt_e = ''
@@ -213,13 +218,12 @@ def login_edp(driver, wait, username, password_word):
     return
 
 
-def print_loading_bar(item, all_items, f_logs):
-    total_nr = len(all_items)
-    item_nr = all_items.index(item)+1
-    item_pct = round((item_nr/total_nr)*100, 1)
+def print_loading_bar(i, all_i, f_logs):
+    i = i+1
+    item_pct = round((i/all_i)*100, 1)
     item_pct_int = int(item_pct)
     print_text_both('\n\n||' + '-'*item_pct_int + f'{item_pct}% ' +
-                    ' '*(100-item_pct_int) + f'({item_nr}/{total_nr})', f_logs)
+                    ' '*(100-item_pct_int) + f'({i}/{all_i})', f_logs)
 
 
 def reopen_driver(driver, username, password_word):
@@ -243,20 +247,27 @@ def reopen_driver(driver, username, password_word):
 def trigger_only_active(driver, wait, f_logs):
     wait_loading_state(driver, 100)
     print_text_both(f"\n\n-------TURNING ON ACTIVO-------\n\n", f_logs)
-    wait.until(ec.element_to_be_clickable((By.ID, "edp-dropdown-state"))).click()
-    wait.until(ec.presence_of_element_located((By.ID, "checkbox_Inativo"))).click()
-    wait.until(ec.element_to_be_clickable((By.ID, "btn-filter"))).click()
-    wait_loading_state(driver, 100)
+    try:
+        wait.until(ec.element_to_be_clickable((By.ID, "edp-dropdown-state"))).click()
+
+        wait.until(ec.presence_of_element_located((By.ID, "checkbox_Inativo"))).click()
+        wait.until(ec.element_to_be_clickable((By.ID, "btn-filter"))).click()
+        wait_loading_state(driver, 100)
+    except Exception as e:
+        print_text_both(f"\n\n-------!!FAILED!! TURNING ON ACTIVO-------: {e}\n\n", f_logs)
 
 
 def trigger_no_BTN(driver, wait, f_logs):
     wait_loading_state(driver, 100)
     print_text_both(f"\n\n-------REMOVING BTN FROM LIST-------\n\n", f_logs)
-    wait.until(ec.element_to_be_clickable((By.ID, "edp-dropdown-voltage-level"))).click()
-    wait.until(ec.presence_of_element_located((By.ID, "checkbox_BTN"))).click()
-    all_filters = wait.until(ec.presence_of_all_elements_located((By.ID, "btn-filter")))
-    tt_filter = [a for a in all_filters if 'filtrar' in a.text.lower()][0]
-    tt_filter.click()
+    try:
+        wait.until(ec.element_to_be_clickable((By.ID, "edp-dropdown-voltage-level"))).click()
+        wait.until(ec.presence_of_element_located((By.ID, "checkbox_BTN"))).click()
+        all_filters = wait.until(ec.presence_of_all_elements_located((By.ID, "btn-filter")))
+        tt_filter = [a for a in all_filters if 'filtrar' in a.text.lower()][0]
+        tt_filter.click()
+    except Exception as e:
+        print_text_both(f"\n\n-------!!FAILED!! REMOVING BTN FROM LIST-------: {e}\n\n", f_logs)
     wait_loading_state(driver, 100)
 
 
@@ -291,6 +302,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
     all_cpes_data = {}
 
     for gestao_i in diff_gestao:
+        # gestao_i = diff_gestao[0]
         usernames = df_db.loc[df_db.gestao == gestao_i.upper(), 'user'].unique()
         usernames_not_none = [u for u in usernames if u is not None]
         for username in usernames_not_none:
@@ -360,6 +372,8 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
                         break
                 # temporary save cpes gathered, in case of some sort of failure
                 df_cpes_user = pd.DataFrame(cpes_user)
+                df_cpes_user.drop_duplicates(subset='cpe', inplace=True)
+                df_cpes_user.reset_index(drop=True, inplace=True)
                 cpes_user_path = os.path.join(logs_dir, 'cpes_' + str_to_path(username) + '.csv')
                 df_cpes_user.to_csv(cpes_user_path)
                 print_text_both(f"\n------>ALL CPES GATHERED: {len(cpes_user)} cpes\n", f_logs)
@@ -368,14 +382,16 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
 
             print_text_both(f"\n\n------------------ GOING FOR INFO OF EACH CPE ----------------------\n\n", f_logs)
 
-            for cpe_tt in cpes_user:
-                cpe = cpe_tt['cpe']
-                print_loading_bar(cpe_tt, cpes_user, f_logs)
+            for i, row in df_cpes_user.iterrows():
+                # cpe_tt = cpes_user[0]
+                cpe = row.cpe
+                tt = row.tt
+                print_loading_bar(i, len(df_cpes_user), f_logs)
                 print_text_both(f"Trying cpe {cpe}", f_logs)
 
                 try:
-                    res, all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, cpe_tt['tt'])
-                    # all_cpes_data['tt'] = cpe_tt['tt']
+                    res, all_cpes_data = info_cpe(cpe, driver, wait, f_logs, wait_short, all_cpes_data, tt)
+
                     if res:
                         print_text_both(f"SUCCESS!", f_logs)
                     else:
@@ -389,21 +405,21 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
                                 trigger_no_BTN(driver, wait, f_logs)
 
                             res, all_cpes_data = info_cpe(cpe, driver, wait, f_logs,
-                                                          wait_short, all_cpes_data, cpe_tt['tt'])
+                                                          wait_short, all_cpes_data, tt)
                             if res:
                                 print_text_both(f"SUCCESS!", f_logs)
                             else:
                                 print_text_both(
                                     f"\n\n---->>>>!!Something went wrong with {cpe}. Trying again later....\n\n", f_logs)
-                                cpes_fail.append(cpe_tt)
+                                cpes_fail.append({'cpe': cpe, 'tt': tt})
                         except Exception as e:
                             print_text_both(f"-!!Something went wrong: {e}", f_logs)
                             print_text_both(
                                 f"\n\n---->>>>!!Something went wrong with {cpe}. Trying again later....\n\n", f_logs)
-                            cpes_fail.append(cpe_tt)
+                            cpes_fail.append({'cpe': cpe, 'tt': tt})
 
-                except:
-                    print_text_both(f"-!!Something went wrong. Trying Close and Reopen Driver...", f_logs)
+                except Exception as e:
+                    print_text_both(f"-!!Something went wrong. Trying Close and Reopen Driver...: {e}", f_logs)
                     try:
                         driver, action, wait, wait_long, wait_short = reopen_driver(driver, username, password_word)
 
@@ -413,18 +429,18 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
                             trigger_no_BTN(driver, wait, f_logs)
 
                         res, all_cpes_data = info_cpe(cpe, driver, wait, f_logs,
-                                                      wait_short, all_cpes_data, cpe_tt['tt'])
+                                                      wait_short, all_cpes_data, tt)
                         if res:
                             print_text_both(f"SUCCESS!", f_logs)
                         else:
                             print_text_both(
                                 f"\n\n---->>>>!!Something went wrong with {cpe}. Trying again later....\n\n", f_logs)
-                            cpes_fail.append(cpe_tt)
+                            cpes_fail.append({'cpe': cpe, 'tt': tt})
                     except Exception as e:
                         print_text_both(f"-!!Something went wrong: {e}", f_logs)
                         print_text_both(
                             f"\n\n---->>>>!!Something went wrong with {cpe}. Trying again later....\n\n", f_logs)
-                        cpes_fail.append(cpe_tt)
+                        cpes_fail.append({'cpe': cpe, 'tt': tt})
 
             if cpes_fail:
                 driver, action, wait, wait_long, wait_short = reopen_driver(driver, username, password_word)
@@ -448,8 +464,8 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
                             print_text_both(
                                 f"\n\n---->>>>!!Something went wrong with {cpe}.  Quit trying!", f_logs)
                             cpes_fail_again.append(cpe_tt)
-                    except:
-                        print_text_both(f"Something went wrong with {cpe}. Quit trying!", f_logs)
+                    except Exception as e:
+                        print_text_both(f"Something went wrong with {cpe}. Quit trying!: {e}", f_logs)
                         cpes_fail_again.append(cpe_tt)
 
                 df_cpes_fail = pd.DataFrame(cpes_fail_again)
