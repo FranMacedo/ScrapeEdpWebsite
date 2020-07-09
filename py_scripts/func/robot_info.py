@@ -370,13 +370,14 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
                             break
                     except:
                         break
-                # temporary save cpes gathered, in case of some sort of failure
-                df_cpes_user = pd.DataFrame(cpes_user)
-                df_cpes_user.drop_duplicates(subset='cpe', inplace=True)
-                df_cpes_user.reset_index(drop=True, inplace=True)
-                cpes_user_path = os.path.join(logs_dir, 'cpes_' + str_to_path(username) + '.csv')
-                df_cpes_user.to_csv(cpes_user_path)
-                print_text_both(f"\n------>ALL CPES GATHERED: {len(cpes_user)} cpes\n", f_logs)
+            # temporary save cpes gathered, in case of some sort of failure
+
+            df_cpes_user = pd.DataFrame(cpes_user)
+            df_cpes_user.drop_duplicates(subset='cpe', inplace=True)
+            df_cpes_user.reset_index(drop=True, inplace=True)
+            cpes_user_path = os.path.join(logs_dir, 'cpes_' + str_to_path(username) + '.csv')
+            df_cpes_user.to_csv(cpes_user_path)
+            print_text_both(f"\n------>ALL CPES GATHERED: {len(df_cpes_user)} cpes\n", f_logs)
 
             cpes_fail = []
 
