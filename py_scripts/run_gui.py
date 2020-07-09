@@ -123,7 +123,10 @@ while True:                  # the event loop
             else:
                 gestao = values['GESTAO']
             if values['CILS-OR-CPES']:
-                cils_or_cpes = list(values['CILS-OR-CPES'].split(','))
+                import re
+                cils_or_cpes = re.split('; |, |\*|\n\t',values['CILS-OR-CPES'])
+                # cils_or_cpes = list(values['CILS-OR-CPES'].split(','))
+                cils_or_cpes = [c.strip(' \t,.*#\n ') for c in cils_or_cpes]
             else:
                 cils_or_cpes = None
 
@@ -173,8 +176,11 @@ while True:                  # the event loop
             else:
                 gestao = values['GESTAO_INFO']
             if values['CILS-OR-CPES_INFO']:
-                cils_or_cpes = list(values['CILS-OR-CPES_INFO'].split(','))
+                import re
+                cils_or_cpes = re.split('; |, |\*|\n\t',values['CILS-OR-CPES_INFO'])
+                # cils_or_cpes = list(values['CILS-OR-CPES_INFO'].split(','))
                 cils_or_cpes = [c.strip(' \t,.*#\n ') for c in cils_or_cpes]
+                print('CILS OR CPES: ', cils_or_cpes)
             else:
                 cils_or_cpes = None
 
