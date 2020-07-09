@@ -1,0 +1,1250 @@
+
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 06-07-2020 ÀS 14H46min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 06-07-2020 ÀS 14H51min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (85, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: headless chrome=83.0.4103.116)
+
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+
+------>ALL CPES GATHERED: 8 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-!!Something went wrong. Trying Close and Reopen Driver...
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (85, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: headless chrome=83.0.4103.116)
+
+
+
+-!!Something went wrong: Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: headless chrome=83.0.4103.116)
+
+
+
+---->>>>!!Something went wrong with PT0002000067728053LW. Trying again later....
+
+
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-!!Something went wrong. Trying Close and Reopen Driver...
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (85, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: headless chrome=83.0.4103.116)
+
+
+
+-!!Something went wrong: Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: headless chrome=83.0.4103.116)
+
+
+
+---->>>>!!Something went wrong with PT0002000067728053LW. Trying again later....
+
+
+
+
+||-------------------------------------37.5%                                                                (3/8)
+Trying cpe PT0002000039021608FH
+-!!Something went wrong. Trying Close and Reopen Driver...
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (85, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: headless chrome=83.0.4103.116)
+
+
+
+-!!Something went wrong: Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: headless chrome=83.0.4103.116)
+
+
+
+---->>>>!!Something went wrong with PT0002000039021608FH. Trying again later....
+
+
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-!!Something went wrong. Trying Close and Reopen Driver...
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (85, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: headless chrome=83.0.4103.116)
+
+
+
+-!!Something went wrong: Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: headless chrome=83.0.4103.116)
+
+
+
+---->>>>!!Something went wrong with PT0002000067728053LW. Trying again later....
+
+
+
+
+||--------------------------------------------------------------62.5%                                       (5/8)
+Trying cpe PT0002000101590641YN
+-!!Something went wrong. Trying Close and Reopen Driver...
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 06-07-2020 ÀS 14H54min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+
+------>ALL CPES GATHERED: 8 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-!!Something went wrong. Trying Close and Reopen Driver...
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+-!!Something went wrong: Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=83.0.4103.116)
+
+
+
+---->>>>!!Something went wrong with PT0002000067728053LW. Trying again later....
+
+
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-!!Something went wrong. Trying Close and Reopen Driver...
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+-!!Something went wrong: Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=83.0.4103.116)
+
+
+
+---->>>>!!Something went wrong with PT0002000067728053LW. Trying again later....
+
+
+
+
+||-------------------------------------37.5%                                                                (3/8)
+Trying cpe PT0002000039021608FH
+-!!Something went wrong. Trying Close and Reopen Driver...
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+-!!Something went wrong: Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=83.0.4103.116)
+
+
+
+---->>>>!!Something went wrong with PT0002000039021608FH. Trying again later....
+
+
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-!!Something went wrong. Trying Close and Reopen Driver...
+-!!Something went wrong: Message: session not created
+from chrome not reachable
+  (Session info: chrome=83.0.4103.116)
+
+
+
+---->>>>!!Something went wrong with PT0002000067728053LW. Trying again later....
+
+
+
+
+||--------------------------------------------------------------62.5%                                       (5/8)
+Trying cpe PT0002000101590641YN
+-!!Something went wrong. Trying Close and Reopen Driver...
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 06-07-2020 ÀS 14H57min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+
+------>ALL CPES GATHERED: 8 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-!!Something went wrong. Trying Close and Reopen Driver...: Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=83.0.4103.116)
+
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 06-07-2020 ÀS 14H59min**
+
+
+------------------ GOING FOR ALL CPES ----------------------
+
+
+
+------>ALL CPES GATHERED: 8 cpes
+
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-6 list result(s) found for that CPE
+--Trying row 1
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 06-07-2020 ÀS 15H12min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+
+------>ALL CPES GATHERED: 8 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-!!Something went wrong. Trying Close and Reopen Driver...: name 'selenium' is not defined
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+-!!Something went wrong: name 'selenium' is not defined
+
+
+---->>>>!!Something went wrong with PT0002000067728053LW. Trying again later....
+
+
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-!!Something went wrong. Trying Close and Reopen Driver...: name 'selenium' is not defined
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+-!!Something went wrong: name 'selenium' is not defined
+
+
+---->>>>!!Something went wrong with PT0002000067728053LW. Trying again later....
+
+
+
+
+||-------------------------------------37.5%                                                                (3/8)
+Trying cpe PT0002000039021608FH
+-!!Something went wrong. Trying Close and Reopen Driver...: name 'selenium' is not defined
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+-!!Something went wrong: name 'selenium' is not defined
+
+
+---->>>>!!Something went wrong with PT0002000039021608FH. Trying again later....
+
+
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-!!Something went wrong. Trying Close and Reopen Driver...: name 'selenium' is not defined
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 06-07-2020 ÀS 15H14min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+
+------>ALL CPES GATHERED: 8 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-!!Something went wrong. Trying Close and Reopen Driver...: name 'selenium' is not defined
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+-!!Something went wrong: name 'selenium' is not defined
+
+
+---->>>>!!Something went wrong with PT0002000067728053LW. Trying again later....
+
+
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-!!Something went wrong. Trying Close and Reopen Driver...: name 'selenium' is not defined
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+-!!Something went wrong: name 'selenium' is not defined
+
+
+---->>>>!!Something went wrong with PT0002000067728053LW. Trying again later....
+
+
+
+
+||-------------------------------------37.5%                                                                (3/8)
+Trying cpe PT0002000039021608FH
+-!!Something went wrong. Trying Close and Reopen Driver...: name 'selenium' is not defined
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+-!!Something went wrong: name 'selenium' is not defined
+
+
+---->>>>!!Something went wrong with PT0002000039021608FH. Trying again later....
+
+
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-!!Something went wrong. Trying Close and Reopen Driver...: name 'selenium' is not defined
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+-!!Something went wrong: name 'selenium' is not defined
+
+
+---->>>>!!Something went wrong with PT0002000067728053LW. Trying again later....
+
+
+
+
+||--------------------------------------------------------------62.5%                                       (5/8)
+Trying cpe PT0002000101590641YN
+-!!Something went wrong. Trying Close and Reopen Driver...: name 'selenium' is not defined
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+-!!Something went wrong: name 'selenium' is not defined
+
+
+---->>>>!!Something went wrong with PT0002000101590641YN. Trying again later....
+
+
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-!!Something went wrong. Trying Close and Reopen Driver...: name 'selenium' is not defined
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+-!!Something went wrong: name 'selenium' is not defined
+
+
+---->>>>!!Something went wrong with PT0002000067728053LW. Trying again later....
+
+
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-!!Something went wrong. Trying Close and Reopen Driver...: name 'selenium' is not defined
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+-!!Something went wrong: name 'selenium' is not defined
+
+
+---->>>>!!Something went wrong with PT0002000067728053LW. Trying again later....
+
+
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-!!Something went wrong. Trying Close and Reopen Driver...: name 'selenium' is not defined
+-!!Something went wrong: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+
+
+---->>>>!!Something went wrong with PT0002000067728053LW. Trying again later....
+
+
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 06-07-2020 ÀS 15H28min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+
+------>ALL CPES GATHERED: 8 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-Not possible to search. trying to click in this page
+-6 list result(s) found for that CPE
+--Trying row 1
+--Trying row 2
+-Not possible to search. trying to click for this row in this page
+--Trying row 3
+-Not possible to search. trying to click for this row in this page
+--Trying row 4
+-Not possible to search. trying to click for this row in this page
+--Trying row 5
+-Not possible to search. trying to click for this row in this page
+--Trying row 6
+-Not possible to search. trying to click for this row in this page
+SUCCESS!
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-Not possible to search. trying to click in this page
+-6 list result(s) found for that CPE
+--Trying row 1
+--Trying row 2
+-Not possible to search. trying to click for this row in this page
+--Trying row 3
+-Not possible to search. trying to click for this row in this page
+--Trying row 4
+-Not possible to search. trying to click for this row in this page
+--Trying row 5
+-Not possible to search. trying to click for this row in this page
+--Trying row 6
+-Not possible to search. trying to click for this row in this page
+SUCCESS!
+
+
+||-------------------------------------37.5%                                                                (3/8)
+Trying cpe PT0002000039021608FH
+-Not possible to search. trying to click in this page
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-Not possible to search. trying to click in this page
+-6 list result(s) found for that CPE
+--Trying row 1
+--Trying row 2
+-Not possible to search. trying to click for this row in this page
+--Trying row 3
+-Not possible to search. trying to click for this row in this page
+--Trying row 4
+-Not possible to search. trying to click for this row in this page
+--Trying row 5
+-Not possible to search. trying to click for this row in this page
+--Trying row 6
+-Not possible to search. trying to click for this row in this page
+SUCCESS!
+
+
+||--------------------------------------------------------------62.5%                                       (5/8)
+Trying cpe PT0002000101590641YN
+-Not possible to search. trying to click in this page
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-Not possible to search. trying to click in this page
+-6 list result(s) found for that CPE
+--Trying row 1
+--Trying row 2
+-Not possible to search. trying to click for this row in this page
+--Trying row 3
+-Not possible to search. trying to click for this row in this page
+--Trying row 4
+-Not possible to search. trying to click for this row in this page
+--Trying row 5
+-Not possible to search. trying to click for this row in this page
+--Trying row 6
+-Not possible to search. trying to click for this row in this page
+SUCCESS!
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-Not possible to search. trying to click in this page
+-6 list result(s) found for that CPE
+--Trying row 1
+--Trying row 2
+-Not possible to search. trying to click for this row in this page
+--Trying row 3
+-Not possible to search. trying to click for this row in this page
+--Trying row 4
+-Not possible to search. trying to click for this row in this page
+--Trying row 5
+-Not possible to search. trying to click for this row in this page
+--Trying row 6
+-Not possible to search. trying to click for this row in this page
+SUCCESS!
+
+
+||------------12.5%                                                                                         (1/8)
+Trying cpe PT0002000067728053LW
+-Not possible to search. trying to click in this page
+-6 list result(s) found for that CPE
+--Trying row 1
+--Trying row 2
+-Not possible to search. trying to click for this row in this page
+--Trying row 3
+-Not possible to search. trying to click for this row in this page
+--Trying row 4
+-Not possible to search. trying to click for this row in this page
+--Trying row 5
+-Not possible to search. trying to click for this row in this page
+--Trying row 6
+-Not possible to search. trying to click for this row in this page
+SUCCESS!
+
+
+||---------------------------------------------------------------------------------------87.5%              (7/8)
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 06-07-2020 ÀS 15H42min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+trying page 2/436
+trying page 3/436
+trying page 4/436
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 06-07-2020 ÀS 15H43min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+
+------>ALL CPES GATHERED: 8 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||0.0%                                                                                                     (0/3)
+Trying cpe PT0002000067728053LW
+-!!Something went wrong. Trying Close and Reopen Driver...: local variable 'cpe_tt' referenced before assignment
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+-!!Something went wrong: local variable 'cpe_tt' referenced before assignment
+
+
+---->>>>!!Something went wrong with PT0002000067728053LW. Trying again later....
+
+
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 06-07-2020 ÀS 15H48min**
+
+
+-------TURNING ON ACTIVO-------
+
+
+
+
+-------!!FAILED!! TURNING ON ACTIVO-------: Message: element click intercepted: Element <app-edp-dropdown id="edp-dropdown-state">...</app-edp-dropdown> is not clickable at point (86, 255). Other element would receive the click: <div class="my-4 my-sm-5">...</div>
+  (Session info: chrome=83.0.4103.116)
+
+
+
+
+
+------------------ GOING FOR ALL CPES THAT ARE ACTIVE----------------------
+
+
+
+------>ALL CPES GATHERED: 8 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||0.0%                                                                                                     (0/3)
+Trying cpe PT0002000067728053LW
+-Not possible to search. trying to click in this page
+-6 list result(s) found for that CPE
+--Trying row 1
+--Trying row 2
+-Not possible to search. trying to click for this row in this page
+--Trying row 3
+-Not possible to search. trying to click for this row in this page
+--Trying row 4
+-Not possible to search. trying to click for this row in this page
+--Trying row 5
+-Not possible to search. trying to click for this row in this page
+--Trying row 6
+-Not possible to search. trying to click for this row in this page
+SUCCESS!
+
+
+||---------------------------------33.3%                                                                    (1/3)
+Trying cpe PT0002000039021608FH
+-Not possible to search. trying to click in this page
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||------------------------------------------------------------------66.7%                                   (2/3)
+Trying cpe PT0002000101590641YN
+-Not possible to search. trying to click in this page
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 06-07-2020 ÀS 15H55min**
+
+Processing CIL: 67728053 | CPE: PT0002000067728053LW
+Search Box not available or took too long o load...
+Took too long to find search button...
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 06-07-2020 ÀS 15H57min**
+
+Processing CIL: 67728053 | CPE: PT0002000067728053LW
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 06-07-2020 ÀS 16H1min**
+
+Processing CIL: 67728053 | CPE: PT0002000067728053LW
+Search Box not available or took too long o load...
+Took too long to find search button...
+-Not possible to search. trying to click in this page
+-6 list result(s) found for that CPE
+
+
+-Trying row 1
+-Not possible to search. trying to click in this page
+
+--Trying month 1-2017...
+---Month 1-2017 available: Downloading Jan...
+---First attempt to click download button
+   Success
+
+--Trying month 2-2017...
+---Month 2-2017 available: Downloading Fev...
+---First attempt to click download button
+   Success
+
+--Trying month 3-2017...
+---Month 3-2017 available: Downloading Mar...
+---First attempt to click download button
+   Success
+
+--Trying month 4-2017...
+---Month 4-2017 available: Downloading Abr...
+---First attempt to click download button
+   Success
+
+--Trying month 5-2017...
+---Month 5-2017 available: Downloading Mai...
+---First attempt to click download button
+   Success
+
+--Trying month 6-2017...
+---Month 6-2017 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2017...
+---Month 7-2017 available: Downloading Jul...
+---First attempt to click download button
+   Success
+
+--Trying month 8-2017...
+---Month 8-2017 available: Downloading Ago...
+---First attempt to click download button
+   Success
+
+--Trying month 9-2017...
+---Month 9-2017 available: Downloading Set...
+---First attempt to click download button
+   Success
+
+--Trying month 10-2017...
+---Month 10-2017 available: Downloading Out...
+---First attempt to click download button
+   Success
+
+--Trying month 11-2017...
+---Month 11-2017 available: Downloading Nov...
+---First attempt to click download button
+   Success
+
+--Trying month 12-2017...
+---Month 12-2017 available: Downloading Dez...
+---First attempt to click download button
+   Success
+
+--Trying month 1-2018...
+---Month 1-2018 available: Downloading Jan...
+---First attempt to click download button
+   Success
+
+--Trying month 2-2018...
+---Month 2-2018 available: Downloading Fev...
+---First attempt to click download button
+   Success
+
+--Trying month 3-2018...
+---Month 3-2018 available: Downloading Mar...
+---First attempt to click download button
+   Success
+
+--Trying month 4-2018...
+---Month 4-2018 available: Downloading Abr...
+---First attempt to click download button
+   Success
+
+--Trying month 5-2018...
+---Month 5-2018 available: Downloading Mai...
+---First attempt to click download button
+   Success
+
+--Trying month 6-2018...
+---Month 6-2018 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2018...
+---Month 7-2018 available: Downloading Jul...
+---First attempt to click download button
+   Success
+
+--Trying month 8-2018...
+---Month 8-2018 available: Downloading Ago...
+---First attempt to click download button
+   Success
+
+--Trying month 9-2018...
+---Month 9-2018 available: Downloading Set...
+---First attempt to click download button
+   Success
+
+--Trying month 10-2018...
+---Month 10-2018 available: Downloading Out...
+---First attempt to click download button
+   Success
+
+--Trying month 11-2018...
+---Month 11-2018 available: Downloading Nov...
+---First attempt to click download button
+   Success
+
+--Trying month 12-2018...
+---Month 12-2018 available: Downloading Dez...
+---First attempt to click download button
+   Success
+
+--Trying month 1-2019...
+---Month 1-2019 available: Downloading Jan...
+---First attempt to click download button
+   Success
+
+--Trying month 2-2019...
+---Month 2-2019 available: Downloading Fev...
+---First attempt to click download button
+   Success
+
+--Trying month 3-2019...
+---Month 3-2019 available: Downloading Mar...
+---First attempt to click download button
+   Success
+
+--Trying month 4-2019...
+---Month 4-2019 available: Downloading Abr...
+---First attempt to click download button
+   Success
+
+--Trying month 5-2019...
+---Month 5-2019 available: Downloading Mai...
+---First attempt to click download button
+   Success
+
+--Trying month 6-2019...
+---Month 6-2019 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2019...
+---Month 7-2019 available: Downloading Jul...
+---First attempt to click download button
+   Success
+
+--Trying month 8-2019...
+---Month 8-2019 available: Downloading Ago...
+---First attempt to click download button
+   Success
+
+--Trying month 9-2019...
+---Month 9-2019 available: Downloading Set...
+---First attempt to click download button
+   Success
+
+--Trying month 10-2019...
+---Month 10-2019 available: Downloading Out...
+---First attempt to click download button
+   Success
+
+--Trying month 11-2019...
+---Month 11-2019 available: Downloading Nov...
+---First attempt to click download button
+   Success
+
+--Trying month 12-2019...
+---Month 12-2019 available: Downloading Dez...
+---First attempt to click download button
+   Success
+
+--Trying month 1-2020...
+---Month 1-2020 available: Downloading Jan...
+---First attempt to click download button
+   Success
+
+--Trying month 2-2020...
+---Month 2-2020 available: Downloading Fev...
+---First attempt to click download button
+   Success
+
+--Trying month 3-2020...
+---Month 3-2020 available: Downloading Mar...
+---First attempt to click download button
+   Success
+
+--Trying month 4-2020...
+---Month 4-2020 available: Downloading Abr...
+---First attempt to click download button
+   Success
+
+--Trying month 5-2020...
+---Month 5-2020 available: Downloading Mai...
+---First attempt to click download button
+   Success
+
+--Trying month 6-2020...
+---Month 6-2020 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2020...
+---Month 7-2020 available: Downloading Jul...
+---First attempt to click download button
+   Success
+
+
+-Trying row 2
+-Not possible to search. trying to click in this page
+---No data for 2017 in this row.
+---No data for 2019 in this row.
+---No data for 2020 in this row.
+---No data for 2018 in this row.
+
+
+-Trying row 3
+-Not possible to search. trying to click in this page
+---No data for 2017 in this row.
+---No data for 2019 in this row.
+---No data for 2020 in this row.
+---No data for 2018 in this row.
+
+
+-Trying row 4
+-Not possible to search. trying to click in this page
+---No data for 2017 in this row.
+---No data for 2019 in this row.
+---No data for 2020 in this row.
+---No data for 2018 in this row.
+
+
+-Trying row 5
+-Not possible to search. trying to click in this page
+---No data for 2017 in this row.
+---No data for 2019 in this row.
+---No data for 2020 in this row.
+---No data for 2018 in this row.
+
+
+-Trying row 6
+-Not possible to search. trying to click in this page
+---No data for 2017 in this row.
+---No data for 2019 in this row.
+---No data for 2020 in this row.
+---No data for 2018 in this row.
+
+ -----67728053 - ORGANIZE EXCEL FILES IN REDE
+Ficheiro 20200706.xlsx sem dados - removido
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 06-07-2020 ÀS 17H33min**
+
+Processing CIL: 67728053 | CPE: PT0002000067728053LW
+Search Box not available or took too long o load...
+Took too long to find search button...
+-Not possible to search. trying to click in this page
+-6 list result(s) found for that CPE
+
+
+-Trying row 1
+-Not possible to search. trying to click in this page
+
+--Trying month 1-2017...
+---Month 1-2017 available: Downloading Jan...
+---First attempt to click download button
+   Success
+
+
+-Trying row 2
+-Not possible to search. trying to click in this page
+---No data for 2017 in this row.
+
+
+-Trying row 3
+-Not possible to search. trying to click in this page
+---No data for 2017 in this row.
+
+
+-Trying row 4
+-Not possible to search. trying to click in this page
+---No data for 2017 in this row.
+
+
+-Trying row 5
+-Not possible to search. trying to click in this page
+---No data for 2017 in this row.
+
+
+-Trying row 6
+-Not possible to search. trying to click in this page
+---No data for 2017 in this row.
+
+ -----67728053 - ORGANIZE EXCEL FILES IN REDE
+Ficheiro 20200706.xlsx sem dados - removido

@@ -5,6 +5,7 @@ from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import ElementClickInterceptedException
+from selenium.common.exceptions import InvalidElementStateException
 from selenium.common.exceptions import TimeoutException
 from selenium.common.exceptions import StaleElementReferenceException
 from selenium.common.exceptions import NoSuchWindowException
@@ -643,11 +644,13 @@ def robot(inst, ym, substituir, destination_path="Z:\\DATABASE\\ENERGIA\\DATAFIL
     login_button.click()
 
     lista_button(driver)
-    success_search = search_cpe(driver, cpe, wait, f_logs)
-
-    if not success_search:
-        lista_button(driver)
+    try:
         success_search = search_cpe(driver, cpe, wait, f_logs)
+        if not success_search:
+            lista_button(driver)
+            success_search = search_cpe(driver, cpe, wait, f_logs)
+    except InvalidElementStateException:
+        print_text_both("-Not possible to search. trying to click in this page", f_logs)
 
     wait_loading_state(driver, 100)
 
@@ -672,21 +675,24 @@ def robot(inst, ym, substituir, destination_path="Z:\\DATABASE\\ENERGIA\\DATAFIL
         wait_loading_state(driver, 100)
 
         lista_button(driver)
-        success_search = search_cpe(driver, cpe, wait, f_logs)
-        if not success_search:
-            lista_button(driver)
+        try:
             success_search = search_cpe(driver, cpe, wait, f_logs)
-
             if not success_search:
-                print_text_both("--nao é possivel procurar", f_logs)
-                try:
-                    driver.close()
-                    driver.quit()
-                except:
-                    pass
-                # report['download success'] = downloaded_yearmons
-                # report['download fail'] = not_downloaded_yearmons
-                return report
+                lista_button(driver)
+                success_search = search_cpe(driver, cpe, wait, f_logs)
+
+                if not success_search:
+                    print_text_both("--nao é possivel procurar", f_logs)
+                    try:
+                        driver.close()
+                        driver.quit()
+                    except:
+                        pass
+                    # report['download success'] = downloaded_yearmons
+                    # report['download fail'] = not_downloaded_yearmons
+                    return report
+        except InvalidElementStateException:
+            print_text_both("-Not possible to search. trying to click in this page", f_logs)
         try:
             rows = wait.until(ec.presence_of_all_elements_located((By.LINK_TEXT, cpe)))
             row = rows[index_row]
@@ -705,18 +711,20 @@ def robot(inst, ym, substituir, destination_path="Z:\\DATABASE\\ENERGIA\\DATAFIL
 
         except StaleElementReferenceException:
             lista_button(driver)
-            success_search = search_cpe(driver, cpe, wait, f_logs)
-            if not success_search:
-                print_text_both("--nao é possivel procurar", f_logs)
-                try:
-                    driver.close()
-                    driver.quit()
-                except:
-                    pass
-                # report['download success'] = downloaded_yearmons
-                # report['download fail'] = not_downloaded_yearmons
-                return report
-
+            try:
+                success_search = search_cpe(driver, cpe, wait, f_logs)
+                if not success_search:
+                    print_text_both("--nao é possivel procurar", f_logs)
+                    try:
+                        driver.close()
+                        driver.quit()
+                    except:
+                        pass
+                    # report['download success'] = downloaded_yearmons
+                    # report['download fail'] = not_downloaded_yearmons
+                    return report
+            except InvalidElementStateException:
+                print_text_both("-Not possible to search. trying to click in this page", f_logs)
             try:
                 rows = wait.until(ec.presence_of_all_elements_located((By.LINK_TEXT, cpe)))
                 row = rows[index_row]
