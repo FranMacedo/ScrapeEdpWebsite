@@ -286,11 +286,13 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
 
     if not get_new:
         cpes = get_cpes(gestao, cils_or_cpes, f_logs)
+
         if not cpes:
             print_text_both("done", f_logs)
             return False
-        print_text_both(f'\n\nA tentar reunir informação para {len(cpes)} cpes: {space_l(cpes)}......', f_logs)
+        print_text_both(f'\n\nA tentar reunir informação para {len(cpes)} cpes......', f_logs)
         diff_gestao = df_db.loc[df_db.cpe.isin(cpes), 'gestao'].unique()
+        diff_gestao = [g for g in diff_gestao if g is not None]
     else:
         cpes = []
         if gestao:
@@ -301,14 +303,17 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
 
     all_cpes_data = {}
 
+    cpes_in_db = df_db.loc[df_db.cpe.isin(cpes)].cpe.tolist()
+    cpes_NOT_in_db = [c for c in cpes if c not in cpes_in_db]
     for gestao_i in diff_gestao:
         # gestao_i = diff_gestao[0]
         if not gestao_i:
             continue
         usernames = df_db.loc[df_db.gestao == gestao_i.upper(), 'user'].unique()
         usernames_not_none = [u for u in usernames if u is not None]
+
         for username in usernames_not_none:
-            # username = usernames_not_none[0]
+            # username = usernames_not_none[-1]
             df_user = df_db.loc[df_db.user == username, :]
             password_word = df_user.loc[:, 'password'].iloc[0]
             if not get_new:
@@ -372,6 +377,31 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
                             break
                     except:
                         break
+
+            print_text_both('trying to get basic info of cpes not in our db...', f_logs)
+            for cpe in cpes_NOT_in_db:
+                # cpe = cpes_NOT_in_db[0]
+
+                try:
+                    success_search = search_cpe(driver, cpe, wait, f_logs)
+                    if not success_search:
+                        lista_button(driver)
+                        success_search = search_cpe(driver, cpe, wait, f_logs)
+                except InvalidElementStateException:
+                    print_text_both("-Not possible to search. trying to get from this page", f_logs)
+
+                wait_loading_state(driver, 100)
+                while True:
+                    i = 0
+                    try:
+                        possible_cpe = driver.find_element_by_id(f'btn-cpe-row-{i}').text
+                        possible_tt = driver.find_element_by_id(f'voltage-row-{i}').text
+                        if 'PT' in possible_cpe:
+                            print_text_both(f'added {cpe} to info', f_logs)
+                            cpes_user.append({'cpe': possible_cpe, 'tt': possible_tt})
+                    except NoSuchElementException:
+                        break
+                    i += 1
             # temporary save cpes gathered, in case of some sort of failure
 
             df_cpes_user = pd.DataFrame(cpes_user)
@@ -479,6 +509,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
                 driver.quit()
             except:
                 pass
+
     write_data(all_cpes_data, email_address)
     try:
         driver.close()
