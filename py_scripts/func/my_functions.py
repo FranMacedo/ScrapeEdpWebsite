@@ -28,6 +28,21 @@ def create_connection(db_file):
     return conn
 
 
+def dump_data(df, table_name, database):
+    # database = r"pacosConcelho.db"
+    conn = create_connection(database)
+    try:
+        df.drop('index', axis=1, inplace=True)
+    except KeyError:
+        pass
+    try:
+        df.drop('level_0', axis=1, inplace=True)
+    except KeyError:
+        pass
+    df.to_sql(table_name, conn, if_exists='replace')
+    return
+
+
 def connect_db(table_name, local=True):
     """ read table from db_file as a dataframe
     :param db_file: database file
