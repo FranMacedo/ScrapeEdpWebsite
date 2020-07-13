@@ -77,6 +77,9 @@ tab_info = [
     [sg.Text('Gestão', size=(20, 1)), sg.Combo(choices, key='GESTAO_INFO', default_value='None', enable_events=True)],
     [sg.Text('OU', size=(30, 1), font='Any 15', justification='center')],
     [sg.Text('CPEs ou CILs', size=(20, 1)), sg.InputText(key='CILS-OR-CPES_INFO', size=(60, 3), enable_events=True)],
+    [sg.Text('Read from file:', size=(20, 1)), sg.InputText(key='CPES-READ-FILE',
+                                                            size=(60, 3), enable_events=True), sg.FileBrowse(enable_events=True)],
+
 
     [sg.Text('Find if there are new CPEs?:', size=(30, 1)),
      sg.Radio('Yes', "GETNEW", key="GETNEW-TRUE", default=True, enable_events=True),
@@ -99,7 +102,7 @@ tab_info = [
 layout = [[sg.TabGroup([[sg.Tab('Downloads', tb_download, tooltip='Download telecontagem from EDP'), sg.Tab('Get Info', tab_info, tooltip='Gathers Info from EDP')]])],
           [sg.Text('', size=(70, 2)), sg.Cancel(button_color=('black', 'red'))]]
 
-
+cils_or_cpes_info = []
 window = sg.Window('Telecontagem Manager', layout)
 while True:                  # the event loop
     event, values = window.read()
@@ -154,6 +157,41 @@ while True:                  # the event loop
             is_download = True
             sg.PopupTimed('O download será realizado em breve...', title='Download Ready', auto_close_duration=3)
             break
+    elif event == 'CPES-READ-FILE':
+
+        file_path = values['CPES-READ-FILE']
+        try:
+            if [ext in file_path for ext in ['xlsx', 'xls']]:
+                df = pd.read_excel(file_path)
+
+            else:
+                df = pd.read_csv(file_path)
+
+            for c in df.columns:
+                if c.strip().upper() in ['CIL', 'CPE', 'CILS', 'CPES']:
+                    cils_or_cpes_info = df[c].tolist()
+                    window['CILS-OR-CPES_INFO'].update(','.join(cils_or_cpes_info))
+                    window['GETNEW-TRUE'].update(value=False)
+                    window['GETNEW-FALSE'].update(value=True)
+                    window['GESTAO_INFO'].update(value='None')
+                    break
+            if not cils_or_cpes_info:
+                col_names = df.columns
+                col_names_un = [u for u in col_names if 'Unnamed' in u]
+                if len(col_names_un) > 1:
+                    df.columns = df.iloc[0]
+                    df.drop(df.index[0], inplace=True)
+                    for c in df.columns:
+                        if c.strip().upper() in ['CIL', 'CPE', 'CILS', 'CPES']:
+                            cils_or_cpes_info = df[c].tolist()
+                            window['CILS-OR-CPES_INFO'].update(', '.join(cils_or_cpes_info))
+                            window['GETNEW-TRUE'].update(value=False)
+                            window['GETNEW-FALSE'].update(value=True)
+                            window['GESTAO_INFO'].update(value='None')
+                            break
+        except:
+            sg.PopupTimed('O ficheiro não tem o formato correcto... por favor escolha um ficheiro xls, xlsx ou csv e com uma coluna com nome cpe ou cil...',
+                          title='Erro no Ficheiro!', auto_close_duration=10)
 
     elif event == 'CILS-OR-CPES_INFO':
         if values['CILS-OR-CPES_INFO'] != '':
@@ -162,16 +200,18 @@ while True:                  # the event loop
             window['GESTAO_INFO'].update(value='None')
 
         else:
-            print('aqui!')
+
             window['GETNEW-TRUE'].update(value=True)
             # window['GETNEW-FALSE'].update(value=False)
 
     elif event == 'GETNEW-TRUE':
         if values['GETNEW-TRUE']:
             window['CILS-OR-CPES_INFO'].update('')
+            window['CPES-READ-FILE'].update('')
 
     elif event == 'GESTAO_INFO':
         window['CILS-OR-CPES_INFO'].update('')
+        window['CPES-READ-FILE'].update('')
 
     elif event == 'OK_INFO':
         res = validate_gestao_cpes(values['GESTAO_INFO'], values['CILS-OR-CPES_INFO'])
@@ -182,6 +222,9 @@ while True:                  # the event loop
             else:
                 gestao = values['GESTAO_INFO']
             if values['CILS-OR-CPES_INFO']:
+                # if cils_or_cpes_info:
+                #     cils_or_cpes = cils_or_cpes_info
+                # else:
                 cils_or_cpes = string_to_list(values['CILS-OR-CPES_INFO'])
             else:
                 cils_or_cpes = None

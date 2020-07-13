@@ -289,7 +289,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
         if not cpes:
             print_text_both("done", f_logs)
             return False
-        print_text_both(f'\n\nA tentar reunir informação para os cpes: {space_l(cpes)}......', f_logs)
+        print_text_both(f'\n\nA tentar reunir informação para {len(cpes)} cpes: {space_l(cpes)}......', f_logs)
         diff_gestao = df_db.loc[df_db.cpe.isin(cpes), 'gestao'].unique()
     else:
         cpes = []
