@@ -56,6 +56,7 @@ def get_cpes(gestao, cils_or_cpes, f_logs):
     if cpes_fail:
         print_text_both(f'::ERRO!:: SÓ nos cils/cpes: {space_l(cpes_fail)}. \n:::: -->Serão ignorados.', f_logs)
 
+    cpes = list(set(cpes))
     return cpes
 
 
@@ -305,15 +306,30 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
 
     cpes_in_db = df_db.loc[df_db.cpe.isin(cpes)].cpe.tolist()
     cpes_NOT_in_db = [c for c in cpes if c not in cpes_in_db]
+    diff_gestao_with_user = []
     for gestao_i in diff_gestao:
-        # gestao_i = diff_gestao[0]
+        # gestao_i = diff_gestao[2]
         if not gestao_i:
             continue
-        usernames = df_db.loc[df_db.gestao == gestao_i.upper(), 'user'].unique()
+        usernames = df_db.loc[df_db.gestao == gestao_i, 'user'].unique()
+        usernames_not_none = [u for u in usernames if u is not None]
+        if not usernames_not_none:
+            cpes_extra = df_db.loc[df_db.gestao == gestao_i, ].loc[df_db.cpe.isin(cpes)].cpe.tolist()
+            if cpes_extra:
+                cpes_NOT_in_db = cpes_NOT_in_db + cpes_extra
+            continue
+        else:
+            diff_gestao_with_user.append(gestao_i)
+    cpes_NOT_in_db = list(set(cpes_NOT_in_db))
+    for gestao_i in diff_gestao_with_user:
+        # gestao_i = diff_gestao_with_user[2]
+        if not gestao_i:
+            continue
+        usernames = df_db.loc[df_db.gestao == gestao_i, 'user'].unique()
         usernames_not_none = [u for u in usernames if u is not None]
 
         for username in usernames_not_none:
-            # username = usernames_not_none[-1]
+            # username = usernames_not_none[0]
             df_user = df_db.loc[df_db.user == username, :]
             password_word = df_user.loc[:, 'password'].iloc[0]
             if not get_new:
@@ -378,7 +394,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
                     except:
                         break
 
-            print_text_both('trying to get basic info of cpes not in our db...', f_logs)
+            print_text_both(f'trying to get basic info of {len(cpes_NOT_in_db)} cpes not in our db...', f_logs)
             for cpe in cpes_NOT_in_db:
                 # cpe = cpes_NOT_in_db[0]
 
@@ -391,8 +407,8 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
                     print_text_both("-Not possible to search. trying to get from this page", f_logs)
 
                 wait_loading_state(driver, 100)
+                i = 0
                 while True:
-                    i = 0
                     try:
                         possible_cpe = driver.find_element_by_id(f'btn-cpe-row-{i}').text
                         possible_tt = driver.find_element_by_id(f'voltage-row-{i}').text
@@ -401,6 +417,7 @@ def get_info(gestao=None, cils_or_cpes=None, get_new=False, only_active=False, n
                             cpes_user.append({'cpe': possible_cpe, 'tt': possible_tt})
                     except NoSuchElementException:
                         break
+                    print(i)
                     i += 1
             # temporary save cpes gathered, in case of some sort of failure
 

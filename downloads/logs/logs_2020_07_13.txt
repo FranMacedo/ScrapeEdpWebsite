@@ -592,3 +592,3030 @@ SUCCESS!
 Trying cpe PT0002000065179768SW
 -1 list result(s) found for that CPE
 --Trying row 1
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 13-07-2020 ÀS 14H9min**
+
+
+A tentar reunir informação para 723 cpes......
+
+
+-------TURNING ON ACTIVO-------
+
+
+trying to get basic info of cpes not in our db...
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 13-07-2020 ÀS 14H13min**
+
+
+A tentar reunir informação para 723 cpes......
+username direcao@agescolasmanuelmaia.net sem cpes associados... a tentar o próximo username
+username eb23.olaias@gmail.com sem cpes associados... a tentar o próximo username
+username laurinda.pereira@aenunogoncalves.com sem cpes associados... a tentar o próximo username
+
+
+-------TURNING ON ACTIVO-------
+
+
+trying to get basic info of cpes not in our db...
+
+------>ALL CPES GATHERED: 708 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||0.1%                                                                                                     (1/708)
+Trying cpe PT0002000040464173FT
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||0.3%                                                                                                     (2/708)
+Trying cpe PT0002000040464889SA
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||0.4%                                                                                                     (3/708)
+Trying cpe PT0002000040474714MF
+-1 list result(s) found for that CPE
+--Trying row 1
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 13-07-2020 ÀS 14H41min**
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 13-07-2020 ÀS 14H41min**
+
+
+A tentar reunir informação para 723 cpes......
+username direcao@agescolasmanuelmaia.net sem cpes associados... a tentar o próximo username
+username eb23.olaias@gmail.com sem cpes associados... a tentar o próximo username
+username laurinda.pereira@aenunogoncalves.com sem cpes associados... a tentar o próximo username
+
+
+-------TURNING ON ACTIVO-------
+
+
+trying to get basic info of cpes not in our db...
+
+------>ALL CPES GATHERED: 708 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||0.1%                                                                                                     (1/708)
+Trying cpe PT0002000040464173FT
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||0.3%                                                                                                     (2/708)
+Trying cpe PT0002000040464889SA
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||0.4%                                                                                                     (3/708)
+Trying cpe PT0002000040474714MF
+-1 list result(s) found for that CPE
+--Trying row 1
+
+
+A tentar reunir informação para 723 cpes......
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||0.6%                                                                                                     (4/708)
+Trying cpe PT0002000040496583JA
+-1 list result(s) found for that CPE
+--Trying row 1
+
+
+A tentar reunir informação para 723 cpes......
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||0.7%                                                                                                     (5/708)
+Trying cpe PT0002000065164448QT
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||0.8%                                                                                                     (6/708)
+Trying cpe PT0002000065165418NG
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-1.0%                                                                                                    (7/708)
+Trying cpe PT0002000065168156QM
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-1.1%                                                                                                    (8/708)
+Trying cpe PT0002000065169809LW
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-1.3%                                                                                                    (9/708)
+Trying cpe PT0002000065169811LG
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-1.4%                                                                                                    (10/708)
+Trying cpe PT0002000065170405ET
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-1.6%                                                                                                    (11/708)
+Trying cpe PT0002000065171875QK
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-1.7%                                                                                                    (12/708)
+Trying cpe PT0002000065171999EF
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-1.8%                                                                                                    (13/708)
+Trying cpe PT0002000065174751AE
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--2.0%                                                                                                   (14/708)
+Trying cpe PT0002000065175082HP
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--2.1%                                                                                                   (15/708)
+Trying cpe PT0002000065176906MS
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--2.3%                                                                                                   (16/708)
+Trying cpe PT0002000065179768SW
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--2.4%                                                                                                   (17/708)
+Trying cpe PT0002000065181959HP
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--2.5%                                                                                                   (18/708)
+Trying cpe PT0002000065183056CR
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--2.7%                                                                                                   (19/708)
+Trying cpe PT0002000065183672TL
+-No results found. Trying next CPE...
+-!!Something went wrong. Trying Close and Reopen Driver...
+
+
+-------TURNING ON ACTIVO-------
+
+
+-No results found. Trying next CPE...
+
+
+---->>>>!!Something went wrong with PT0002000065183672TL. Trying again later....
+
+
+
+
+||--2.8%                                                                                                   (20/708)
+Trying cpe PT0002000065186295EC
+-No results found. Trying next CPE...
+-!!Something went wrong. Trying Close and Reopen Driver...
+
+
+-------TURNING ON ACTIVO-------
+
+
+-No results found. Trying next CPE...
+
+
+---->>>>!!Something went wrong with PT0002000065186295EC. Trying again later....
+
+
+
+
+||---3.0%                                                                                                  (21/708)
+Trying cpe PT0002000065186568BV
+-1 list result(s) found for that CPE
+--Trying row 1
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 13-07-2020 ÀS 14H54min**
+
+
+A tentar reunir informação para 723 cpes......
+username direcao@agescolasmanuelmaia.net sem cpes associados... a tentar o próximo username
+username eb23.olaias@gmail.com sem cpes associados... a tentar o próximo username
+username laurinda.pereira@aenunogoncalves.com sem cpes associados... a tentar o próximo username
+
+
+-------TURNING ON ACTIVO-------
+
+
+trying to get basic info of cpes not in our db...
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 13-07-2020 ÀS 15H25min**
+
+
+A tentar reunir informação para 723 cpes......
+username direcao@agescolasmanuelmaia.net sem cpes associados... a tentar o próximo username
+username eb23.olaias@gmail.com sem cpes associados... a tentar o próximo username
+username laurinda.pereira@aenunogoncalves.com sem cpes associados... a tentar o próximo username
+
+
+-------TURNING ON ACTIVO-------
+
+
+trying to get basic info of cpes not in our db...
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+added PT0002000067909309XH to info
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 13-07-2020 ÀS 15H27min**
+
+
+A tentar reunir informação para 723 cpes......
+username direcao@agescolasmanuelmaia.net sem cpes associados... a tentar o próximo username
+username eb23.olaias@gmail.com sem cpes associados... a tentar o próximo username
+username laurinda.pereira@aenunogoncalves.com sem cpes associados... a tentar o próximo username
+
+
+-------TURNING ON ACTIVO-------
+
+
+trying to get basic info of cpes not in our db...
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+added PT0002000040495636VE to info
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 13-07-2020 ÀS 15H28min**
+
+
+A tentar reunir informação para 723 cpes......
+username direcao@agescolasmanuelmaia.net sem cpes associados... a tentar o próximo username
+username eb23.olaias@gmail.com sem cpes associados... a tentar o próximo username
+username laurinda.pereira@aenunogoncalves.com sem cpes associados... a tentar o próximo username
+
+
+-------TURNING ON ACTIVO-------
+
+
+trying to get basic info of cpes not in our db...
+added PT0002000040495636VE to info
+added PT0002000067909309XH to info
+added PT0002000065191896JD to info
+
+------>ALL CPES GATHERED: 711 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||0.1%                                                                                                     (1/711)
+Trying cpe PT0002000040464173FT
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||0.3%                                                                                                     (2/711)
+Trying cpe PT0002000040464889SA
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||0.4%                                                                                                     (3/711)
+Trying cpe PT0002000040474714MF
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||0.6%                                                                                                     (4/711)
+Trying cpe PT0002000040496583JA
+-1 list result(s) found for that CPE
+--Trying row 1
+
+
+***RECOLHA DE INFORMAÇÃO***
+**DIA 13-07-2020 ÀS 15H30min**
+
+
+A tentar reunir informação para 723 cpes......
+username direcao@agescolasmanuelmaia.net sem cpes associados... a tentar o próximo username
+username eb23.olaias@gmail.com sem cpes associados... a tentar o próximo username
+username laurinda.pereira@aenunogoncalves.com sem cpes associados... a tentar o próximo username
+
+
+-------TURNING ON ACTIVO-------
+
+
+trying to get basic info of 7 cpes not in our db...
+added PT0002000040495636VE to info
+added PT0002000067909309XH to info
+added PT0002000065191896JD to info
+
+------>ALL CPES GATHERED: 711 cpes
+
+
+
+------------------ GOING FOR INFO OF EACH CPE ----------------------
+
+
+
+
+||0.1%                                                                                                     (1/711)
+Trying cpe PT0002000040464173FT
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||0.3%                                                                                                     (2/711)
+Trying cpe PT0002000040464889SA
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||0.4%                                                                                                     (3/711)
+Trying cpe PT0002000040474714MF
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||0.6%                                                                                                     (4/711)
+Trying cpe PT0002000040496583JA
+-1 list result(s) found for that CPE
+--Trying row 1
+---!!Consumos tab not found...
+SUCCESS!
+
+
+||0.7%                                                                                                     (5/711)
+Trying cpe PT0002000065164448QT
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||0.8%                                                                                                     (6/711)
+Trying cpe PT0002000065165418NG
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-1.0%                                                                                                    (7/711)
+Trying cpe PT0002000065168156QM
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-1.1%                                                                                                    (8/711)
+Trying cpe PT0002000065169809LW
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-1.3%                                                                                                    (9/711)
+Trying cpe PT0002000065169811LG
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-1.4%                                                                                                    (10/711)
+Trying cpe PT0002000065170405ET
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-1.5%                                                                                                    (11/711)
+Trying cpe PT0002000065171875QK
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-1.7%                                                                                                    (12/711)
+Trying cpe PT0002000065171999EF
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-1.8%                                                                                                    (13/711)
+Trying cpe PT0002000065174751AE
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--2.0%                                                                                                   (14/711)
+Trying cpe PT0002000065175082HP
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--2.1%                                                                                                   (15/711)
+Trying cpe PT0002000065176906MS
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--2.3%                                                                                                   (16/711)
+Trying cpe PT0002000065179768SW
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--2.4%                                                                                                   (17/711)
+Trying cpe PT0002000065181959HP
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--2.5%                                                                                                   (18/711)
+Trying cpe PT0002000065183056CR
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--2.7%                                                                                                   (19/711)
+Trying cpe PT0002000065183672TL
+-No results found. Trying next CPE...
+-!!Something went wrong. Trying Close and Reopen Driver...
+
+
+-------TURNING ON ACTIVO-------
+
+
+-No results found. Trying next CPE...
+
+
+---->>>>!!Something went wrong with PT0002000065183672TL. Trying again later....
+
+
+
+
+||--2.8%                                                                                                   (20/711)
+Trying cpe PT0002000065186295EC
+-No results found. Trying next CPE...
+-!!Something went wrong. Trying Close and Reopen Driver...
+
+
+-------TURNING ON ACTIVO-------
+
+
+-No results found. Trying next CPE...
+
+
+---->>>>!!Something went wrong with PT0002000065186295EC. Trying again later....
+
+
+
+
+||---3.0%                                                                                                  (21/711)
+Trying cpe PT0002000065186568BV
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---3.1%                                                                                                  (22/711)
+Trying cpe PT0002000065186832TM
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---3.2%                                                                                                  (23/711)
+Trying cpe PT0002000065188428TZ
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---3.4%                                                                                                  (24/711)
+Trying cpe PT0002000065190211DA
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---3.5%                                                                                                  (25/711)
+Trying cpe PT0002000065190222DZ
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---3.7%                                                                                                  (26/711)
+Trying cpe PT0002000065192478SQ
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---3.8%                                                                                                  (27/711)
+Trying cpe PT0002000065193357FK
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---3.9%                                                                                                  (28/711)
+Trying cpe PT0002000065194145LG
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----4.1%                                                                                                 (29/711)
+Trying cpe PT0002000065195775KR
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----4.2%                                                                                                 (30/711)
+Trying cpe PT0002000065195957ME
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----4.4%                                                                                                 (31/711)
+Trying cpe PT0002000065197987WM
+-No results found. Trying next CPE...
+-!!Something went wrong. Trying Close and Reopen Driver...
+
+
+-------TURNING ON ACTIVO-------
+
+
+-No results found. Trying next CPE...
+
+
+---->>>>!!Something went wrong with PT0002000065197987WM. Trying again later....
+
+
+
+
+||----4.5%                                                                                                 (32/711)
+Trying cpe PT0002000066050362DT
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----4.6%                                                                                                 (33/711)
+Trying cpe PT0002000066081142JY
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----4.8%                                                                                                 (34/711)
+Trying cpe PT0002000067735968HM
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----4.9%                                                                                                 (35/711)
+Trying cpe PT0002000067952115PK
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-----5.1%                                                                                                (36/711)
+Trying cpe PT0002000067952514AY
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-----5.2%                                                                                                (37/711)
+Trying cpe PT0002000067952593YQ
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-----5.3%                                                                                                (38/711)
+Trying cpe PT0002000069356335LE
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-----5.5%                                                                                                (39/711)
+Trying cpe PT0002000069932039AJ
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-----5.6%                                                                                                (40/711)
+Trying cpe PT0002000072003873SF
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-----5.8%                                                                                                (41/711)
+Trying cpe PT0002000072658512AC
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-----5.9%                                                                                                (42/711)
+Trying cpe PT0002000072658556MH
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||------6.0%                                                                                               (43/711)
+Trying cpe PT0002000073174219TK
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||------6.2%                                                                                               (44/711)
+Trying cpe PT0002000073394881AK
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||------6.3%                                                                                               (45/711)
+Trying cpe PT0002000073394972FC
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||------6.5%                                                                                               (46/711)
+Trying cpe PT0002000074034292CD
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||------6.6%                                                                                               (47/711)
+Trying cpe PT0002000074109531WS
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||------6.8%                                                                                               (48/711)
+Trying cpe PT0002000074122401XM
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||------6.9%                                                                                               (49/711)
+Trying cpe PT0002000076614175HM
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-------7.0%                                                                                              (50/711)
+Trying cpe PT0002000077497553SE
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-------7.2%                                                                                              (51/711)
+Trying cpe PT0002000077675605YP
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-------7.3%                                                                                              (52/711)
+Trying cpe PT0002000078850926RY
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-------7.5%                                                                                              (53/711)
+Trying cpe PT0002000078878237SQ
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-------7.6%                                                                                              (54/711)
+Trying cpe PT0002000081890105GB
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-------7.7%                                                                                              (55/711)
+Trying cpe PT0002000083260248MK
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||-------7.9%                                                                                              (56/711)
+Trying cpe PT0002000083260306PX
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--------8.0%                                                                                             (57/711)
+Trying cpe PT0002000083333354XX
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--------8.2%                                                                                             (58/711)
+Trying cpe PT0002000083688587EP
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--------8.3%                                                                                             (59/711)
+Trying cpe PT0002000084180294XK
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--------8.4%                                                                                             (60/711)
+Trying cpe PT0002000084654521KB
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--------8.6%                                                                                             (61/711)
+Trying cpe PT0002000085098866CL
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--------8.7%                                                                                             (62/711)
+Trying cpe PT0002000100127768KP
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||--------8.9%                                                                                             (63/711)
+Trying cpe PT0002000100173222LZ
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---------9.0%                                                                                            (64/711)
+Trying cpe PT0002000100469793BT
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---------9.1%                                                                                            (65/711)
+Trying cpe PT0002000100565022BD
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---------9.3%                                                                                            (66/711)
+Trying cpe PT0002000101132989AZ
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---------9.4%                                                                                            (67/711)
+Trying cpe PT0002000101776814MT
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---------9.6%                                                                                            (68/711)
+Trying cpe PT0002000102239187YG
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---------9.7%                                                                                            (69/711)
+Trying cpe PT0002000102346815QS
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||---------9.8%                                                                                            (70/711)
+Trying cpe PT0002000103534093WX
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----------10.0%                                                                                           (71/711)
+Trying cpe PT0002000103636871DR
+-1 list result(s) found for that CPE
+--Trying row 1
+SUCCESS!
+
+
+||----------10.1%                                                                                           (72/711)
+Trying cpe PT0002000103704091XS
+-No results found. Trying next CPE...
+-!!Something went wrong. Trying Close and Reopen Driver...
+
+
+-------TURNING ON ACTIVO-------
+
+
+-No results found. Trying next CPE...
+
+
+---->>>>!!Something went wrong with PT0002000103704091XS. Trying again later....
+
+
+
+
+||----------10.3%                                                                                           (73/711)
+Trying cpe PT0002000103704103BG
+-No results found. Trying next CPE...
+-!!Something went wrong. Trying Close and Reopen Driver...
