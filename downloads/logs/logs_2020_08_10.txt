@@ -1,0 +1,19 @@
+
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 10-08-2020 ÀS 17H52min**
+
+Processing CIL: 65171102 | CPE: PT0002000065171102YF
+-4 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2019 in this row.
+
+
+-Trying row 2
+---No data for 2019 in this row.
+
+
+-Trying row 3
