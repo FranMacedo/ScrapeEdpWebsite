@@ -2,6 +2,7 @@
 ***DOWNLOAD DE FICHEIROS***
 
 
+<<<<<<< HEAD
 **DIA 10-08-2020 ÀS 0H0min**
 
 Processing CIL: 103704091 | CPE: PT0002000103704091XS
@@ -477,14 +478,21 @@ Processing CIL: 112507592 | CPE: PT0002000112507592MJ
 
 
 **DIA 10-08-2020 ÀS 17H45min**
+=======
+**DIA 10-08-2020 ÀS 17H52min**
+>>>>>>> 6391edf4d2c366df4e8ef4de63dfd07d1eee73c2
 
 Processing CIL: 65171102 | CPE: PT0002000065171102YF
 -4 list result(s) found for that CPE
 
 
 -Trying row 1
+<<<<<<< HEAD
 --nao é possivel procurar
    Consumos tab not found...
+=======
+---No data for 2019 in this row.
+>>>>>>> 6391edf4d2c366df4e8ef4de63dfd07d1eee73c2
 
 
 -Trying row 2
@@ -492,6 +500,7 @@ Processing CIL: 65171102 | CPE: PT0002000065171102YF
 
 
 -Trying row 3
+<<<<<<< HEAD
 
 --Trying month 1-2019...
 ---Month 1-2019 available: Downloading Jan...
@@ -505,3 +514,11 @@ Processing CIL: 65171102 | CPE: PT0002000065171102YF
 --Trying month 3-2019...
 ---Month 3-2019 available: Downloading Mar...
 ---First attempt to click download button
+=======
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 10-08-2020 ÀS 17H59min**
+
+Processing CIL: 65171102 | CPE: PT0002000065171102YF
+>>>>>>> 6391edf4d2c366df4e8ef4de63dfd07d1eee73c2

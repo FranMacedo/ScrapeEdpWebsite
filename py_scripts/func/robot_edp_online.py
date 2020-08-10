@@ -68,11 +68,11 @@ def headless_driver():
 
 
 def connect_driver():
-    from .env_vars import is_fixo
-    if is_fixo:
-        driver = headless_driver()
-    else:
-        driver = regular_driver()
+    # from .env_vars import is_fixo - for now, edp website has some issues with headless driver, better to do it always with regular
+    # if is_fixo:
+        # driver = headless_driver()
+    # else:
+    driver = regular_driver()
 
     driver.get("https://online.edpdistribuicao.pt/pt/Pages/Home.aspx")  # Inicio do website pretendido no webdriver
     action = ActionChains(driver)
