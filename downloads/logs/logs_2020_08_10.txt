@@ -522,3 +522,88 @@ Processing CIL: 65171102 | CPE: PT0002000065171102YF
 
 Processing CIL: 65171102 | CPE: PT0002000065171102YF
 >>>>>>> 6391edf4d2c366df4e8ef4de63dfd07d1eee73c2
+
+***DOWNLOAD DE FICHEIROS***
+
+
+**DIA 10-08-2020 ÀS 18H0min**
+
+Processing CIL: 65171102 | CPE: PT0002000065171102YF
+-4 list result(s) found for that CPE
+
+
+-Trying row 1
+---No data for 2019 in this row.
+
+
+-Trying row 2
+---No data for 2019 in this row.
+
+
+-Trying row 3
+
+--Trying month 1-2019...
+---Month 1-2019 available: Downloading Jan...
+---First attempt to click download button
+   Success
+
+--Trying month 2-2019...
+---Month 2-2019 available: Downloading Fev...
+---First attempt to click download button
+   Success
+
+--Trying month 3-2019...
+---Month 3-2019 available: Downloading Mar...
+---First attempt to click download button
+   Success
+
+--Trying month 4-2019...
+---Month 4-2019 available: Downloading Abr...
+---First attempt to click download button
+   Success
+
+--Trying month 5-2019...
+---Month 5-2019 available: Downloading Mai...
+---First attempt to click download button
+   Success
+
+--Trying month 6-2019...
+---Month 6-2019 available: Downloading Jun...
+---First attempt to click download button
+   Success
+
+--Trying month 7-2019...
+---Month 7-2019 available: Downloading Jul...
+---First attempt to click download button
+   Success
+
+--Trying month 8-2019...
+---Month 8-2019 available: Downloading Ago...
+---First attempt to click download button
+   Success
+
+--Trying month 9-2019...
+---Month 9-2019 available: Downloading Set...
+---First attempt to click download button
+   Success
+
+--Trying month 10-2019...
+---Month 10-2019 available: Downloading Out...
+---First attempt to click download button
+   Success
+
+--Trying month 11-2019...
+---Month 11-2019 available: Downloading Nov...
+---First attempt to click download button
+   Success
+
+--Trying month 12-2019...
+---Month 12-2019 available: Downloading Dez...
+---First attempt to click download button
+   Success
+
+
+-Trying row 4
+---No data for 2019 in this row.
+
+ -----65171102 - ORGANIZE EXCEL FILES IN REDE
