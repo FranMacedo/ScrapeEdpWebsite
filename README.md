@@ -4,6 +4,7 @@ Python Robot to download energy data from [edp website](https://online.edpdistri
 <div class="text-purple">
   This text is purple
 </div>
+
 ## Requirements
 requires database table that can be accessed through function ```connect_db``` from ```my_functions.py``` OR customize that function.
 
