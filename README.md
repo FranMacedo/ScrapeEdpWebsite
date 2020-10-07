@@ -1,9 +1,7 @@
 # Robot EDP Online
 Python Robot to download energy data from [edp website](https://online.edpdistribuicao.pt/login), for different instalations, for different months. Store data as excel files in specific folder.
 
-<div class="text-purple">
-  This text is purple
-</div>
+
 
 ## Requirements
 requires database table that can be accessed through function ```connect_db``` from ```my_functions.py``` OR customize that function.
