@@ -3,6 +3,9 @@
 env/
 !static/
 
+# drivers
+chromedriver
+
 # secret variables
 sec_vars.py
 
