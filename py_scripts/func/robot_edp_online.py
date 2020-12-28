@@ -70,7 +70,7 @@ def headless_driver():
 def connect_driver():
     # from .env_vars import is_fixo - for now, edp website has some issues with headless driver, better to do it always with regular
     # if is_fixo:
-        # driver = headless_driver()
+    # driver = headless_driver()
     # else:
     driver = regular_driver()
 
@@ -123,6 +123,11 @@ def wait_loading_state(driver, time):
     return
 
 
+def card_list_button(wait):
+    # new card button, 11/2020
+    wait.until(ec.presence_of_element_located((By.XPATH, "//*[contains(text(),'Lista')]"))).click()
+
+
 def search_cpe(driver, cpe, wait, f_logs):
     success_search = True
     wait_loading_state(driver, 100)
@@ -153,6 +158,8 @@ def search_cpe(driver, cpe, wait, f_logs):
 
         success_search = False
 
+    # new card button, 11/2020
+    card_list_button(wait)
     return success_search
 
 
