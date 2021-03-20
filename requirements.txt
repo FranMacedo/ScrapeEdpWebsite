@@ -2,7 +2,7 @@ autopep8==1.5.2
 configparser==5.0.0
 et-xmlfile==1.0.1
 jdcal==1.4.1
-Jinja2==2.11.2
+Jinja2==2.11.3
 keyring==21.2.1
 MarkupSafe==1.1.1
 numpy==1.18.4
